@@ -1,0 +1,33 @@
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: paralus-np
+  namespace: prod-tool
+spec:
+  podSelector:
+    matchLabels:
+      app.kubernetes.io/instance: paralus
+      app: paralus-filebeat
+  policyTypes:
+    - Ingress
+  ingress:
+    - from:
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: prod-tool
+          podSelector:
+            matchLabels:
+              app.kubernetes.io/instance: paralus
+              app: paralus-filebeat
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: kube-system
+          podSelector:
+            matchLabels:
+              app.kubernetes.io/instance: ingress-alb
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: paralus-system
+          podSelector:
+            matchLabels:
+              app: relay-agent

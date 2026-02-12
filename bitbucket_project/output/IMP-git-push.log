@@ -1,0 +1,282 @@
+all repos are: test-link-mailer placementadmin jobsview data_pipeline cts_landing_page application_open_drives previous-week-placements-mailer rekrut-reports database_redesign refresh_performance
+******************************-----------******************************
+working on repo test-link-mailer ........ 
+Actioned perform on branch for repo test-link-mailer are:   
+Cleanup completed... for test-link-mailer
+******************************-----------******************************
+working on repo placementadmin ........ 
+************* Processing for branch: Nainu-Wadhwa/env-created-online-with-bitbucket-1697532989057 *************
+branch 'Nainu-Wadhwa/env-created-online-with-bitbucket-1697532989057' set up to track 'origin/Nainu-Wadhwa/env-created-online-with-bitbucket-1697532989057'.
+[Nainu-Wadhwa/env-created-online-with-bitbucket-1697532989057 95a7a24] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: UISidebar *************
+branch 'UISidebar' set up to track 'origin/UISidebar'.
+[UISidebar 74b67bd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: apply *************
+branch 'apply' set up to track 'origin/apply'.
+[apply 81dda5b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: autodebar *************
+branch 'autodebar' set up to track 'origin/autodebar'.
+[autodebar 54bac96] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: commented_for_deployment *************
+branch 'commented_for_deployment' set up to track 'origin/commented_for_deployment'.
+[commented_for_deployment d55ced3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: degree-changes *************
+branch 'degree-changes' set up to track 'origin/degree-changes'.
+[degree-changes dd89520] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: deploy3apr *************
+branch 'deploy3apr' set up to track 'origin/deploy3apr'.
+[deploy3apr d7d3266] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: dev2023 *************
+branch 'dev2023' set up to track 'origin/dev2023'.
+[dev2023 3776994] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: devcopy *************
+branch 'devcopy' set up to track 'origin/devcopy'.
+[devcopy 458b2e0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: devv *************
+branch 'devv' set up to track 'origin/devv'.
+[devv 989d1a4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: eligibility *************
+branch 'eligibility' set up to track 'origin/eligibility'.
+[eligibility 7daeccd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: eligibilty-offlinecenter *************
+branch 'eligibilty-offlinecenter' set up to track 'origin/eligibilty-offlinecenter'.
+[eligibilty-offlinecenter 24d31af] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: importfix *************
+branch 'importfix' set up to track 'origin/importfix'.
+[importfix 1625f75] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: newstatus *************
+branch 'newstatus' set up to track 'origin/newstatus'.
+[newstatus 49b4169] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: offlinecenter *************
+branch 'offlinecenter' set up to track 'origin/offlinecenter'.
+[offlinecenter a075db1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: scheduler *************
+branch 'scheduler' set up to track 'origin/scheduler'.
+[scheduler 5cc5c69] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: updateclass *************
+branch 'updateclass' set up to track 'origin/updateclass'.
+[updateclass 90e53b9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo placementadmin are: Nainu-Wadhwa/env-created-online-with-bitbucket-1697532989057UISidebarapplyautodebarcommented_for_deploymentdegree-changesdeploy3aprdev2023devcopydevveligibilityeligibilty-offlinecenterimportfixnewstatusofflinecenterschedulerupdateclass  
+Cleanup completed... for placementadmin
+******************************-----------******************************
+working on repo jobsview ........ 
+************* Processing for branch: Profile *************
+branch 'Profile' set up to track 'origin/Profile'.
+[Profile 37f2c5f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: apply *************
+branch 'apply' set up to track 'origin/apply'.
+[apply e3e740e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: apply-nainu *************
+branch 'apply-nainu' set up to track 'origin/apply-nainu'.
+[apply-nainu 6cbac99] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: apply2 *************
+branch 'apply2' set up to track 'origin/apply2'.
+[apply2 aa34577] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: apply_12 *************
+branch 'apply_12' set up to track 'origin/apply_12'.
+[apply_12 c8ae642] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: b2b *************
+branch 'b2b' set up to track 'origin/b2b'.
+[b2b 0a9cb9c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: b2cdriveonlytob2c *************
+branch 'b2cdriveonlytob2c' set up to track 'origin/b2cdriveonlytob2c'.
+[b2cdriveonlytob2c f4f38b0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: commented_for_deployment *************
+branch 'commented_for_deployment' set up to track 'origin/commented_for_deployment'.
+[commented_for_deployment 48f8924] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: degree-changes *************
+branch 'degree-changes' set up to track 'origin/degree-changes'.
+[degree-changes 2202f81] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: deployenum *************
+branch 'deployenum' set up to track 'origin/deployenum'.
+[deployenum ce05dbb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: fixes *************
+branch 'fixes' set up to track 'origin/fixes'.
+[fixes 17b5a65] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: fixresumepreview *************
+branch 'fixresumepreview' set up to track 'origin/fixresumepreview'.
+[fixresumepreview 84542ba] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: hideperfrmance *************
+branch 'hideperfrmance' set up to track 'origin/hideperfrmance'.
+[hideperfrmance 04a34e9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: kconnectNXT *************
+branch 'kconnectNXT' set up to track 'origin/kconnectNXT'.
+[kconnectNXT 7197588] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: languify_frontend *************
+branch 'languify_frontend' set up to track 'origin/languify_frontend'.
+[languify_frontend 95b591e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: mainn *************
+branch 'mainn' set up to track 'origin/mainn'.
+[mainn 680a0c8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: mobileresponsive *************
+branch 'mobileresponsive' set up to track 'origin/mobileresponsive'.
+[mobileresponsive b0fe4d6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: nonpp *************
+branch 'nonpp' set up to track 'origin/nonpp'.
+[nonpp bbc0f82] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: offlinecenterdrives *************
+branch 'offlinecenterdrives' set up to track 'origin/offlinecenterdrives'.
+[offlinecenterdrives 262bbfd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: performanceE *************
+branch 'performanceE' set up to track 'origin/performanceE'.
+[performanceE b4e3dfd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: profilesectioncolor *************
+branch 'profilesectioncolor' set up to track 'origin/profilesectioncolor'.
+[profilesectioncolor 003f46e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: removejdlink *************
+branch 'removejdlink' set up to track 'origin/removejdlink'.
+[removejdlink 38b48c6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: resume-review *************
+branch 'resume-review' set up to track 'origin/resume-review'.
+[resume-review c727662] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: termsandconditions *************
+branch 'termsandconditions' set up to track 'origin/termsandconditions'.
+[termsandconditions abdaa13] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: token *************
+branch 'token' set up to track 'origin/token'.
+[token 9d5ce91] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: workexp *************
+branch 'workexp' set up to track 'origin/workexp'.
+[workexp dafc979] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo jobsview are: Profileapplyapply-nainuapply2apply_12b2bb2cdriveonlytob2ccommented_for_deploymentdegree-changesdeployenumfixesfixresumepreviewhideperfrmancekconnectNXTlanguify_frontendmainnmobileresponsivenonppofflinecenterdrivesperformanceEprofilesectioncolorremovejdlinkresume-reviewtermsandconditionstokenworkexp  
+Cleanup completed... for jobsview
+******************************-----------******************************
+working on repo data_pipeline ........ 
+Actioned perform on branch for repo data_pipeline are:   
+Cleanup completed... for data_pipeline
+******************************-----------******************************
+working on repo cts_landing_page ........ 
+************* Processing for branch: firstcommit *************
+branch 'firstcommit' set up to track 'origin/firstcommit'.
+[firstcommit cf9c54f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: maincopy *************
+branch 'maincopy' set up to track 'origin/maincopy'.
+[maincopy 2969171] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: newmain *************
+branch 'newmain' set up to track 'origin/newmain'.
+[newmain 736048b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo cts_landing_page are: firstcommitmaincopynewmain  
+Cleanup completed... for cts_landing_page
+******************************-----------******************************
+working on repo application_open_drives ........ 
+Actioned perform on branch for repo application_open_drives are:   
+Cleanup completed... for application_open_drives
+******************************-----------******************************
+working on repo previous-week-placements-mailer ........ 
+Actioned perform on branch for repo previous-week-placements-mailer are:   
+Cleanup completed... for previous-week-placements-mailer
+******************************-----------******************************
+working on repo rekrut-reports ........ 
+************* Processing for branch: JAS23 *************
+branch 'JAS23' set up to track 'origin/JAS23'.
+[JAS23 0cf93c2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: OND23 *************
+branch 'OND23' set up to track 'origin/OND23'.
+[OND23 201c706] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo rekrut-reports are: JAS23OND23  
+Cleanup completed... for rekrut-reports
+******************************-----------******************************
+working on repo database_redesign ........ 
+Actioned perform on branch for repo database_redesign are:   
+Cleanup completed... for database_redesign
+******************************-----------******************************
+working on repo refresh_performance ........ 
+Actioned perform on branch for repo refresh_performance are:   
+Cleanup completed... for refresh_performance
+Actioned perform on : test-link-mailerplacementadminjobsviewdata_pipelinects_landing_pageapplication_open_drivesprevious-week-placements-mailerrekrut-reportsdatabase_redesignrefresh_performance

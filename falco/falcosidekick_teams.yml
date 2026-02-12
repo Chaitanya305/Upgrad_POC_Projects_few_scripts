@@ -1,0 +1,83 @@
+replicaCount: 2
+image:
+  registry: docker.io
+  repository: falcosecurity/falcosidekick
+  tag: 2.31.1
+  pullPolicy: IfNotPresent
+service:
+  # -- Service type
+  type: NodePort
+webui:
+  # -- enable Falcosidekick-UI
+  enabled: true
+  replicaCount: 1
+  # -- User in format <login>:<password>
+  user: "admin:admin"
+  image:
+    registry: docker.io
+    repository: falcosecurity/falcosidekick-ui
+    tag: "2.2.0"
+    pullPolicy: IfNotPresent
+  service:
+    type: NodePort
+    port: 2802
+    nodePort: 30282
+    targetPort: 2802
+    annotations: {}
+  ingress:
+    enabled: false
+    ingressClassName: alb
+    annotations:
+      alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80}, {"HTTPS":443}]'
+      alb.ingress.kubernetes.io/actions.ssl-redirect: '{"Type": "redirect", "RedirectConfig": { "Protocol": "HTTPS", "Port": "443", "StatusCode": "HTTP_301"}}'
+      alb.ingress.kubernetes.io/group.order: "200"
+      alb.ingress.kubernetes.io/group.name: ingress-alb-prod-management
+    hosts:
+      - host: falcosidekick-ui.talentedge.dev
+        paths:
+        - path: /*
+    #tls: []
+  externalRedis:
+    # -- Enable or disable the usage of an external Redis. Is mutually exclusive with webui.redis.enabled.
+    enabled: false
+    # -- The URL of the external Redis database with RediSearch > v2
+    url: ""
+    # -- Set the password of the external Redis
+    password: ""
+    # --  The port of the external Redis database with RediSearch > v2
+    port: 6379
+  redis:
+    enabled: true
+    image:
+      registry: docker.io
+      repository: redis/redis-stack
+      tag: "7.2.0-v11"
+      pullPolicy: IfNotPresent
+    customConfig: {}
+    # - maxmemory-policy allkeys-lfu
+    # - maxmemory 4096mb
+    # -- Set a password for Redis
+    password: ""
+    # -- Enable the PVC for the redis pod
+    storageEnabled: true
+    # -- Size of the PVC for the redis pod
+    storageSize: "3Gi"
+    # -- Storage class of the PVC for the redis pod
+    storageClass: "local-path"
+    service:
+      type: NodePort
+      port: 6379
+      targetPort: 6379
+      # -- The web UI Redis service annotations (use this to set a internal LB, for example.)
+      annotations: {}
+
+config:
+  debug: true
+  teams:
+    webhookurl: "https://ueducation.webhook.office.com/webhookb2/68a64c65-837b-4c8b-8178-6347487ce95a@2e08a381-ba90-42a8-a03d-e078b350caaa/IncomingWebhook/657e65fce0f94255b5bc8a0ea0659585/c16d2a5d-953b-4df6-ad9a-312bbd4f9127/V2unnhXkHeCnK9GIW_b-kx2Qo_gbZHl7CqfzwJPqDxFCo1"
+    # -- Teams section image
+    activityimage: ""
+    # -- `all` (default), `text` (only text is displayed in Teams), `facts` (only facts are displayed in Teams)
+    outputformat: "all"
+    # -- minimum priority of event to use this output, order is `emergency\|alert\|critical\|error\|warning\|notice\|informational\|debug or ""`
+    minimumpriority: "warning"

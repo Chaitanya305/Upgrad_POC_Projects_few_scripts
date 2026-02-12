@@ -1,0 +1,28 @@
+replicas: 1
+minimumMasterNodes: 1
+
+# secret:
+#   enabled: true
+#   password: "pass123" 
+
+service:
+  enabled: true
+  type: ClusterIP
+
+resources:
+  requests:
+    cpu: "500m"
+    memory: "1Gi"
+  limits:
+    cpu: "500m"
+    memory: "1Gi"
+
+ingress:
+  enabled: false
+  
+volumeClaimTemplate:
+  accessModes: ["ReadWriteOnce"]
+  storageClassName: local-path 
+  resources:
+    requests:
+      storage: 1Gi

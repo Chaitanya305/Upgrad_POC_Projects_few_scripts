@@ -1,0 +1,15 @@
+controller:
+  service:
+    type: LoadBalancer
+    annotations:
+      service.beta.kubernetes.io/aws-load-balancer-type: "nlb"
+      service.beta.kubernetes.io/aws-load-balancer-scheme: "internet-facing"
+      service.beta.kubernetes.io/aws-load-balancer-subnets: "subnet-0d55813b48ccd601c,subnet-064f7fd11f2a5721b"
+      # service.beta.kubernetes.io/aws-load-balancer-security-groups: "sg-0c07be95c530a34d4"
+      # service.beta.kubernetes.io/aws-load-balancer-manage-backend-security-group-rules: "true"
+  # extraArgs:
+  #   enable-ssl-passthrough: ""
+
+# helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
+# helm repo update
+# helm install nginx-ingress ingress-nginx/ingress-nginx -f nginx-ingress.yml

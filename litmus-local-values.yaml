@@ -1,0 +1,149 @@
+adminConfig:
+  VERSION: "3.19.0"
+  ADMIN_USERNAME: "admin"
+  ADMIN_PASSWORD: "litmus"
+
+image:
+  imageRegistryName: litmuschaos.docker.scarf.sh/litmuschaos
+
+ingress:
+  enabled: true
+  name: litmuschaos
+  annotations:
+    alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80}, {"HTTPS":443}]'
+    alb.ingress.kubernetes.io/actions.ssl-redirect: '{"Type": "redirect", "RedirectConfig": { "Protocol": "HTTPS", "Port": "443", "StatusCode": "HTTP_301"}}'
+    alb.ingress.kubernetes.io/group.order: "200"
+    alb.ingress.kubernetes.io/group.name: ingress-alb-prod-public
+  ingressClassName: "alb"
+  host:
+    name: litmuschaos.talentedge.dev
+
+portal:
+  frontend:
+    replicas: 1
+    image:
+        repository: litmusportal-frontend
+        tag: 3.19.0
+        pullPolicy: "Always"
+    resources:
+      requests:
+        memory: "150Mi"
+        cpu: "125m"
+        ephemeral-storage: "500Mi"
+      limits:
+        memory: "512Mi"
+        cpu: "550m"
+        ephemeral-storage: 1Gi
+    livenessProbe:
+      failureThreshold: 5
+      initialDelaySeconds: 30
+      periodSeconds: 10
+      successThreshold: 1
+      timeoutSeconds: 5
+    readinessProbe:
+      initialDelaySeconds: 5
+      periodSeconds: 10
+      successThreshold: 1
+      timeoutSeconds: 1
+    service:
+      annotations: {}
+      type: NodePort
+      port: 9091
+      targetPort: 8185
+  server:
+    replicas: 1
+    waitForMongodb:
+      image:
+        repository: mongo
+        tag: 6
+        pullPolicy: "Always"
+      resources:
+        requests:
+          memory: "150Mi"
+          cpu: "25m"
+          ephemeral-storage: "500Mi"
+        limits:
+          memory: "512Mi"
+          cpu: "250m"
+          ephemeral-storage: "1Gi"
+    graphqlServer:
+      image:
+        repository: litmusportal-server
+        tag: 3.19.0
+        pullPolicy: "Always"
+      ports:
+        - name: gql-server
+          containerPort: 8080
+        - name: gql-rpc-server
+          containerPort: 8000
+      service:
+        annotations: {}
+        type: NodePort
+        graphqlRestServer:
+          port: 9002
+          targetPort: 8080
+        graphqlRpcServer:
+          port: 8000
+          targetPort: 8000
+      imageEnv:
+        SUBSCRIBER_IMAGE: "litmusportal-subscriber:3.19.0"
+        EVENT_TRACKER_IMAGE: "litmusportal-event-tracker:3.19.0"
+        ARGO_WORKFLOW_CONTROLLER_IMAGE: "workflow-controller:v3.3.1"
+        ARGO_WORKFLOW_EXECUTOR_IMAGE: "argoexec:v3.3.1"
+        LITMUS_CHAOS_OPERATOR_IMAGE: "chaos-operator:3.19.0"
+        LITMUS_CHAOS_RUNNER_IMAGE: "chaos-runner:3.19.0"
+        LITMUS_CHAOS_EXPORTER_IMAGE: "chaos-exporter:3.19.0"
+    authServer:
+      replicas: 1
+      image:
+        repository: litmusportal-auth-server
+        tag: 3.19.0
+        pullPolicy: "Always"
+      ports:
+        - name: auth-server
+          containerPort: 3000
+        - name: auth-rpc-server
+          containerPort: 3030
+      service:
+        annotations: {}
+        type: NodePort
+        authRestServer:
+          port: 9003
+          targetPort: 3000
+        authRpcServer:
+          port: 3030
+          targetPort: 3030
+      env: {}
+      resources:
+        requests:
+          memory: "250Mi"
+          cpu: "225m"
+          ephemeral-storage: "500Mi"
+        limits:
+          memory: "712Mi"
+          cpu: "550m"
+          ephemeral-storage: "1Gi"
+mongodb:
+  livenessProbe:
+    timeoutSeconds: 20
+  readinessProbe:
+    timeoutSeconds: 20
+  enabled: true
+  auth:
+    enabled: true
+    rootUser: "root"
+    rootPassword: "1234"
+  architecture: replicaset
+  replicaCount: 1
+  persistence:
+    enabled: false
+    size: 10Gi
+    storageClass: "aws-ebs"
+  volumePermissions:
+    enabled: true
+    
+
+
+#to install helm chart
+#helm repo add litmuschaos https://litmuschaos.github.io/litmus-helm/
+#helm install chaos litmuschaos/litmus --namespace=litmus --create-namespace litmus -f litmus-values.yaml

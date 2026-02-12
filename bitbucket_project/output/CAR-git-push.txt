@@ -1,0 +1,2562 @@
+all repos are: careers-api-spring career-centre-frontend event-integration one-upgrad-event-integration one-upgrad-career-service
+******************************-----------******************************
+working on repo careers-api-spring ........ 
+************* Processing for branch: CAREER-3328-provide-logstash-log-support *************
+branch 'CAREER-3328-provide-logstash-log-support' set up to track 'origin/CAREER-3328-provide-logstash-log-support'.
+[CAREER-3328-provide-logstash-log-support 803b931d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-3704 *************
+branch 'CAREER-3704' set up to track 'origin/CAREER-3704'.
+[CAREER-3704 77249c2f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-3978 *************
+branch 'CAREER-3978' set up to track 'origin/CAREER-3978'.
+[CAREER-3978 102450ba] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-4030 *************
+branch 'CAREER-4030' set up to track 'origin/CAREER-4030'.
+[CAREER-4030 9cd069f7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5341 *************
+branch 'CAREER-5341' set up to track 'origin/CAREER-5341'.
+[CAREER-5341 896e48ad] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5421 *************
+branch 'CAREER-5421' set up to track 'origin/CAREER-5421'.
+[CAREER-5421 9adf544b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5437 *************
+branch 'CAREER-5437' set up to track 'origin/CAREER-5437'.
+[CAREER-5437 e2de3152] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5714 *************
+branch 'CAREER-5714' set up to track 'origin/CAREER-5714'.
+[CAREER-5714 5056b6b4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5723 *************
+branch 'CAREER-5723' set up to track 'origin/CAREER-5723'.
+[CAREER-5723 58b7fef5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5732-flyway *************
+branch 'CAREER-5732-flyway' set up to track 'origin/CAREER-5732-flyway'.
+[CAREER-5732-flyway 165cfcdc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-6543-disable-cron-on-uat-loadtest *************
+branch 'CAREER-6543-disable-cron-on-uat-loadtest' set up to track 'origin/CAREER-6543-disable-cron-on-uat-loadtest'.
+[CAREER-6543-disable-cron-on-uat-loadtest 70b0cece] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: DEL-1174-Jobstatus-need-to-be-consider *************
+branch 'DEL-1174-Jobstatus-need-to-be-consider' set up to track 'origin/DEL-1174-Jobstatus-need-to-be-consider'.
+[DEL-1174-Jobstatus-need-to-be-consider 721edb8f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+[develop 800f25fc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-2935 *************
+branch 'feature/CAREER-2935' set up to track 'origin/feature/CAREER-2935'.
+[feature/CAREER-2935 89865831] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-3003 *************
+branch 'feature/CAREER-3003' set up to track 'origin/feature/CAREER-3003'.
+[feature/CAREER-3003 beec98c6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-3004-test *************
+branch 'feature/CAREER-3004-test' set up to track 'origin/feature/CAREER-3004-test'.
+[feature/CAREER-3004-test 20682a26] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-3088 *************
+branch 'feature/CAREER-3088' set up to track 'origin/feature/CAREER-3088'.
+[feature/CAREER-3088 355470e8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-3263 *************
+branch 'feature/CAREER-3263' set up to track 'origin/feature/CAREER-3263'.
+[feature/CAREER-3263 2eda3381] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-3333 *************
+branch 'feature/CAREER-3333' set up to track 'origin/feature/CAREER-3333'.
+[feature/CAREER-3333 2b4543d0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-4040 *************
+branch 'feature/CAREER-4040' set up to track 'origin/feature/CAREER-4040'.
+[feature/CAREER-4040 fb262043] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-4076 *************
+branch 'feature/CAREER-4076' set up to track 'origin/feature/CAREER-4076'.
+[feature/CAREER-4076 8fb75d9c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-4279 *************
+branch 'feature/CAREER-4279' set up to track 'origin/feature/CAREER-4279'.
+[feature/CAREER-4279 fb75149c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-4305 *************
+branch 'feature/CAREER-4305' set up to track 'origin/feature/CAREER-4305'.
+[feature/CAREER-4305 33f4a7c8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6553-normalised-status *************
+branch 'feature/CAREER-6553-normalised-status' set up to track 'origin/feature/CAREER-6553-normalised-status'.
+[feature/CAREER-6553-normalised-status 1eaa5afd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6555-redirect-user-link *************
+branch 'feature/CAREER-6555-redirect-user-link' set up to track 'origin/feature/CAREER-6555-redirect-user-link'.
+[feature/CAREER-6555-redirect-user-link 061b81f2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6792-study-abroad-support *************
+branch 'feature/CAREER-6792-study-abroad-support' set up to track 'origin/feature/CAREER-6792-study-abroad-support'.
+[feature/CAREER-6792-study-abroad-support 891f1989] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6792-study-abroad-support-release *************
+branch 'feature/CAREER-6792-study-abroad-support-release' set up to track 'origin/feature/CAREER-6792-study-abroad-support-release'.
+[feature/CAREER-6792-study-abroad-support-release 6b5c3771] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6845-case-insensative-location-string *************
+branch 'feature/CAREER-6845-case-insensative-location-string' set up to track 'origin/feature/CAREER-6845-case-insensative-location-string'.
+[feature/CAREER-6845-case-insensative-location-string 2882dffd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CRM4E-1462-ordering-job-on-salary *************
+branch 'feature/CRM4E-1462-ordering-job-on-salary' set up to track 'origin/feature/CRM4E-1462-ordering-job-on-salary'.
+[feature/CRM4E-1462-ordering-job-on-salary c7aec109] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature_CAREER-6801-Recommended-jobs-fix *************
+branch 'feature_CAREER-6801-Recommended-jobs-fix' set up to track 'origin/feature_CAREER-6801-Recommended-jobs-fix'.
+[feature_CAREER-6801-Recommended-jobs-fix bcd57fd7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: hotfix/CAREER-3626 *************
+branch 'hotfix/CAREER-3626' set up to track 'origin/hotfix/CAREER-3626'.
+[hotfix/CAREER-3626 19c2eacd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: prod-1.0.690-branch-14Aug *************
+branch 'prod-1.0.690-branch-14Aug' set up to track 'origin/prod-1.0.690-branch-14Aug'.
+[prod-1.0.690-branch-14Aug 786de4de] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releas-branch-for-develop *************
+branch 'releas-branch-for-develop' set up to track 'origin/releas-branch-for-develop'.
+[releas-branch-for-develop 76704e2f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release *************
+branch 'release' set up to track 'origin/release'.
+[release d9f7a31d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-1.0.700-prod *************
+branch 'release-1.0.700-prod' set up to track 'origin/release-1.0.700-prod'.
+[release-1.0.700-prod 6b70268b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-1.0.708-2-Nov *************
+branch 'release-1.0.708-2-Nov' set up to track 'origin/release-1.0.708-2-Nov'.
+[release-1.0.708-2-Nov b4970fdd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-CAREER-3003 *************
+branch 'release-CAREER-3003' set up to track 'origin/release-CAREER-3003'.
+[release-CAREER-3003 48f9a7f3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-CAREER-3416 *************
+branch 'release-CAREER-3416' set up to track 'origin/release-CAREER-3416'.
+[release-CAREER-3416 48f37a25] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-b4-2ndsep-xopa *************
+branch 'release-b4-2ndsep-xopa' set up to track 'origin/release-b4-2ndsep-xopa'.
+[release-b4-2ndsep-xopa 6ab6de2f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-logs *************
+branch 'release-logs' set up to track 'origin/release-logs'.
+[release-logs c7b7fb28] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-staging-without-version *************
+branch 'release-staging-without-version' set up to track 'origin/release-staging-without-version'.
+[release-staging-without-version 40bc846a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-test-CAREER-2935 *************
+branch 'release-test-CAREER-2935' set up to track 'origin/release-test-CAREER-2935'.
+[release-test-CAREER-2935 855be846] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1005-xopa-apply-job *************
+branch 'releaseDEL-1005-xopa-apply-job' set up to track 'origin/releaseDEL-1005-xopa-apply-job'.
+[releaseDEL-1005-xopa-apply-job 9bcd608e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1090-extend-due-date-fix *************
+branch 'releaseDEL-1090-extend-due-date-fix' set up to track 'origin/releaseDEL-1090-extend-due-date-fix'.
+[releaseDEL-1090-extend-due-date-fix 1d97ba46] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1172-on-rekruts-xopa *************
+branch 'releaseDEL-1172-on-rekruts-xopa' set up to track 'origin/releaseDEL-1172-on-rekruts-xopa'.
+[releaseDEL-1172-on-rekruts-xopa 9a68ad88] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1172-on-rekruts-xopa-the-job-categor *************
+branch 'releaseDEL-1172-on-rekruts-xopa-the-job-categor' set up to track 'origin/releaseDEL-1172-on-rekruts-xopa-the-job-categor'.
+[releaseDEL-1172-on-rekruts-xopa-the-job-categor fba9792c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1173-status-mapping-from-rekruts-xop *************
+branch 'releaseDEL-1173-status-mapping-from-rekruts-xop' set up to track 'origin/releaseDEL-1173-status-mapping-from-rekruts-xop'.
+[releaseDEL-1173-status-mapping-from-rekruts-xop c3b2c442] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1174-XopaAndCareer *************
+branch 'releaseDEL-1174-XopaAndCareer' set up to track 'origin/releaseDEL-1174-XopaAndCareer'.
+[releaseDEL-1174-XopaAndCareer a0c8a873] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1174-xopa-and-careerIntegration *************
+branch 'releaseDEL-1174-xopa-and-careerIntegration' set up to track 'origin/releaseDEL-1174-xopa-and-careerIntegration'.
+[releaseDEL-1174-xopa-and-careerIntegration ddb9d77e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1245-user-is-not-able-to-apply-to-a- *************
+branch 'releaseDEL-1245-user-is-not-able-to-apply-to-a-' set up to track 'origin/releaseDEL-1245-user-is-not-able-to-apply-to-a-'.
+[releaseDEL-1245-user-is-not-able-to-apply-to-a- 00d4e5f3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1315-when-a-job-is-unpublished-from *************
+branch 'releaseDEL-1315-when-a-job-is-unpublished-from' set up to track 'origin/releaseDEL-1315-when-a-job-is-unpublished-from'.
+[releaseDEL-1315-when-a-job-is-unpublished-from f1e64060] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1316-Xopa-status-update *************
+branch 'releaseDEL-1316-Xopa-status-update' set up to track 'origin/releaseDEL-1316-Xopa-status-update'.
+[releaseDEL-1316-Xopa-status-update 5e6fbaf3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1316-update-xopa-status-mapping-sep *************
+branch 'releaseDEL-1316-update-xopa-status-mapping-sep' set up to track 'origin/releaseDEL-1316-update-xopa-status-mapping-sep'.
+[releaseDEL-1316-update-xopa-status-mapping-sep 2b7f2ca1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1316-updated-mapping *************
+branch 'releaseDEL-1316-updated-mapping' set up to track 'origin/releaseDEL-1316-updated-mapping'.
+[releaseDEL-1316-updated-mapping ac909e21] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1432-Application-status-update *************
+branch 'releaseDEL-1432-Application-status-update' set up to track 'origin/releaseDEL-1432-Application-status-update'.
+[releaseDEL-1432-Application-status-update f3e59314] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-944-disable-jobspickr *************
+branch 'releaseDEL-944-disable-jobspickr' set up to track 'origin/releaseDEL-944-disable-jobspickr'.
+[releaseDEL-944-disable-jobspickr 1c34f5c5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3419 *************
+branch 'release_CAREER-3419' set up to track 'origin/release_CAREER-3419'.
+[release_CAREER-3419 985957e7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3704 *************
+branch 'release_CAREER-3704' set up to track 'origin/release_CAREER-3704'.
+[release_CAREER-3704 3cd0e56e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3808 *************
+branch 'release_CAREER-3808' set up to track 'origin/release_CAREER-3808'.
+[release_CAREER-3808 b8d2b7e1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3834 *************
+branch 'release_CAREER-3834' set up to track 'origin/release_CAREER-3834'.
+[release_CAREER-3834 6ba8f39e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3846 *************
+branch 'release_CAREER-3846' set up to track 'origin/release_CAREER-3846'.
+[release_CAREER-3846 79d0067c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3978 *************
+branch 'release_CAREER-3978' set up to track 'origin/release_CAREER-3978'.
+[release_CAREER-3978 e0822818] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4025 *************
+branch 'release_CAREER-4025' set up to track 'origin/release_CAREER-4025'.
+[release_CAREER-4025 2261b82e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4030 *************
+branch 'release_CAREER-4030' set up to track 'origin/release_CAREER-4030'.
+[release_CAREER-4030 6bfd53d6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4045 *************
+branch 'release_CAREER-4045' set up to track 'origin/release_CAREER-4045'.
+[release_CAREER-4045 b8d516a7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4171 *************
+branch 'release_CAREER-4171' set up to track 'origin/release_CAREER-4171'.
+[release_CAREER-4171 3984e54d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4295 *************
+branch 'release_CAREER-4295' set up to track 'origin/release_CAREER-4295'.
+[release_CAREER-4295 16f993ed] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4298 *************
+branch 'release_CAREER-4298' set up to track 'origin/release_CAREER-4298'.
+[release_CAREER-4298 eb4400de] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4305 *************
+branch 'release_CAREER-4305' set up to track 'origin/release_CAREER-4305'.
+[release_CAREER-4305 603f5b24] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4406 *************
+branch 'release_CAREER-4406' set up to track 'origin/release_CAREER-4406'.
+[release_CAREER-4406 2688df6d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4431 *************
+branch 'release_CAREER-4431' set up to track 'origin/release_CAREER-4431'.
+[release_CAREER-4431 d1f9cada] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4535 *************
+branch 'release_CAREER-4535' set up to track 'origin/release_CAREER-4535'.
+[release_CAREER-4535 cb2861a5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5020 *************
+branch 'release_CAREER-5020' set up to track 'origin/release_CAREER-5020'.
+[release_CAREER-5020 c7c7ace8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5069 *************
+branch 'release_CAREER-5069' set up to track 'origin/release_CAREER-5069'.
+[release_CAREER-5069 1a9a6af6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5269 *************
+branch 'release_CAREER-5269' set up to track 'origin/release_CAREER-5269'.
+[release_CAREER-5269 fd1ba678] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5341 *************
+branch 'release_CAREER-5341' set up to track 'origin/release_CAREER-5341'.
+[release_CAREER-5341 bbfde60e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5617 *************
+branch 'release_CAREER-5617' set up to track 'origin/release_CAREER-5617'.
+[release_CAREER-5617 dc12c570] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5656 *************
+branch 'release_CAREER-5656' set up to track 'origin/release_CAREER-5656'.
+[release_CAREER-5656 cf80aeec] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5716 *************
+branch 'release_CAREER-5716' set up to track 'origin/release_CAREER-5716'.
+[release_CAREER-5716 53333df5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5727 *************
+branch 'release_CAREER-5727' set up to track 'origin/release_CAREER-5727'.
+[release_CAREER-5727 15ff16b2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5732-flyway *************
+branch 'release_CAREER-5732-flyway' set up to track 'origin/release_CAREER-5732-flyway'.
+[release_CAREER-5732-flyway 596d694c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5761 *************
+branch 'release_CAREER-5761' set up to track 'origin/release_CAREER-5761'.
+[release_CAREER-5761 63bf89c5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5829 *************
+branch 'release_CAREER-5829' set up to track 'origin/release_CAREER-5829'.
+[release_CAREER-5829 8c9595df] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5832 *************
+branch 'release_CAREER-5832' set up to track 'origin/release_CAREER-5832'.
+[release_CAREER-5832 915da381] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5845 *************
+branch 'release_CAREER-5845' set up to track 'origin/release_CAREER-5845'.
+[release_CAREER-5845 79aa3022] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5914 *************
+branch 'release_CAREER-5914' set up to track 'origin/release_CAREER-5914'.
+[release_CAREER-5914 acb0a447] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5935 *************
+branch 'release_CAREER-5935' set up to track 'origin/release_CAREER-5935'.
+[release_CAREER-5935 0078ffb4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5943 *************
+branch 'release_CAREER-5943' set up to track 'origin/release_CAREER-5943'.
+[release_CAREER-5943 7ac46781] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5948 *************
+branch 'release_CAREER-5948' set up to track 'origin/release_CAREER-5948'.
+[release_CAREER-5948 f99228a4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5991 *************
+branch 'release_CAREER-5991' set up to track 'origin/release_CAREER-5991'.
+[release_CAREER-5991 6fa20595] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6051 *************
+branch 'release_CAREER-6051' set up to track 'origin/release_CAREER-6051'.
+[release_CAREER-6051 fff5eb99] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6079 *************
+branch 'release_CAREER-6079' set up to track 'origin/release_CAREER-6079'.
+[release_CAREER-6079 2aff4d12] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6086 *************
+branch 'release_CAREER-6086' set up to track 'origin/release_CAREER-6086'.
+[release_CAREER-6086 2f668b92] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6112 *************
+branch 'release_CAREER-6112' set up to track 'origin/release_CAREER-6112'.
+[release_CAREER-6112 be1a3b33] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6128 *************
+branch 'release_CAREER-6128' set up to track 'origin/release_CAREER-6128'.
+[release_CAREER-6128 a886b8d8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6198 *************
+branch 'release_CAREER-6198' set up to track 'origin/release_CAREER-6198'.
+[release_CAREER-6198 f274d926] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6216 *************
+branch 'release_CAREER-6216' set up to track 'origin/release_CAREER-6216'.
+[release_CAREER-6216 83b79160] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6251 *************
+branch 'release_CAREER-6251' set up to track 'origin/release_CAREER-6251'.
+[release_CAREER-6251 926f4bad] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6253 *************
+branch 'release_CAREER-6253' set up to track 'origin/release_CAREER-6253'.
+[release_CAREER-6253 0ab7a2a4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6274 *************
+branch 'release_CAREER-6274' set up to track 'origin/release_CAREER-6274'.
+[release_CAREER-6274 72b3a837] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6288 *************
+branch 'release_CAREER-6288' set up to track 'origin/release_CAREER-6288'.
+[release_CAREER-6288 64fcbdd3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6382 *************
+branch 'release_CAREER-6382' set up to track 'origin/release_CAREER-6382'.
+[release_CAREER-6382 571911ed] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6388 *************
+branch 'release_CAREER-6388' set up to track 'origin/release_CAREER-6388'.
+[release_CAREER-6388 7bb1d12a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6400 *************
+branch 'release_CAREER-6400' set up to track 'origin/release_CAREER-6400'.
+[release_CAREER-6400 fd8e9f6c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6410 *************
+branch 'release_CAREER-6410' set up to track 'origin/release_CAREER-6410'.
+[release_CAREER-6410 fce44400] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6439 *************
+branch 'release_CAREER-6439' set up to track 'origin/release_CAREER-6439'.
+[release_CAREER-6439 708410cb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6484 *************
+branch 'release_CAREER-6484' set up to track 'origin/release_CAREER-6484'.
+[release_CAREER-6484 b3a7d356] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6499 *************
+branch 'release_CAREER-6499' set up to track 'origin/release_CAREER-6499'.
+[release_CAREER-6499 c0d70a90] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6532 *************
+branch 'release_CAREER-6532' set up to track 'origin/release_CAREER-6532'.
+[release_CAREER-6532 c9b66b13] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6543 *************
+branch 'release_CAREER-6543' set up to track 'origin/release_CAREER-6543'.
+[release_CAREER-6543 b205e43f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6568 *************
+branch 'release_CAREER-6568' set up to track 'origin/release_CAREER-6568'.
+[release_CAREER-6568 15054d05] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6597 *************
+branch 'release_CAREER-6597' set up to track 'origin/release_CAREER-6597'.
+[release_CAREER-6597 b24ee983] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6603 *************
+branch 'release_CAREER-6603' set up to track 'origin/release_CAREER-6603'.
+[release_CAREER-6603 5443b71e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6622 *************
+branch 'release_CAREER-6622' set up to track 'origin/release_CAREER-6622'.
+[release_CAREER-6622 ca56ea7d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6634 *************
+branch 'release_CAREER-6634' set up to track 'origin/release_CAREER-6634'.
+[release_CAREER-6634 d77e4ea4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6684 *************
+branch 'release_CAREER-6684' set up to track 'origin/release_CAREER-6684'.
+[release_CAREER-6684 93650870] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6748 *************
+branch 'release_CAREER-6748' set up to track 'origin/release_CAREER-6748'.
+[release_CAREER-6748 87ac93d2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6763-cache-auth-token *************
+branch 'release_CAREER-6763-cache-auth-token' set up to track 'origin/release_CAREER-6763-cache-auth-token'.
+[release_CAREER-6763-cache-auth-token c665b902] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6780-increase-connection-pool *************
+branch 'release_CAREER-6780-increase-connection-pool' set up to track 'origin/release_CAREER-6780-increase-connection-pool'.
+[release_CAREER-6780-increase-connection-pool cca2190f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6780-increase-connection-pool-size *************
+branch 'release_CAREER-6780-increase-connection-pool-size' set up to track 'origin/release_CAREER-6780-increase-connection-pool-size'.
+[release_CAREER-6780-increase-connection-pool-size d69432ba] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6792-study-abroad-support *************
+branch 'release_CAREER-6792-study-abroad-support' set up to track 'origin/release_CAREER-6792-study-abroad-support'.
+[release_CAREER-6792-study-abroad-support f3b8897d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6801 *************
+branch 'release_CAREER-6801' set up to track 'origin/release_CAREER-6801'.
+[release_CAREER-6801 38dab7be] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6832-currency-field-from-ceipal *************
+branch 'release_CAREER-6832-currency-field-from-ceipal' set up to track 'origin/release_CAREER-6832-currency-field-from-ceipal'.
+[release_CAREER-6832-currency-field-from-ceipal bc81d6dd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6845-case-insensative-location-string *************
+branch 'release_CAREER-6845-case-insensative-location-string' set up to track 'origin/release_CAREER-6845-case-insensative-location-string'.
+[release_CAREER-6845-case-insensative-location-string 0d7efa55] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6853 *************
+branch 'release_CAREER-6853' set up to track 'origin/release_CAREER-6853'.
+[release_CAREER-6853 b88c21f3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-7682-exclude-insofe-cohort *************
+branch 'release_CAREER-7682-exclude-insofe-cohort' set up to track 'origin/release_CAREER-7682-exclude-insofe-cohort'.
+[release_CAREER-7682-exclude-insofe-cohort 3bf4d7a4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER_5122 *************
+branch 'release_CAREER_5122' set up to track 'origin/release_CAREER_5122'.
+[release_CAREER_5122 64fb77b5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER_5216 *************
+branch 'release_CAREER_5216' set up to track 'origin/release_CAREER_5216'.
+[release_CAREER_5216 8f6450f5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CRM4E-1462 *************
+branch 'release_CRM4E-1462' set up to track 'origin/release_CRM4E-1462'.
+[release_CRM4E-1462 3d50316c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_devops *************
+branch 'release_devops' set up to track 'origin/release_devops'.
+[release_devops e293694f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_devops_sonar *************
+branch 'release_devops_sonar' set up to track 'origin/release_devops_sonar'.
+[release_devops_sonar 62e0b06c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature/CAREER-3174 *************
+branch 'release_feature/CAREER-3174' set up to track 'origin/release_feature/CAREER-3174'.
+[release_feature/CAREER-3174 5fdbcdb9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature/CAREER-3333 *************
+branch 'release_feature/CAREER-3333' set up to track 'origin/release_feature/CAREER-3333'.
+[release_feature/CAREER-3333 c38c647c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature/CAREER-4279 *************
+branch 'release_feature/CAREER-4279' set up to track 'origin/release_feature/CAREER-4279'.
+[release_feature/CAREER-4279 21751785] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5012 *************
+branch 'release_feature_CAREER-5012' set up to track 'origin/release_feature_CAREER-5012'.
+[release_feature_CAREER-5012 f35fbe69] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5020 *************
+branch 'release_feature_CAREER-5020' set up to track 'origin/release_feature_CAREER-5020'.
+[release_feature_CAREER-5020 3e8a3062] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5197 *************
+branch 'release_feature_CAREER-5197' set up to track 'origin/release_feature_CAREER-5197'.
+[release_feature_CAREER-5197 cf1436de] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5421 *************
+branch 'release_feature_CAREER-5421' set up to track 'origin/release_feature_CAREER-5421'.
+[release_feature_CAREER-5421 75a9f116] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5582 *************
+branch 'release_feature_CAREER-5582' set up to track 'origin/release_feature_CAREER-5582'.
+[release_feature_CAREER-5582 93a96ec5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5638 *************
+branch 'release_feature_CAREER-5638' set up to track 'origin/release_feature_CAREER-5638'.
+[release_feature_CAREER-5638 6ba8413b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5675 *************
+branch 'release_feature_CAREER-5675' set up to track 'origin/release_feature_CAREER-5675'.
+[release_feature_CAREER-5675 ab7cc0da] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_staging *************
+branch 'release_staging' set up to track 'origin/release_staging'.
+[release_staging f19fbf61] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_to_master_merge_conflict *************
+branch 'release_to_master_merge_conflict' set up to track 'origin/release_to_master_merge_conflict'.
+[release_to_master_merge_conflict d6e6eed6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_url_log *************
+branch 'release_url_log' set up to track 'origin/release_url_log'.
+[release_url_log 3b02831f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: tech_enhancement *************
+branch 'tech_enhancement' set up to track 'origin/tech_enhancement'.
+[tech_enhancement 19fc781f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo careers-api-spring are: CAREER-3328-provide-logstash-log-supportCAREER-3704CAREER-3978CAREER-4030CAREER-5341CAREER-5421CAREER-5437CAREER-5714CAREER-5723CAREER-5732-flywayCAREER-6543-disable-cron-on-uat-loadtestDEL-1174-Jobstatus-need-to-be-considerdevelopfeature/CAREER-2935feature/CAREER-3003feature/CAREER-3004-testfeature/CAREER-3088feature/CAREER-3263feature/CAREER-3333feature/CAREER-4040feature/CAREER-4076feature/CAREER-4279feature/CAREER-4305feature/CAREER-6553-normalised-statusfeature/CAREER-6555-redirect-user-linkfeature/CAREER-6792-study-abroad-supportfeature/CAREER-6792-study-abroad-support-releasefeature/CAREER-6845-case-insensative-location-stringfeature/CRM4E-1462-ordering-job-on-salaryfeature_CAREER-6801-Recommended-jobs-fixhotfix/CAREER-3626prod-1.0.690-branch-14Augreleas-branch-for-developreleaserelease-1.0.700-prodrelease-1.0.708-2-Novrelease-CAREER-3003release-CAREER-3416release-b4-2ndsep-xoparelease-logsrelease-staging-without-versionrelease-test-CAREER-2935releaseDEL-1005-xopa-apply-jobreleaseDEL-1090-extend-due-date-fixreleaseDEL-1172-on-rekruts-xopareleaseDEL-1172-on-rekruts-xopa-the-job-categorreleaseDEL-1173-status-mapping-from-rekruts-xopreleaseDEL-1174-XopaAndCareerreleaseDEL-1174-xopa-and-careerIntegrationreleaseDEL-1245-user-is-not-able-to-apply-to-a-releaseDEL-1315-when-a-job-is-unpublished-fromreleaseDEL-1316-Xopa-status-updatereleaseDEL-1316-update-xopa-status-mapping-sepreleaseDEL-1316-updated-mappingreleaseDEL-1432-Application-status-updatereleaseDEL-944-disable-jobspickrrelease_CAREER-3419release_CAREER-3704release_CAREER-3808release_CAREER-3834release_CAREER-3846release_CAREER-3978release_CAREER-4025release_CAREER-4030release_CAREER-4045release_CAREER-4171release_CAREER-4295release_CAREER-4298release_CAREER-4305release_CAREER-4406release_CAREER-4431release_CAREER-4535release_CAREER-5020release_CAREER-5069release_CAREER-5269release_CAREER-5341release_CAREER-5617release_CAREER-5656release_CAREER-5716release_CAREER-5727release_CAREER-5732-flywayrelease_CAREER-5761release_CAREER-5829release_CAREER-5832release_CAREER-5845release_CAREER-5914release_CAREER-5935release_CAREER-5943release_CAREER-5948release_CAREER-5991release_CAREER-6051release_CAREER-6079release_CAREER-6086release_CAREER-6112release_CAREER-6128release_CAREER-6198release_CAREER-6216release_CAREER-6251release_CAREER-6253release_CAREER-6274release_CAREER-6288release_CAREER-6382release_CAREER-6388release_CAREER-6400release_CAREER-6410release_CAREER-6439release_CAREER-6484release_CAREER-6499release_CAREER-6532release_CAREER-6543release_CAREER-6568release_CAREER-6597release_CAREER-6603release_CAREER-6622release_CAREER-6634release_CAREER-6684release_CAREER-6748release_CAREER-6763-cache-auth-tokenrelease_CAREER-6780-increase-connection-poolrelease_CAREER-6780-increase-connection-pool-sizerelease_CAREER-6792-study-abroad-supportrelease_CAREER-6801release_CAREER-6832-currency-field-from-ceipalrelease_CAREER-6845-case-insensative-location-stringrelease_CAREER-6853release_CAREER-7682-exclude-insofe-cohortrelease_CAREER_5122release_CAREER_5216release_CRM4E-1462release_devopsrelease_devops_sonarrelease_feature/CAREER-3174release_feature/CAREER-3333release_feature/CAREER-4279release_feature_CAREER-5012release_feature_CAREER-5020release_feature_CAREER-5197release_feature_CAREER-5421release_feature_CAREER-5582release_feature_CAREER-5638release_feature_CAREER-5675release_stagingrelease_to_master_merge_conflictrelease_url_logtech_enhancement  
+count of branch for repo careers-api-spring :- 1
+Cleanup completed... for careers-api-spring
+******************************-----------******************************
+working on repo career-centre-frontend ........ 
+************* Processing for branch: CAREER-6654-jobs-card *************
+branch 'CAREER-6654-jobs-card' set up to track 'origin/CAREER-6654-jobs-card'.
+[CAREER-6654-jobs-card cf0fd9eb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: backup/CAREER-6610 *************
+branch 'backup/CAREER-6610' set up to track 'origin/backup/CAREER-6610'.
+[backup/CAREER-6610 bdcad8a2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: backup/CAREER-6610-fresher-and-internship-filter *************
+branch 'backup/CAREER-6610-fresher-and-internship-filter' set up to track 'origin/backup/CAREER-6610-fresher-and-internship-filter'.
+[backup/CAREER-6610-fresher-and-internship-filter 67d6efaa] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: backup/CAREER-6721 *************
+branch 'backup/CAREER-6721' set up to track 'origin/backup/CAREER-6721'.
+[backup/CAREER-6721 3078e1d8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/CAREER-6147-cohort-api-error-handlers *************
+branch 'bugfix/CAREER-6147-cohort-api-error-handlers' set up to track 'origin/bugfix/CAREER-6147-cohort-api-error-handlers'.
+[bugfix/CAREER-6147-cohort-api-error-handlers d0d2c15c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/CAREER-6147-filters-salary-and-experience *************
+branch 'bugfix/CAREER-6147-filters-salary-and-experience' set up to track 'origin/bugfix/CAREER-6147-filters-salary-and-experience'.
+[bugfix/CAREER-6147-filters-salary-and-experience 291ec54f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+[develop 00395b3e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature.bg/job-desc-page *************
+branch 'feature.bg/job-desc-page' set up to track 'origin/feature.bg/job-desc-page'.
+[feature.bg/job-desc-page f171ea47] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-3928 *************
+branch 'feature/CAREER-3928' set up to track 'origin/feature/CAREER-3928'.
+[feature/CAREER-3928 32aabbd2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6152_profile-revamp *************
+branch 'feature/CAREER-6152_profile-revamp' set up to track 'origin/feature/CAREER-6152_profile-revamp'.
+[feature/CAREER-6152_profile-revamp 53ac0cdc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6610-fe-create-ui-of-fresher-only *************
+branch 'feature/CAREER-6610-fe-create-ui-of-fresher-only' set up to track 'origin/feature/CAREER-6610-fe-create-ui-of-fresher-only'.
+[feature/CAREER-6610-fe-create-ui-of-fresher-only 8ca6c7da] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6682-unit-testing-for-career-centre *************
+branch 'feature/CAREER-6682-unit-testing-for-career-centre' set up to track 'origin/feature/CAREER-6682-unit-testing-for-career-centre'.
+[feature/CAREER-6682-unit-testing-for-career-centre d9fa7040] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6722-fe-add-unit-test-coverage *************
+branch 'feature/CAREER-6722-fe-add-unit-test-coverage' set up to track 'origin/feature/CAREER-6722-fe-add-unit-test-coverage'.
+[feature/CAREER-6722-fe-add-unit-test-coverage 5f4ccb53] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6806-all-jobs *************
+branch 'feature/CAREER-6806-all-jobs' set up to track 'origin/feature/CAREER-6806-all-jobs'.
+[feature/CAREER-6806-all-jobs 86f8e75a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DEL-1176 *************
+branch 'feature/DEL-1176' set up to track 'origin/feature/DEL-1176'.
+[feature/DEL-1176 458b15cc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/search-params *************
+branch 'feature/search-params' set up to track 'origin/feature/search-params'.
+[feature/search-params 89357484] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: hotfix/ETA-159 *************
+branch 'hotfix/ETA-159' set up to track 'origin/hotfix/ETA-159'.
+[hotfix/ETA-159 f7218197] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release/CAREER-6731-change-of-banner-content *************
+branch 'release/CAREER-6731-change-of-banner-content' set up to track 'origin/release/CAREER-6731-change-of-banner-content'.
+[release/CAREER-6731-change-of-banner-content 9a807e3d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release/DEL-1176 *************
+branch 'release/DEL-1176' set up to track 'origin/release/DEL-1176'.
+[release/DEL-1176 d18809f6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release/DEL-1315-when-a-job-is-unpublished-from- *************
+branch 'release/DEL-1315-when-a-job-is-unpublished-from-' set up to track 'origin/release/DEL-1315-when-a-job-is-unpublished-from-'.
+[release/DEL-1315-when-a-job-is-unpublished-from- 8f59fd83] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release/DEL-1315-when-a-job-is-unpublished-from-fixes-2-Nov *************
+branch 'release/DEL-1315-when-a-job-is-unpublished-from-fixes-2-Nov' set up to track 'origin/release/DEL-1315-when-a-job-is-unpublished-from-fixes-2-Nov'.
+[release/DEL-1315-when-a-job-is-unpublished-from-fixes-2-Nov 27eb6ffd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release/remove-third-party-jobs *************
+branch 'release/remove-third-party-jobs' set up to track 'origin/release/remove-third-party-jobs'.
+[release/remove-third-party-jobs eace90af] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release/unit-test-coverage *************
+branch 'release/unit-test-coverage' set up to track 'origin/release/unit-test-coverage'.
+[release/unit-test-coverage 8b68e2ad] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo career-centre-frontend are: CAREER-6654-jobs-cardbackup/CAREER-6610backup/CAREER-6610-fresher-and-internship-filterbackup/CAREER-6721bugfix/CAREER-6147-cohort-api-error-handlersbugfix/CAREER-6147-filters-salary-and-experiencedevelopfeature.bg/job-desc-pagefeature/CAREER-3928feature/CAREER-6152_profile-revampfeature/CAREER-6610-fe-create-ui-of-fresher-onlyfeature/CAREER-6682-unit-testing-for-career-centrefeature/CAREER-6722-fe-add-unit-test-coveragefeature/CAREER-6806-all-jobsfeature/DEL-1176feature/search-paramshotfix/ETA-159release/CAREER-6731-change-of-banner-contentrelease/DEL-1176release/DEL-1315-when-a-job-is-unpublished-from-release/DEL-1315-when-a-job-is-unpublished-from-fixes-2-Novrelease/remove-third-party-jobsrelease/unit-test-coverage  
+count of branch for repo career-centre-frontend :- 1
+Cleanup completed... for career-centre-frontend
+******************************-----------******************************
+working on repo event-integration ........ 
+************* Processing for branch: CAREER-5341 *************
+branch 'CAREER-5341' set up to track 'origin/CAREER-5341'.
+[CAREER-5341 d0146be] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5801 *************
+branch 'CAREER-5801' set up to track 'origin/CAREER-5801'.
+[CAREER-5801 908f24f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-6835 *************
+branch 'CAREER-6835' set up to track 'origin/CAREER-6835'.
+[CAREER-6835 607106c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+[develop 9572b35] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DEL-1095-on-recruits-xopa-vertical-custo *************
+branch 'feature/DEL-1095-on-recruits-xopa-vertical-custo' set up to track 'origin/feature/DEL-1095-on-recruits-xopa-vertical-custo'.
+[feature/DEL-1095-on-recruits-xopa-vertical-custo f64e288] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DEL-1172-on-rekruts-xopa-the-job-categor *************
+branch 'feature/DEL-1172-on-rekruts-xopa-the-job-categor' set up to track 'origin/feature/DEL-1172-on-rekruts-xopa-the-job-categor'.
+[feature/DEL-1172-on-rekruts-xopa-the-job-categor 4c762b8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: prod-0.0.80-6-sep *************
+branch 'prod-0.0.80-6-sep' set up to track 'origin/prod-0.0.80-6-sep'.
+[prod-0.0.80-6-sep d8c9753] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaase/DEL-1095-on-recruits-xopa-vertical *************
+branch 'releaase/DEL-1095-on-recruits-xopa-vertical' set up to track 'origin/releaase/DEL-1095-on-recruits-xopa-vertical'.
+[releaase/DEL-1095-on-recruits-xopa-vertical b695e19] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release *************
+branch 'release' set up to track 'origin/release'.
+[release 90b66d4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1003-XOPA-TO-CAREER *************
+branch 'releaseDEL-1003-XOPA-TO-CAREER' set up to track 'origin/releaseDEL-1003-XOPA-TO-CAREER'.
+[releaseDEL-1003-XOPA-TO-CAREER 2abbb38] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1005-xopa-uglearn *************
+branch 'releaseDEL-1005-xopa-uglearn' set up to track 'origin/releaseDEL-1005-xopa-uglearn'.
+[releaseDEL-1005-xopa-uglearn 806761c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1095-on-recruits-xopa-vertical-custo *************
+branch 'releaseDEL-1095-on-recruits-xopa-vertical-custo' set up to track 'origin/releaseDEL-1095-on-recruits-xopa-vertical-custo'.
+[releaseDEL-1095-on-recruits-xopa-vertical-custo cda2e09] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1172-on-rekruts-xopa-the-job-cate *************
+branch 'releaseDEL-1172-on-rekruts-xopa-the-job-cate' set up to track 'origin/releaseDEL-1172-on-rekruts-xopa-the-job-cate'.
+[releaseDEL-1172-on-rekruts-xopa-the-job-cate 23d47b2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1172-on-rekruts-xopa-the-job-categor *************
+branch 'releaseDEL-1172-on-rekruts-xopa-the-job-categor' set up to track 'origin/releaseDEL-1172-on-rekruts-xopa-the-job-categor'.
+[releaseDEL-1172-on-rekruts-xopa-the-job-categor 9d8f000] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1173-status-mapping-from-rekruts-xop *************
+branch 'releaseDEL-1173-status-mapping-from-rekruts-xop' set up to track 'origin/releaseDEL-1173-status-mapping-from-rekruts-xop'.
+[releaseDEL-1173-status-mapping-from-rekruts-xop 8c27480] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1174-Xopa-Careers *************
+branch 'releaseDEL-1174-Xopa-Careers' set up to track 'origin/releaseDEL-1174-Xopa-Careers'.
+[releaseDEL-1174-Xopa-Careers cd6dbfc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1174-XopaAndCareer *************
+branch 'releaseDEL-1174-XopaAndCareer' set up to track 'origin/releaseDEL-1174-XopaAndCareer'.
+[releaseDEL-1174-XopaAndCareer 7fe8f6a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1174-job-status-on-xopa-should-be-co *************
+branch 'releaseDEL-1174-job-status-on-xopa-should-be-co' set up to track 'origin/releaseDEL-1174-job-status-on-xopa-should-be-co'.
+[releaseDEL-1174-job-status-on-xopa-should-be-co 5783788] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1174-job-status-on-xopa-should-be-considered-when-a-job-is-published-updated-and-accordingly-it-should-accept-applications-on-career-center *************
+branch 'releaseDEL-1174-job-status-on-xopa-should-be-considered-when-a-job-is-published-updated-and-accordingly-it-should-accept-applications-on-career-center' set up to track 'origin/releaseDEL-1174-job-status-on-xopa-should-be-considered-when-a-job-is-published-updated-and-accordingly-it-should-accept-applications-on-career-center'.
+[releaseDEL-1174-job-status-on-xopa-should-be-considered-when-a-job-is-published-updated-and-accordingly-it-should-accept-applications-on-career-center 4092c38] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1346-change-domain-field-from-array- *************
+branch 'releaseDEL-1346-change-domain-field-from-array-' set up to track 'origin/releaseDEL-1346-change-domain-field-from-array-'.
+[releaseDEL-1346-change-domain-field-from-array- 88d1429] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-1387-Alternate-company-name *************
+branch 'releaseDEL-1387-Alternate-company-name' set up to track 'origin/releaseDEL-1387-Alternate-company-name'.
+[releaseDEL-1387-Alternate-company-name 9725ec5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5341 *************
+branch 'release_CAREER-5341' set up to track 'origin/release_CAREER-5341'.
+[release_CAREER-5341 ad7b14c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5914 *************
+branch 'release_CAREER-5914' set up to track 'origin/release_CAREER-5914'.
+[release_CAREER-5914 275ce9a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6216 *************
+branch 'release_CAREER-6216' set up to track 'origin/release_CAREER-6216'.
+[release_CAREER-6216 7b5bda2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6603 *************
+branch 'release_CAREER-6603' set up to track 'origin/release_CAREER-6603'.
+[release_CAREER-6603 08f5d7c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6801 *************
+branch 'release_CAREER-6801' set up to track 'origin/release_CAREER-6801'.
+[release_CAREER-6801 322bd57] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6835 *************
+branch 'release_CAREER-6835' set up to track 'origin/release_CAREER-6835'.
+[release_CAREER-6835 cb76ab9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6845-case-insensative-location-string *************
+branch 'release_CAREER-6845-case-insensative-location-string' set up to track 'origin/release_CAREER-6845-case-insensative-location-string'.
+[release_CAREER-6845-case-insensative-location-string 49f0149] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo event-integration are: CAREER-5341CAREER-5801CAREER-6835developfeature/DEL-1095-on-recruits-xopa-vertical-custofeature/DEL-1172-on-rekruts-xopa-the-job-categorprod-0.0.80-6-sepreleaase/DEL-1095-on-recruits-xopa-verticalreleasereleaseDEL-1003-XOPA-TO-CAREERreleaseDEL-1005-xopa-uglearnreleaseDEL-1095-on-recruits-xopa-vertical-custoreleaseDEL-1172-on-rekruts-xopa-the-job-catereleaseDEL-1172-on-rekruts-xopa-the-job-categorreleaseDEL-1173-status-mapping-from-rekruts-xopreleaseDEL-1174-Xopa-CareersreleaseDEL-1174-XopaAndCareerreleaseDEL-1174-job-status-on-xopa-should-be-coreleaseDEL-1174-job-status-on-xopa-should-be-considered-when-a-job-is-published-updated-and-accordingly-it-should-accept-applications-on-career-centerreleaseDEL-1346-change-domain-field-from-array-releaseDEL-1387-Alternate-company-namerelease_CAREER-5341release_CAREER-5914release_CAREER-6216release_CAREER-6603release_CAREER-6801release_CAREER-6835release_CAREER-6845-case-insensative-location-string  
+count of branch for repo event-integration :- 1
+Cleanup completed... for event-integration
+******************************-----------******************************
+working on repo one-upgrad-event-integration ........ 
+all repos are: careers-api-spring career-centre-frontend event-integration one-upgrad-event-integration one-upgrad-career-service
+******************************-----------******************************
+working on repo careers-api-spring ........ 
+************* Processing for branch: CAREER-3328-provide-logstash-log-support *************
+branch 'CAREER-3328-provide-logstash-log-support' set up to track 'origin/CAREER-3328-provide-logstash-log-support'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-3704 *************
+branch 'CAREER-3704' set up to track 'origin/CAREER-3704'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-3978 *************
+branch 'CAREER-3978' set up to track 'origin/CAREER-3978'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-4030 *************
+branch 'CAREER-4030' set up to track 'origin/CAREER-4030'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-5341 *************
+branch 'CAREER-5341' set up to track 'origin/CAREER-5341'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-5421 *************
+branch 'CAREER-5421' set up to track 'origin/CAREER-5421'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-5437 *************
+branch 'CAREER-5437' set up to track 'origin/CAREER-5437'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-5714 *************
+branch 'CAREER-5714' set up to track 'origin/CAREER-5714'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-5723 *************
+branch 'CAREER-5723' set up to track 'origin/CAREER-5723'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-5732-flyway *************
+branch 'CAREER-5732-flyway' set up to track 'origin/CAREER-5732-flyway'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-6543-disable-cron-on-uat-loadtest *************
+branch 'CAREER-6543-disable-cron-on-uat-loadtest' set up to track 'origin/CAREER-6543-disable-cron-on-uat-loadtest'.
+file already exist skip remaining steps....
+************* Processing for branch: DEL-1174-Jobstatus-need-to-be-consider *************
+branch 'DEL-1174-Jobstatus-need-to-be-consider' set up to track 'origin/DEL-1174-Jobstatus-need-to-be-consider'.
+file already exist skip remaining steps....
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+[develop 29aa7b3d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+error permission denied for develop
+************* Processing for branch: feature/CAREER-2935 *************
+branch 'feature/CAREER-2935' set up to track 'origin/feature/CAREER-2935'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-3003 *************
+branch 'feature/CAREER-3003' set up to track 'origin/feature/CAREER-3003'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-3004-test *************
+branch 'feature/CAREER-3004-test' set up to track 'origin/feature/CAREER-3004-test'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-3088 *************
+branch 'feature/CAREER-3088' set up to track 'origin/feature/CAREER-3088'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-3263 *************
+branch 'feature/CAREER-3263' set up to track 'origin/feature/CAREER-3263'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-3333 *************
+branch 'feature/CAREER-3333' set up to track 'origin/feature/CAREER-3333'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-4040 *************
+branch 'feature/CAREER-4040' set up to track 'origin/feature/CAREER-4040'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-4076 *************
+branch 'feature/CAREER-4076' set up to track 'origin/feature/CAREER-4076'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-4279 *************
+branch 'feature/CAREER-4279' set up to track 'origin/feature/CAREER-4279'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-4305 *************
+branch 'feature/CAREER-4305' set up to track 'origin/feature/CAREER-4305'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-6553-normalised-status *************
+branch 'feature/CAREER-6553-normalised-status' set up to track 'origin/feature/CAREER-6553-normalised-status'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-6555-redirect-user-link *************
+branch 'feature/CAREER-6555-redirect-user-link' set up to track 'origin/feature/CAREER-6555-redirect-user-link'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-6792-study-abroad-support *************
+branch 'feature/CAREER-6792-study-abroad-support' set up to track 'origin/feature/CAREER-6792-study-abroad-support'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-6792-study-abroad-support-release *************
+branch 'feature/CAREER-6792-study-abroad-support-release' set up to track 'origin/feature/CAREER-6792-study-abroad-support-release'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-6845-case-insensative-location-string *************
+branch 'feature/CAREER-6845-case-insensative-location-string' set up to track 'origin/feature/CAREER-6845-case-insensative-location-string'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CRM4E-1462-ordering-job-on-salary *************
+branch 'feature/CRM4E-1462-ordering-job-on-salary' set up to track 'origin/feature/CRM4E-1462-ordering-job-on-salary'.
+file already exist skip remaining steps....
+************* Processing for branch: feature_CAREER-6801-Recommended-jobs-fix *************
+branch 'feature_CAREER-6801-Recommended-jobs-fix' set up to track 'origin/feature_CAREER-6801-Recommended-jobs-fix'.
+file already exist skip remaining steps....
+************* Processing for branch: hotfix/CAREER-3626 *************
+branch 'hotfix/CAREER-3626' set up to track 'origin/hotfix/CAREER-3626'.
+file already exist skip remaining steps....
+************* Processing for branch: prod-1.0.690-branch-14Aug *************
+branch 'prod-1.0.690-branch-14Aug' set up to track 'origin/prod-1.0.690-branch-14Aug'.
+file already exist skip remaining steps....
+************* Processing for branch: releas-branch-for-develop *************
+branch 'releas-branch-for-develop' set up to track 'origin/releas-branch-for-develop'.
+file already exist skip remaining steps....
+************* Processing for branch: release *************
+branch 'release' set up to track 'origin/release'.
+[release 240a3efa] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+error permission denied for release
+************* Processing for branch: release-1.0.700-prod *************
+branch 'release-1.0.700-prod' set up to track 'origin/release-1.0.700-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: release-1.0.708-2-Nov *************
+branch 'release-1.0.708-2-Nov' set up to track 'origin/release-1.0.708-2-Nov'.
+file already exist skip remaining steps....
+************* Processing for branch: release-CAREER-3003 *************
+branch 'release-CAREER-3003' set up to track 'origin/release-CAREER-3003'.
+file already exist skip remaining steps....
+************* Processing for branch: release-CAREER-3416 *************
+branch 'release-CAREER-3416' set up to track 'origin/release-CAREER-3416'.
+file already exist skip remaining steps....
+************* Processing for branch: release-b4-2ndsep-xopa *************
+branch 'release-b4-2ndsep-xopa' set up to track 'origin/release-b4-2ndsep-xopa'.
+file already exist skip remaining steps....
+************* Processing for branch: release-logs *************
+branch 'release-logs' set up to track 'origin/release-logs'.
+file already exist skip remaining steps....
+************* Processing for branch: release-staging-without-version *************
+branch 'release-staging-without-version' set up to track 'origin/release-staging-without-version'.
+file already exist skip remaining steps....
+************* Processing for branch: release-test-CAREER-2935 *************
+branch 'release-test-CAREER-2935' set up to track 'origin/release-test-CAREER-2935'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1005-xopa-apply-job *************
+branch 'releaseDEL-1005-xopa-apply-job' set up to track 'origin/releaseDEL-1005-xopa-apply-job'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1090-extend-due-date-fix *************
+branch 'releaseDEL-1090-extend-due-date-fix' set up to track 'origin/releaseDEL-1090-extend-due-date-fix'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1172-on-rekruts-xopa *************
+branch 'releaseDEL-1172-on-rekruts-xopa' set up to track 'origin/releaseDEL-1172-on-rekruts-xopa'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1172-on-rekruts-xopa-the-job-categor *************
+branch 'releaseDEL-1172-on-rekruts-xopa-the-job-categor' set up to track 'origin/releaseDEL-1172-on-rekruts-xopa-the-job-categor'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1173-status-mapping-from-rekruts-xop *************
+branch 'releaseDEL-1173-status-mapping-from-rekruts-xop' set up to track 'origin/releaseDEL-1173-status-mapping-from-rekruts-xop'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1174-XopaAndCareer *************
+branch 'releaseDEL-1174-XopaAndCareer' set up to track 'origin/releaseDEL-1174-XopaAndCareer'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1174-xopa-and-careerIntegration *************
+branch 'releaseDEL-1174-xopa-and-careerIntegration' set up to track 'origin/releaseDEL-1174-xopa-and-careerIntegration'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1245-user-is-not-able-to-apply-to-a- *************
+branch 'releaseDEL-1245-user-is-not-able-to-apply-to-a-' set up to track 'origin/releaseDEL-1245-user-is-not-able-to-apply-to-a-'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1315-when-a-job-is-unpublished-from *************
+branch 'releaseDEL-1315-when-a-job-is-unpublished-from' set up to track 'origin/releaseDEL-1315-when-a-job-is-unpublished-from'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1316-Xopa-status-update *************
+branch 'releaseDEL-1316-Xopa-status-update' set up to track 'origin/releaseDEL-1316-Xopa-status-update'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1316-update-xopa-status-mapping-sep *************
+branch 'releaseDEL-1316-update-xopa-status-mapping-sep' set up to track 'origin/releaseDEL-1316-update-xopa-status-mapping-sep'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1316-updated-mapping *************
+branch 'releaseDEL-1316-updated-mapping' set up to track 'origin/releaseDEL-1316-updated-mapping'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1432-Application-status-update *************
+branch 'releaseDEL-1432-Application-status-update' set up to track 'origin/releaseDEL-1432-Application-status-update'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-944-disable-jobspickr *************
+branch 'releaseDEL-944-disable-jobspickr' set up to track 'origin/releaseDEL-944-disable-jobspickr'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-3419 *************
+branch 'release_CAREER-3419' set up to track 'origin/release_CAREER-3419'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-3704 *************
+branch 'release_CAREER-3704' set up to track 'origin/release_CAREER-3704'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-3808 *************
+branch 'release_CAREER-3808' set up to track 'origin/release_CAREER-3808'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-3834 *************
+branch 'release_CAREER-3834' set up to track 'origin/release_CAREER-3834'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-3846 *************
+branch 'release_CAREER-3846' set up to track 'origin/release_CAREER-3846'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-3978 *************
+branch 'release_CAREER-3978' set up to track 'origin/release_CAREER-3978'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-4025 *************
+branch 'release_CAREER-4025' set up to track 'origin/release_CAREER-4025'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-4030 *************
+branch 'release_CAREER-4030' set up to track 'origin/release_CAREER-4030'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-4045 *************
+branch 'release_CAREER-4045' set up to track 'origin/release_CAREER-4045'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-4171 *************
+branch 'release_CAREER-4171' set up to track 'origin/release_CAREER-4171'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-4295 *************
+branch 'release_CAREER-4295' set up to track 'origin/release_CAREER-4295'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-4298 *************
+branch 'release_CAREER-4298' set up to track 'origin/release_CAREER-4298'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-4305 *************
+branch 'release_CAREER-4305' set up to track 'origin/release_CAREER-4305'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-4406 *************
+branch 'release_CAREER-4406' set up to track 'origin/release_CAREER-4406'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-4431 *************
+branch 'release_CAREER-4431' set up to track 'origin/release_CAREER-4431'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-4535 *************
+branch 'release_CAREER-4535' set up to track 'origin/release_CAREER-4535'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5020 *************
+branch 'release_CAREER-5020' set up to track 'origin/release_CAREER-5020'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5069 *************
+branch 'release_CAREER-5069' set up to track 'origin/release_CAREER-5069'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5269 *************
+branch 'release_CAREER-5269' set up to track 'origin/release_CAREER-5269'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5341 *************
+branch 'release_CAREER-5341' set up to track 'origin/release_CAREER-5341'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5617 *************
+branch 'release_CAREER-5617' set up to track 'origin/release_CAREER-5617'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5656 *************
+branch 'release_CAREER-5656' set up to track 'origin/release_CAREER-5656'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5716 *************
+branch 'release_CAREER-5716' set up to track 'origin/release_CAREER-5716'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5727 *************
+branch 'release_CAREER-5727' set up to track 'origin/release_CAREER-5727'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5732-flyway *************
+branch 'release_CAREER-5732-flyway' set up to track 'origin/release_CAREER-5732-flyway'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5761 *************
+branch 'release_CAREER-5761' set up to track 'origin/release_CAREER-5761'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5829 *************
+branch 'release_CAREER-5829' set up to track 'origin/release_CAREER-5829'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5832 *************
+branch 'release_CAREER-5832' set up to track 'origin/release_CAREER-5832'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5845 *************
+branch 'release_CAREER-5845' set up to track 'origin/release_CAREER-5845'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5914 *************
+branch 'release_CAREER-5914' set up to track 'origin/release_CAREER-5914'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5935 *************
+branch 'release_CAREER-5935' set up to track 'origin/release_CAREER-5935'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5943 *************
+branch 'release_CAREER-5943' set up to track 'origin/release_CAREER-5943'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5948 *************
+branch 'release_CAREER-5948' set up to track 'origin/release_CAREER-5948'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5991 *************
+branch 'release_CAREER-5991' set up to track 'origin/release_CAREER-5991'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6051 *************
+branch 'release_CAREER-6051' set up to track 'origin/release_CAREER-6051'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6079 *************
+branch 'release_CAREER-6079' set up to track 'origin/release_CAREER-6079'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6086 *************
+branch 'release_CAREER-6086' set up to track 'origin/release_CAREER-6086'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6112 *************
+branch 'release_CAREER-6112' set up to track 'origin/release_CAREER-6112'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6128 *************
+branch 'release_CAREER-6128' set up to track 'origin/release_CAREER-6128'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6198 *************
+branch 'release_CAREER-6198' set up to track 'origin/release_CAREER-6198'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6216 *************
+branch 'release_CAREER-6216' set up to track 'origin/release_CAREER-6216'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6251 *************
+branch 'release_CAREER-6251' set up to track 'origin/release_CAREER-6251'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6253 *************
+branch 'release_CAREER-6253' set up to track 'origin/release_CAREER-6253'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6274 *************
+branch 'release_CAREER-6274' set up to track 'origin/release_CAREER-6274'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6288 *************
+branch 'release_CAREER-6288' set up to track 'origin/release_CAREER-6288'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6382 *************
+branch 'release_CAREER-6382' set up to track 'origin/release_CAREER-6382'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6388 *************
+branch 'release_CAREER-6388' set up to track 'origin/release_CAREER-6388'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6400 *************
+branch 'release_CAREER-6400' set up to track 'origin/release_CAREER-6400'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6410 *************
+branch 'release_CAREER-6410' set up to track 'origin/release_CAREER-6410'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6439 *************
+branch 'release_CAREER-6439' set up to track 'origin/release_CAREER-6439'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6484 *************
+branch 'release_CAREER-6484' set up to track 'origin/release_CAREER-6484'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6499 *************
+branch 'release_CAREER-6499' set up to track 'origin/release_CAREER-6499'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6532 *************
+branch 'release_CAREER-6532' set up to track 'origin/release_CAREER-6532'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6543 *************
+branch 'release_CAREER-6543' set up to track 'origin/release_CAREER-6543'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6568 *************
+branch 'release_CAREER-6568' set up to track 'origin/release_CAREER-6568'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6597 *************
+branch 'release_CAREER-6597' set up to track 'origin/release_CAREER-6597'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6603 *************
+branch 'release_CAREER-6603' set up to track 'origin/release_CAREER-6603'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6622 *************
+branch 'release_CAREER-6622' set up to track 'origin/release_CAREER-6622'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6634 *************
+branch 'release_CAREER-6634' set up to track 'origin/release_CAREER-6634'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6684 *************
+branch 'release_CAREER-6684' set up to track 'origin/release_CAREER-6684'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6748 *************
+branch 'release_CAREER-6748' set up to track 'origin/release_CAREER-6748'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6763-cache-auth-token *************
+branch 'release_CAREER-6763-cache-auth-token' set up to track 'origin/release_CAREER-6763-cache-auth-token'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6780-increase-connection-pool *************
+branch 'release_CAREER-6780-increase-connection-pool' set up to track 'origin/release_CAREER-6780-increase-connection-pool'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6780-increase-connection-pool-size *************
+branch 'release_CAREER-6780-increase-connection-pool-size' set up to track 'origin/release_CAREER-6780-increase-connection-pool-size'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6792-study-abroad-support *************
+branch 'release_CAREER-6792-study-abroad-support' set up to track 'origin/release_CAREER-6792-study-abroad-support'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6801 *************
+branch 'release_CAREER-6801' set up to track 'origin/release_CAREER-6801'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6832-currency-field-from-ceipal *************
+branch 'release_CAREER-6832-currency-field-from-ceipal' set up to track 'origin/release_CAREER-6832-currency-field-from-ceipal'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6845-case-insensative-location-string *************
+branch 'release_CAREER-6845-case-insensative-location-string' set up to track 'origin/release_CAREER-6845-case-insensative-location-string'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6853 *************
+branch 'release_CAREER-6853' set up to track 'origin/release_CAREER-6853'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-7682-exclude-insofe-cohort *************
+branch 'release_CAREER-7682-exclude-insofe-cohort' set up to track 'origin/release_CAREER-7682-exclude-insofe-cohort'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER_5122 *************
+branch 'release_CAREER_5122' set up to track 'origin/release_CAREER_5122'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER_5216 *************
+branch 'release_CAREER_5216' set up to track 'origin/release_CAREER_5216'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CRM4E-1462 *************
+branch 'release_CRM4E-1462' set up to track 'origin/release_CRM4E-1462'.
+file already exist skip remaining steps....
+************* Processing for branch: release_devops *************
+branch 'release_devops' set up to track 'origin/release_devops'.
+file already exist skip remaining steps....
+************* Processing for branch: release_devops_sonar *************
+branch 'release_devops_sonar' set up to track 'origin/release_devops_sonar'.
+file already exist skip remaining steps....
+************* Processing for branch: release_feature/CAREER-3174 *************
+branch 'release_feature/CAREER-3174' set up to track 'origin/release_feature/CAREER-3174'.
+file already exist skip remaining steps....
+************* Processing for branch: release_feature/CAREER-3333 *************
+branch 'release_feature/CAREER-3333' set up to track 'origin/release_feature/CAREER-3333'.
+file already exist skip remaining steps....
+************* Processing for branch: release_feature/CAREER-4279 *************
+branch 'release_feature/CAREER-4279' set up to track 'origin/release_feature/CAREER-4279'.
+file already exist skip remaining steps....
+************* Processing for branch: release_feature_CAREER-5012 *************
+branch 'release_feature_CAREER-5012' set up to track 'origin/release_feature_CAREER-5012'.
+file already exist skip remaining steps....
+************* Processing for branch: release_feature_CAREER-5020 *************
+branch 'release_feature_CAREER-5020' set up to track 'origin/release_feature_CAREER-5020'.
+file already exist skip remaining steps....
+************* Processing for branch: release_feature_CAREER-5197 *************
+branch 'release_feature_CAREER-5197' set up to track 'origin/release_feature_CAREER-5197'.
+file already exist skip remaining steps....
+************* Processing for branch: release_feature_CAREER-5421 *************
+branch 'release_feature_CAREER-5421' set up to track 'origin/release_feature_CAREER-5421'.
+file already exist skip remaining steps....
+************* Processing for branch: release_feature_CAREER-5582 *************
+branch 'release_feature_CAREER-5582' set up to track 'origin/release_feature_CAREER-5582'.
+file already exist skip remaining steps....
+************* Processing for branch: release_feature_CAREER-5638 *************
+branch 'release_feature_CAREER-5638' set up to track 'origin/release_feature_CAREER-5638'.
+file already exist skip remaining steps....
+************* Processing for branch: release_feature_CAREER-5675 *************
+branch 'release_feature_CAREER-5675' set up to track 'origin/release_feature_CAREER-5675'.
+file already exist skip remaining steps....
+************* Processing for branch: release_staging *************
+branch 'release_staging' set up to track 'origin/release_staging'.
+file already exist skip remaining steps....
+************* Processing for branch: release_to_master_merge_conflict *************
+branch 'release_to_master_merge_conflict' set up to track 'origin/release_to_master_merge_conflict'.
+file already exist skip remaining steps....
+************* Processing for branch: release_url_log *************
+branch 'release_url_log' set up to track 'origin/release_url_log'.
+file already exist skip remaining steps....
+************* Processing for branch: tech_enhancement *************
+branch 'tech_enhancement' set up to track 'origin/tech_enhancement'.
+file already exist skip remaining steps....
+Actioned perform on branch for repo careers-api-spring are: developrelease  
+count of branch for repo careers-api-spring :- 1
+Cleanup completed... for careers-api-spring
+******************************-----------******************************
+working on repo career-centre-frontend ........ 
+************* Processing for branch: CAREER-6654-jobs-card *************
+branch 'CAREER-6654-jobs-card' set up to track 'origin/CAREER-6654-jobs-card'.
+file already exist skip remaining steps....
+************* Processing for branch: backup/CAREER-6610 *************
+branch 'backup/CAREER-6610' set up to track 'origin/backup/CAREER-6610'.
+file already exist skip remaining steps....
+************* Processing for branch: backup/CAREER-6610-fresher-and-internship-filter *************
+branch 'backup/CAREER-6610-fresher-and-internship-filter' set up to track 'origin/backup/CAREER-6610-fresher-and-internship-filter'.
+file already exist skip remaining steps....
+************* Processing for branch: backup/CAREER-6721 *************
+branch 'backup/CAREER-6721' set up to track 'origin/backup/CAREER-6721'.
+file already exist skip remaining steps....
+************* Processing for branch: bugfix/CAREER-6147-cohort-api-error-handlers *************
+branch 'bugfix/CAREER-6147-cohort-api-error-handlers' set up to track 'origin/bugfix/CAREER-6147-cohort-api-error-handlers'.
+file already exist skip remaining steps....
+************* Processing for branch: bugfix/CAREER-6147-filters-salary-and-experience *************
+branch 'bugfix/CAREER-6147-filters-salary-and-experience' set up to track 'origin/bugfix/CAREER-6147-filters-salary-and-experience'.
+file already exist skip remaining steps....
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.bg/job-desc-page *************
+branch 'feature.bg/job-desc-page' set up to track 'origin/feature.bg/job-desc-page'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-3928 *************
+branch 'feature/CAREER-3928' set up to track 'origin/feature/CAREER-3928'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-6152_profile-revamp *************
+branch 'feature/CAREER-6152_profile-revamp' set up to track 'origin/feature/CAREER-6152_profile-revamp'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-6610-fe-create-ui-of-fresher-only *************
+branch 'feature/CAREER-6610-fe-create-ui-of-fresher-only' set up to track 'origin/feature/CAREER-6610-fe-create-ui-of-fresher-only'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-6682-unit-testing-for-career-centre *************
+branch 'feature/CAREER-6682-unit-testing-for-career-centre' set up to track 'origin/feature/CAREER-6682-unit-testing-for-career-centre'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-6722-fe-add-unit-test-coverage *************
+branch 'feature/CAREER-6722-fe-add-unit-test-coverage' set up to track 'origin/feature/CAREER-6722-fe-add-unit-test-coverage'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/CAREER-6806-all-jobs *************
+branch 'feature/CAREER-6806-all-jobs' set up to track 'origin/feature/CAREER-6806-all-jobs'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/DEL-1176 *************
+branch 'feature/DEL-1176' set up to track 'origin/feature/DEL-1176'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/search-params *************
+branch 'feature/search-params' set up to track 'origin/feature/search-params'.
+file already exist skip remaining steps....
+************* Processing for branch: hotfix/ETA-159 *************
+branch 'hotfix/ETA-159' set up to track 'origin/hotfix/ETA-159'.
+file already exist skip remaining steps....
+************* Processing for branch: release/CAREER-6731-change-of-banner-content *************
+branch 'release/CAREER-6731-change-of-banner-content' set up to track 'origin/release/CAREER-6731-change-of-banner-content'.
+file already exist skip remaining steps....
+************* Processing for branch: release/DEL-1176 *************
+branch 'release/DEL-1176' set up to track 'origin/release/DEL-1176'.
+file already exist skip remaining steps....
+************* Processing for branch: release/DEL-1315-when-a-job-is-unpublished-from- *************
+branch 'release/DEL-1315-when-a-job-is-unpublished-from-' set up to track 'origin/release/DEL-1315-when-a-job-is-unpublished-from-'.
+file already exist skip remaining steps....
+************* Processing for branch: release/DEL-1315-when-a-job-is-unpublished-from-fixes-2-Nov *************
+branch 'release/DEL-1315-when-a-job-is-unpublished-from-fixes-2-Nov' set up to track 'origin/release/DEL-1315-when-a-job-is-unpublished-from-fixes-2-Nov'.
+file already exist skip remaining steps....
+************* Processing for branch: release/remove-third-party-jobs *************
+branch 'release/remove-third-party-jobs' set up to track 'origin/release/remove-third-party-jobs'.
+file already exist skip remaining steps....
+************* Processing for branch: release/unit-test-coverage *************
+branch 'release/unit-test-coverage' set up to track 'origin/release/unit-test-coverage'.
+file already exist skip remaining steps....
+Actioned perform on branch for repo career-centre-frontend are:   
+count of branch for repo career-centre-frontend :- 0
+Cleanup completed... for career-centre-frontend
+******************************-----------******************************
+working on repo event-integration ........ 
+************* Processing for branch: CAREER-5341 *************
+branch 'CAREER-5341' set up to track 'origin/CAREER-5341'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-5801 *************
+branch 'CAREER-5801' set up to track 'origin/CAREER-5801'.
+file already exist skip remaining steps....
+************* Processing for branch: CAREER-6835 *************
+branch 'CAREER-6835' set up to track 'origin/CAREER-6835'.
+file already exist skip remaining steps....
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/DEL-1095-on-recruits-xopa-vertical-custo *************
+branch 'feature/DEL-1095-on-recruits-xopa-vertical-custo' set up to track 'origin/feature/DEL-1095-on-recruits-xopa-vertical-custo'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/DEL-1172-on-rekruts-xopa-the-job-categor *************
+branch 'feature/DEL-1172-on-rekruts-xopa-the-job-categor' set up to track 'origin/feature/DEL-1172-on-rekruts-xopa-the-job-categor'.
+file already exist skip remaining steps....
+************* Processing for branch: prod-0.0.80-6-sep *************
+branch 'prod-0.0.80-6-sep' set up to track 'origin/prod-0.0.80-6-sep'.
+file already exist skip remaining steps....
+************* Processing for branch: releaase/DEL-1095-on-recruits-xopa-vertical *************
+branch 'releaase/DEL-1095-on-recruits-xopa-vertical' set up to track 'origin/releaase/DEL-1095-on-recruits-xopa-vertical'.
+file already exist skip remaining steps....
+************* Processing for branch: release *************
+branch 'release' set up to track 'origin/release'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1003-XOPA-TO-CAREER *************
+branch 'releaseDEL-1003-XOPA-TO-CAREER' set up to track 'origin/releaseDEL-1003-XOPA-TO-CAREER'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1005-xopa-uglearn *************
+branch 'releaseDEL-1005-xopa-uglearn' set up to track 'origin/releaseDEL-1005-xopa-uglearn'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1095-on-recruits-xopa-vertical-custo *************
+branch 'releaseDEL-1095-on-recruits-xopa-vertical-custo' set up to track 'origin/releaseDEL-1095-on-recruits-xopa-vertical-custo'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1172-on-rekruts-xopa-the-job-cate *************
+branch 'releaseDEL-1172-on-rekruts-xopa-the-job-cate' set up to track 'origin/releaseDEL-1172-on-rekruts-xopa-the-job-cate'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1172-on-rekruts-xopa-the-job-categor *************
+branch 'releaseDEL-1172-on-rekruts-xopa-the-job-categor' set up to track 'origin/releaseDEL-1172-on-rekruts-xopa-the-job-categor'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1173-status-mapping-from-rekruts-xop *************
+branch 'releaseDEL-1173-status-mapping-from-rekruts-xop' set up to track 'origin/releaseDEL-1173-status-mapping-from-rekruts-xop'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1174-Xopa-Careers *************
+branch 'releaseDEL-1174-Xopa-Careers' set up to track 'origin/releaseDEL-1174-Xopa-Careers'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1174-XopaAndCareer *************
+branch 'releaseDEL-1174-XopaAndCareer' set up to track 'origin/releaseDEL-1174-XopaAndCareer'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1174-job-status-on-xopa-should-be-co *************
+branch 'releaseDEL-1174-job-status-on-xopa-should-be-co' set up to track 'origin/releaseDEL-1174-job-status-on-xopa-should-be-co'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1174-job-status-on-xopa-should-be-considered-when-a-job-is-published-updated-and-accordingly-it-should-accept-applications-on-career-center *************
+branch 'releaseDEL-1174-job-status-on-xopa-should-be-considered-when-a-job-is-published-updated-and-accordingly-it-should-accept-applications-on-career-center' set up to track 'origin/releaseDEL-1174-job-status-on-xopa-should-be-considered-when-a-job-is-published-updated-and-accordingly-it-should-accept-applications-on-career-center'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1346-change-domain-field-from-array- *************
+branch 'releaseDEL-1346-change-domain-field-from-array-' set up to track 'origin/releaseDEL-1346-change-domain-field-from-array-'.
+file already exist skip remaining steps....
+************* Processing for branch: releaseDEL-1387-Alternate-company-name *************
+branch 'releaseDEL-1387-Alternate-company-name' set up to track 'origin/releaseDEL-1387-Alternate-company-name'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5341 *************
+branch 'release_CAREER-5341' set up to track 'origin/release_CAREER-5341'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-5914 *************
+branch 'release_CAREER-5914' set up to track 'origin/release_CAREER-5914'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6216 *************
+branch 'release_CAREER-6216' set up to track 'origin/release_CAREER-6216'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6603 *************
+branch 'release_CAREER-6603' set up to track 'origin/release_CAREER-6603'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6801 *************
+branch 'release_CAREER-6801' set up to track 'origin/release_CAREER-6801'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6835 *************
+branch 'release_CAREER-6835' set up to track 'origin/release_CAREER-6835'.
+file already exist skip remaining steps....
+************* Processing for branch: release_CAREER-6845-case-insensative-location-string *************
+branch 'release_CAREER-6845-case-insensative-location-string' set up to track 'origin/release_CAREER-6845-case-insensative-location-string'.
+file already exist skip remaining steps....
+Actioned perform on branch for repo event-integration are:   
+count of branch for repo event-integration :- 0
+Cleanup completed... for event-integration
+******************************-----------******************************
+working on repo one-upgrad-event-integration ........ 
+************* Processing for branch: CAREER-5341 *************
+branch 'CAREER-5341' set up to track 'origin/CAREER-5341'.
+[CAREER-5341 51a0434] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5801 *************
+branch 'CAREER-5801' set up to track 'origin/CAREER-5801'.
+[CAREER-5801 406ce1e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-6835 *************
+branch 'CAREER-6835' set up to track 'origin/CAREER-6835'.
+[CAREER-6835 c6a92de] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: DEL-1387-add-alternate-company-name *************
+branch 'DEL-1387-add-alternate-company-name' set up to track 'origin/DEL-1387-add-alternate-company-name'.
+[DEL-1387-add-alternate-company-name d398c1a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: IRA-50924-integrating-xopa-with-ug-prism *************
+branch 'IRA-50924-integrating-xopa-with-ug-prism' set up to track 'origin/IRA-50924-integrating-xopa-with-ug-prism'.
+[IRA-50924-integrating-xopa-with-ug-prism 493172f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+[develop fca5d47] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/21Aug2023 *************
+branch 'feature/21Aug2023' set up to track 'origin/feature/21Aug2023'.
+[feature/21Aug2023 9df8ab5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DEL-699-add-vertical *************
+branch 'feature/DEL-699-add-vertical' set up to track 'origin/feature/DEL-699-add-vertical'.
+[feature/DEL-699-add-vertical ac40cff] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-150-one-upgrad-career-portal *************
+branch 'feature/DELTA-150-one-upgrad-career-portal' set up to track 'origin/feature/DELTA-150-one-upgrad-career-portal'.
+[feature/DELTA-150-one-upgrad-career-portal e16462d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-247 *************
+branch 'feature/DELTA-247' set up to track 'origin/feature/DELTA-247'.
+[feature/DELTA-247 b4fdf8b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-276-add-job-category *************
+branch 'feature/DELTA-276-add-job-category' set up to track 'origin/feature/DELTA-276-add-job-category'.
+[feature/DELTA-276-add-job-category 8461461] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-516 *************
+branch 'feature/DELTA-516' set up to track 'origin/feature/DELTA-516'.
+[feature/DELTA-516 b3c5d70] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release *************
+branch 'release' set up to track 'origin/release'.
+[release bc3b16b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDELTA-150-one-upgrad-career-portal *************
+branch 'releaseDELTA-150-one-upgrad-career-portal' set up to track 'origin/releaseDELTA-150-one-upgrad-career-portal'.
+[releaseDELTA-150-one-upgrad-career-portal 1b5afcd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5341 *************
+branch 'release_CAREER-5341' set up to track 'origin/release_CAREER-5341'.
+[release_CAREER-5341 1462b7b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5914 *************
+branch 'release_CAREER-5914' set up to track 'origin/release_CAREER-5914'.
+[release_CAREER-5914 dc16846] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6216 *************
+branch 'release_CAREER-6216' set up to track 'origin/release_CAREER-6216'.
+[release_CAREER-6216 74887fa] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6603 *************
+branch 'release_CAREER-6603' set up to track 'origin/release_CAREER-6603'.
+[release_CAREER-6603 ed358a5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6801 *************
+branch 'release_CAREER-6801' set up to track 'origin/release_CAREER-6801'.
+[release_CAREER-6801 a18c88a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6835 *************
+branch 'release_CAREER-6835' set up to track 'origin/release_CAREER-6835'.
+[release_CAREER-6835 e3c4af3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_devOps *************
+branch 'release_devOps' set up to track 'origin/release_devOps'.
+[release_devOps 628d3d0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo one-upgrad-event-integration are: CAREER-5341CAREER-5801CAREER-6835DEL-1387-add-alternate-company-nameIRA-50924-integrating-xopa-with-ug-prismdevelopfeature/21Aug2023feature/DEL-699-add-verticalfeature/DELTA-150-one-upgrad-career-portalfeature/DELTA-247feature/DELTA-276-add-job-categoryfeature/DELTA-516releasereleaseDELTA-150-one-upgrad-career-portalrelease_CAREER-5341release_CAREER-5914release_CAREER-6216release_CAREER-6603release_CAREER-6801release_CAREER-6835release_devOps  
+count of branch for repo one-upgrad-event-integration :- 1
+Cleanup completed... for one-upgrad-event-integration
+******************************-----------******************************
+working on repo one-upgrad-career-service ........ 
+************* Processing for branch: CAREER-3328-provide-logstash-log-support *************
+branch 'CAREER-3328-provide-logstash-log-support' set up to track 'origin/CAREER-3328-provide-logstash-log-support'.
+[CAREER-3328-provide-logstash-log-support b8484b9c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-3704 *************
+branch 'CAREER-3704' set up to track 'origin/CAREER-3704'.
+[CAREER-3704 4a06911d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-3978 *************
+branch 'CAREER-3978' set up to track 'origin/CAREER-3978'.
+[CAREER-3978 a7c65267] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-4030 *************
+branch 'CAREER-4030' set up to track 'origin/CAREER-4030'.
+[CAREER-4030 7090e9b5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5341 *************
+branch 'CAREER-5341' set up to track 'origin/CAREER-5341'.
+[CAREER-5341 97660c22] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5421 *************
+branch 'CAREER-5421' set up to track 'origin/CAREER-5421'.
+[CAREER-5421 c9a7b416] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5437 *************
+branch 'CAREER-5437' set up to track 'origin/CAREER-5437'.
+[CAREER-5437 5bf5aea7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5714 *************
+branch 'CAREER-5714' set up to track 'origin/CAREER-5714'.
+[CAREER-5714 ff9396f2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5723 *************
+branch 'CAREER-5723' set up to track 'origin/CAREER-5723'.
+[CAREER-5723 e8d439b8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-5732-flyway *************
+branch 'CAREER-5732-flyway' set up to track 'origin/CAREER-5732-flyway'.
+[CAREER-5732-flyway 0ba9720d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: CAREER-6543-disable-cron-on-uat-loadtest *************
+branch 'CAREER-6543-disable-cron-on-uat-loadtest' set up to track 'origin/CAREER-6543-disable-cron-on-uat-loadtest'.
+[CAREER-6543-disable-cron-on-uat-loadtest a682676f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: IRA-50924-integrating-xopa-with-ug-prism *************
+branch 'IRA-50924-integrating-xopa-with-ug-prism' set up to track 'origin/IRA-50924-integrating-xopa-with-ug-prism'.
+[IRA-50924-integrating-xopa-with-ug-prism 34020ef2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: IRA-50928-xopa-to-career-mapping *************
+branch 'IRA-50928-xopa-to-career-mapping' set up to track 'origin/IRA-50928-xopa-to-career-mapping'.
+[IRA-50928-xopa-to-career-mapping 49cc6c5f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: IRA-50932-Apply-job-payload *************
+branch 'IRA-50932-Apply-job-payload' set up to track 'origin/IRA-50932-Apply-job-payload'.
+[IRA-50932-Apply-job-payload e0a6e91f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+[develop 00c9e883] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature.bg/code-structure *************
+branch 'feature.bg/code-structure' set up to track 'origin/feature.bg/code-structure'.
+[feature.bg/code-structure c2534341] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature.bg/company-url *************
+branch 'feature.bg/company-url' set up to track 'origin/feature.bg/company-url'.
+[feature.bg/company-url 2db407d2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/21Aug2023 *************
+branch 'feature/21Aug2023' set up to track 'origin/feature/21Aug2023'.
+[feature/21Aug2023 ad545eea] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-2935 *************
+branch 'feature/CAREER-2935' set up to track 'origin/feature/CAREER-2935'.
+[feature/CAREER-2935 596e353f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-3003 *************
+branch 'feature/CAREER-3003' set up to track 'origin/feature/CAREER-3003'.
+[feature/CAREER-3003 90da71be] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-3004-test *************
+branch 'feature/CAREER-3004-test' set up to track 'origin/feature/CAREER-3004-test'.
+[feature/CAREER-3004-test 4b967226] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-3088 *************
+branch 'feature/CAREER-3088' set up to track 'origin/feature/CAREER-3088'.
+[feature/CAREER-3088 a12a5ddb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-3263 *************
+branch 'feature/CAREER-3263' set up to track 'origin/feature/CAREER-3263'.
+[feature/CAREER-3263 21dca5fa] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-3333 *************
+branch 'feature/CAREER-3333' set up to track 'origin/feature/CAREER-3333'.
+[feature/CAREER-3333 cf1df51e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-4040 *************
+branch 'feature/CAREER-4040' set up to track 'origin/feature/CAREER-4040'.
+[feature/CAREER-4040 0adfc214] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-4076 *************
+branch 'feature/CAREER-4076' set up to track 'origin/feature/CAREER-4076'.
+[feature/CAREER-4076 32fc4eac] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-4279 *************
+branch 'feature/CAREER-4279' set up to track 'origin/feature/CAREER-4279'.
+[feature/CAREER-4279 bf08e180] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-4305 *************
+branch 'feature/CAREER-4305' set up to track 'origin/feature/CAREER-4305'.
+[feature/CAREER-4305 9d40d6a9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6553-normalised-status *************
+branch 'feature/CAREER-6553-normalised-status' set up to track 'origin/feature/CAREER-6553-normalised-status'.
+[feature/CAREER-6553-normalised-status 92e5f45d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6555-redirect-user-link *************
+branch 'feature/CAREER-6555-redirect-user-link' set up to track 'origin/feature/CAREER-6555-redirect-user-link'.
+[feature/CAREER-6555-redirect-user-link 1606051f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6792-study-abroad-support *************
+branch 'feature/CAREER-6792-study-abroad-support' set up to track 'origin/feature/CAREER-6792-study-abroad-support'.
+[feature/CAREER-6792-study-abroad-support c6820add] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CAREER-6792-study-abroad-support-release *************
+branch 'feature/CAREER-6792-study-abroad-support-release' set up to track 'origin/feature/CAREER-6792-study-abroad-support-release'.
+[feature/CAREER-6792-study-abroad-support-release 56cf3691] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/CRM4E-1462-ordering-job-on-salary *************
+branch 'feature/CRM4E-1462-ordering-job-on-salary' set up to track 'origin/feature/CRM4E-1462-ordering-job-on-salary'.
+[feature/CRM4E-1462-ordering-job-on-salary 95cb2047] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DEL-528-increase-workshop-size *************
+branch 'feature/DEL-528-increase-workshop-size' set up to track 'origin/feature/DEL-528-increase-workshop-size'.
+[feature/DEL-528-increase-workshop-size 7fda980c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DEL-646-get-disticnt-countries-jobspickr *************
+branch 'feature/DEL-646-get-disticnt-countries-jobspickr' set up to track 'origin/feature/DEL-646-get-disticnt-countries-jobspickr'.
+[feature/DEL-646-get-disticnt-countries-jobspickr 08bf85d2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DEL-699-save-vertical *************
+branch 'feature/DEL-699-save-vertical' set up to track 'origin/feature/DEL-699-save-vertical'.
+[feature/DEL-699-save-vertical 6f4aba51] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-150-one-upgrad-career-changes *************
+branch 'feature/DELTA-150-one-upgrad-career-changes' set up to track 'origin/feature/DELTA-150-one-upgrad-career-changes'.
+[feature/DELTA-150-one-upgrad-career-changes 28397642] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-236-WorkModeFix *************
+branch 'feature/DELTA-236-WorkModeFix' set up to track 'origin/feature/DELTA-236-WorkModeFix'.
+[feature/DELTA-236-WorkModeFix 40ead2ba] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-236-elastic-search-index-changes *************
+branch 'feature/DELTA-236-elastic-search-index-changes' set up to track 'origin/feature/DELTA-236-elastic-search-index-changes'.
+[feature/DELTA-236-elastic-search-index-changes c79b5fe8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-236-job-portal-career-centre *************
+branch 'feature/DELTA-236-job-portal-career-centre' set up to track 'origin/feature/DELTA-236-job-portal-career-centre'.
+[feature/DELTA-236-job-portal-career-centre e15507ef] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-247-deploy *************
+branch 'feature/DELTA-247-deploy' set up to track 'origin/feature/DELTA-247-deploy'.
+[feature/DELTA-247-deploy 58c9df50] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-252-apply-job-changes *************
+branch 'feature/DELTA-252-apply-job-changes' set up to track 'origin/feature/DELTA-252-apply-job-changes'.
+[feature/DELTA-252-apply-job-changes d002e6b5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-252-save-xopaAppID *************
+branch 'feature/DELTA-252-save-xopaAppID' set up to track 'origin/feature/DELTA-252-save-xopaAppID'.
+[feature/DELTA-252-save-xopaAppID 09e16935] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-279-change-root-url *************
+branch 'feature/DELTA-279-change-root-url' set up to track 'origin/feature/DELTA-279-change-root-url'.
+[feature/DELTA-279-change-root-url e4e5693d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-410-Netflix-DGS-changes *************
+branch 'feature/DELTA-410-Netflix-DGS-changes' set up to track 'origin/feature/DELTA-410-Netflix-DGS-changes'.
+[feature/DELTA-410-Netflix-DGS-changes 68931aed] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-413-applied-job-tab-dgs *************
+branch 'feature/DELTA-413-applied-job-tab-dgs' set up to track 'origin/feature/DELTA-413-applied-job-tab-dgs'.
+[feature/DELTA-413-applied-job-tab-dgs 4a7cc5e4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-415-applied-job-tab *************
+branch 'feature/DELTA-415-applied-job-tab' set up to track 'origin/feature/DELTA-415-applied-job-tab'.
+[feature/DELTA-415-applied-job-tab 94808554] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-417-size-to-pagesize *************
+branch 'feature/DELTA-417-size-to-pagesize' set up to track 'origin/feature/DELTA-417-size-to-pagesize'.
+[feature/DELTA-417-size-to-pagesize 633ce18f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-418-remove-rollbar *************
+branch 'feature/DELTA-418-remove-rollbar' set up to track 'origin/feature/DELTA-418-remove-rollbar'.
+[feature/DELTA-418-remove-rollbar b7847b55] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-419-gql-federation *************
+branch 'feature/DELTA-419-gql-federation' set up to track 'origin/feature/DELTA-419-gql-federation'.
+[feature/DELTA-419-gql-federation eb116b79] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-419-simplify-urls *************
+branch 'feature/DELTA-419-simplify-urls' set up to track 'origin/feature/DELTA-419-simplify-urls'.
+[feature/DELTA-419-simplify-urls 7378145b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-420-remove-obsolte-code *************
+branch 'feature/DELTA-420-remove-obsolte-code' set up to track 'origin/feature/DELTA-420-remove-obsolte-code'.
+[feature/DELTA-420-remove-obsolte-code 67253c65] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-426-get-cc-enabled-programs-for-user *************
+branch 'feature/DELTA-426-get-cc-enabled-programs-for-user' set up to track 'origin/feature/DELTA-426-get-cc-enabled-programs-for-user'.
+[feature/DELTA-426-get-cc-enabled-programs-for-user fbe54602] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-433-saved-tab-r2g *************
+branch 'feature/DELTA-433-saved-tab-r2g' set up to track 'origin/feature/DELTA-433-saved-tab-r2g'.
+[feature/DELTA-433-saved-tab-r2g 0a091b25] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-434-application-capping-r2g *************
+branch 'feature/DELTA-434-application-capping-r2g' set up to track 'origin/feature/DELTA-434-application-capping-r2g'.
+[feature/DELTA-434-application-capping-r2g a51d59b7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-435-add-field-companyLogoUrl *************
+branch 'feature/DELTA-435-add-field-companyLogoUrl' set up to track 'origin/feature/DELTA-435-add-field-companyLogoUrl'.
+[feature/DELTA-435-add-field-companyLogoUrl c4e34dad] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-469-hiration-token *************
+branch 'feature/DELTA-469-hiration-token' set up to track 'origin/feature/DELTA-469-hiration-token'.
+[feature/DELTA-469-hiration-token dc2a8f3b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-516 *************
+branch 'feature/DELTA-516' set up to track 'origin/feature/DELTA-516'.
+[feature/DELTA-516 508fa64c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-531-add-current-ctc *************
+branch 'feature/DELTA-531-add-current-ctc' set up to track 'origin/feature/DELTA-531-add-current-ctc'.
+[feature/DELTA-531-add-current-ctc 147c6f0a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/DELTA-549-add-salary-to-saved-applied *************
+branch 'feature/DELTA-549-add-salary-to-saved-applied' set up to track 'origin/feature/DELTA-549-add-salary-to-saved-applied'.
+[feature/DELTA-549-add-salary-to-saved-applied 093834c8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/flyway-add-field-xopaAppId *************
+branch 'feature/flyway-add-field-xopaAppId' set up to track 'origin/feature/flyway-add-field-xopaAppId'.
+[feature/flyway-add-field-xopaAppId 804c6221] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature_CAREER-6801-Recommended-jobs-fix *************
+branch 'feature_CAREER-6801-Recommended-jobs-fix' set up to track 'origin/feature_CAREER-6801-Recommended-jobs-fix'.
+[feature_CAREER-6801-Recommended-jobs-fix 58341df5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: hotfix/CAREER-3626 *************
+branch 'hotfix/CAREER-3626' set up to track 'origin/hotfix/CAREER-3626'.
+[hotfix/CAREER-3626 d41e106b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: lxp-production *************
+branch 'lxp-production' set up to track 'origin/lxp-production'.
+[lxp-production 84c4e11c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releas-branch-for-develop *************
+branch 'releas-branch-for-develop' set up to track 'origin/releas-branch-for-develop'.
+[releas-branch-for-develop 4f95d34c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release *************
+branch 'release' set up to track 'origin/release'.
+[release 749e35d5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-CAREER-3003 *************
+branch 'release-CAREER-3003' set up to track 'origin/release-CAREER-3003'.
+[release-CAREER-3003 65f9fdf7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-CAREER-3416 *************
+branch 'release-CAREER-3416' set up to track 'origin/release-CAREER-3416'.
+[release-CAREER-3416 0f5eca58] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-logs *************
+branch 'release-logs' set up to track 'origin/release-logs'.
+[release-logs 7ef2e986] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-staging-without-version *************
+branch 'release-staging-without-version' set up to track 'origin/release-staging-without-version'.
+[release-staging-without-version aece6068] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release-test-CAREER-2935 *************
+branch 'release-test-CAREER-2935' set up to track 'origin/release-test-CAREER-2935'.
+[release-test-CAREER-2935 e9cd8a59] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-909-jdbc-optimization *************
+branch 'releaseDEL-909-jdbc-optimization' set up to track 'origin/releaseDEL-909-jdbc-optimization'.
+[releaseDEL-909-jdbc-optimization 7c7597f3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDEL-944-disable-jobspickr *************
+branch 'releaseDEL-944-disable-jobspickr' set up to track 'origin/releaseDEL-944-disable-jobspickr'.
+[releaseDEL-944-disable-jobspickr b8c25235] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: releaseDELTA-236-career-service-backup-21-Sept *************
+branch 'releaseDELTA-236-career-service-backup-21-Sept' set up to track 'origin/releaseDELTA-236-career-service-backup-21-Sept'.
+[releaseDELTA-236-career-service-backup-21-Sept d68961b1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3419 *************
+branch 'release_CAREER-3419' set up to track 'origin/release_CAREER-3419'.
+[release_CAREER-3419 2b1ec141] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3704 *************
+branch 'release_CAREER-3704' set up to track 'origin/release_CAREER-3704'.
+[release_CAREER-3704 a3467402] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3808 *************
+branch 'release_CAREER-3808' set up to track 'origin/release_CAREER-3808'.
+[release_CAREER-3808 f029508e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3834 *************
+branch 'release_CAREER-3834' set up to track 'origin/release_CAREER-3834'.
+[release_CAREER-3834 414ec680] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3846 *************
+branch 'release_CAREER-3846' set up to track 'origin/release_CAREER-3846'.
+[release_CAREER-3846 8e4265a9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-3978 *************
+branch 'release_CAREER-3978' set up to track 'origin/release_CAREER-3978'.
+[release_CAREER-3978 71a6d57f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4025 *************
+branch 'release_CAREER-4025' set up to track 'origin/release_CAREER-4025'.
+[release_CAREER-4025 382f8e76] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4030 *************
+branch 'release_CAREER-4030' set up to track 'origin/release_CAREER-4030'.
+[release_CAREER-4030 f660a739] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4045 *************
+branch 'release_CAREER-4045' set up to track 'origin/release_CAREER-4045'.
+[release_CAREER-4045 64ed0563] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4171 *************
+branch 'release_CAREER-4171' set up to track 'origin/release_CAREER-4171'.
+[release_CAREER-4171 2352f05f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4295 *************
+branch 'release_CAREER-4295' set up to track 'origin/release_CAREER-4295'.
+[release_CAREER-4295 1df886f9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4298 *************
+branch 'release_CAREER-4298' set up to track 'origin/release_CAREER-4298'.
+[release_CAREER-4298 82b878e3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4305 *************
+branch 'release_CAREER-4305' set up to track 'origin/release_CAREER-4305'.
+[release_CAREER-4305 e25593eb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4406 *************
+branch 'release_CAREER-4406' set up to track 'origin/release_CAREER-4406'.
+[release_CAREER-4406 e1a93c1e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4431 *************
+branch 'release_CAREER-4431' set up to track 'origin/release_CAREER-4431'.
+[release_CAREER-4431 5b35d7ee] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-4535 *************
+branch 'release_CAREER-4535' set up to track 'origin/release_CAREER-4535'.
+[release_CAREER-4535 991bb40b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5020 *************
+branch 'release_CAREER-5020' set up to track 'origin/release_CAREER-5020'.
+[release_CAREER-5020 730a2cd1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5069 *************
+branch 'release_CAREER-5069' set up to track 'origin/release_CAREER-5069'.
+[release_CAREER-5069 c35fd6e8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5269 *************
+branch 'release_CAREER-5269' set up to track 'origin/release_CAREER-5269'.
+[release_CAREER-5269 7195c4ef] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5341 *************
+branch 'release_CAREER-5341' set up to track 'origin/release_CAREER-5341'.
+[release_CAREER-5341 4fd2d2c3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5617 *************
+branch 'release_CAREER-5617' set up to track 'origin/release_CAREER-5617'.
+[release_CAREER-5617 ade0af2a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5656 *************
+branch 'release_CAREER-5656' set up to track 'origin/release_CAREER-5656'.
+[release_CAREER-5656 826d9698] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5716 *************
+branch 'release_CAREER-5716' set up to track 'origin/release_CAREER-5716'.
+[release_CAREER-5716 8d45be06] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5727 *************
+branch 'release_CAREER-5727' set up to track 'origin/release_CAREER-5727'.
+[release_CAREER-5727 23de8ad6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5732-flyway *************
+branch 'release_CAREER-5732-flyway' set up to track 'origin/release_CAREER-5732-flyway'.
+[release_CAREER-5732-flyway 73c2af2a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5761 *************
+branch 'release_CAREER-5761' set up to track 'origin/release_CAREER-5761'.
+[release_CAREER-5761 e20a3480] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5829 *************
+branch 'release_CAREER-5829' set up to track 'origin/release_CAREER-5829'.
+[release_CAREER-5829 ff4dda85] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5832 *************
+branch 'release_CAREER-5832' set up to track 'origin/release_CAREER-5832'.
+[release_CAREER-5832 9ad23f79] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5845 *************
+branch 'release_CAREER-5845' set up to track 'origin/release_CAREER-5845'.
+[release_CAREER-5845 cd1d352d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5914 *************
+branch 'release_CAREER-5914' set up to track 'origin/release_CAREER-5914'.
+[release_CAREER-5914 8875c8dd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5935 *************
+branch 'release_CAREER-5935' set up to track 'origin/release_CAREER-5935'.
+[release_CAREER-5935 bfc9c4a8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5943 *************
+branch 'release_CAREER-5943' set up to track 'origin/release_CAREER-5943'.
+[release_CAREER-5943 2ee9dbee] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5948 *************
+branch 'release_CAREER-5948' set up to track 'origin/release_CAREER-5948'.
+[release_CAREER-5948 3637cc32] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-5991 *************
+branch 'release_CAREER-5991' set up to track 'origin/release_CAREER-5991'.
+[release_CAREER-5991 56f6b424] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6051 *************
+branch 'release_CAREER-6051' set up to track 'origin/release_CAREER-6051'.
+[release_CAREER-6051 a0e58e07] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6079 *************
+branch 'release_CAREER-6079' set up to track 'origin/release_CAREER-6079'.
+[release_CAREER-6079 3bba7d57] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6086 *************
+branch 'release_CAREER-6086' set up to track 'origin/release_CAREER-6086'.
+[release_CAREER-6086 bf2c1043] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6112 *************
+branch 'release_CAREER-6112' set up to track 'origin/release_CAREER-6112'.
+[release_CAREER-6112 3467d6c2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6128 *************
+branch 'release_CAREER-6128' set up to track 'origin/release_CAREER-6128'.
+[release_CAREER-6128 62069863] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6198 *************
+branch 'release_CAREER-6198' set up to track 'origin/release_CAREER-6198'.
+[release_CAREER-6198 e1f81cb7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6216 *************
+branch 'release_CAREER-6216' set up to track 'origin/release_CAREER-6216'.
+[release_CAREER-6216 a3bbfdcf] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6251 *************
+branch 'release_CAREER-6251' set up to track 'origin/release_CAREER-6251'.
+[release_CAREER-6251 888cd4db] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6253 *************
+branch 'release_CAREER-6253' set up to track 'origin/release_CAREER-6253'.
+[release_CAREER-6253 a99cc472] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6274 *************
+branch 'release_CAREER-6274' set up to track 'origin/release_CAREER-6274'.
+[release_CAREER-6274 11b3af53] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6288 *************
+branch 'release_CAREER-6288' set up to track 'origin/release_CAREER-6288'.
+[release_CAREER-6288 d3269ea8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6382 *************
+branch 'release_CAREER-6382' set up to track 'origin/release_CAREER-6382'.
+[release_CAREER-6382 77836a77] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6388 *************
+branch 'release_CAREER-6388' set up to track 'origin/release_CAREER-6388'.
+[release_CAREER-6388 7433984a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6400 *************
+branch 'release_CAREER-6400' set up to track 'origin/release_CAREER-6400'.
+[release_CAREER-6400 cc44ae5c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6410 *************
+branch 'release_CAREER-6410' set up to track 'origin/release_CAREER-6410'.
+[release_CAREER-6410 03820050] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6439 *************
+branch 'release_CAREER-6439' set up to track 'origin/release_CAREER-6439'.
+[release_CAREER-6439 7510ac16] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6484 *************
+branch 'release_CAREER-6484' set up to track 'origin/release_CAREER-6484'.
+[release_CAREER-6484 4f70f8a6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6499 *************
+branch 'release_CAREER-6499' set up to track 'origin/release_CAREER-6499'.
+[release_CAREER-6499 2a363f59] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6532 *************
+branch 'release_CAREER-6532' set up to track 'origin/release_CAREER-6532'.
+[release_CAREER-6532 ad8146df] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6543 *************
+branch 'release_CAREER-6543' set up to track 'origin/release_CAREER-6543'.
+[release_CAREER-6543 1dca7a7b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6568 *************
+branch 'release_CAREER-6568' set up to track 'origin/release_CAREER-6568'.
+[release_CAREER-6568 32b94fbc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6597 *************
+branch 'release_CAREER-6597' set up to track 'origin/release_CAREER-6597'.
+[release_CAREER-6597 6cab1d59] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6603 *************
+branch 'release_CAREER-6603' set up to track 'origin/release_CAREER-6603'.
+[release_CAREER-6603 af025871] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6622 *************
+branch 'release_CAREER-6622' set up to track 'origin/release_CAREER-6622'.
+[release_CAREER-6622 aa62ba75] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6634 *************
+branch 'release_CAREER-6634' set up to track 'origin/release_CAREER-6634'.
+[release_CAREER-6634 5a8fe47e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6684 *************
+branch 'release_CAREER-6684' set up to track 'origin/release_CAREER-6684'.
+[release_CAREER-6684 653a5191] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6748 *************
+branch 'release_CAREER-6748' set up to track 'origin/release_CAREER-6748'.
+[release_CAREER-6748 aab6aa04] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6763-cache-auth-token *************
+branch 'release_CAREER-6763-cache-auth-token' set up to track 'origin/release_CAREER-6763-cache-auth-token'.
+[release_CAREER-6763-cache-auth-token ac4b6cf3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6780-increase-connection-pool *************
+branch 'release_CAREER-6780-increase-connection-pool' set up to track 'origin/release_CAREER-6780-increase-connection-pool'.
+[release_CAREER-6780-increase-connection-pool 971f6305] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6780-increase-connection-pool-size *************
+branch 'release_CAREER-6780-increase-connection-pool-size' set up to track 'origin/release_CAREER-6780-increase-connection-pool-size'.
+[release_CAREER-6780-increase-connection-pool-size 3130bdba] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6792-study-abroad-support *************
+branch 'release_CAREER-6792-study-abroad-support' set up to track 'origin/release_CAREER-6792-study-abroad-support'.
+[release_CAREER-6792-study-abroad-support 1fb81e22] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6801 *************
+branch 'release_CAREER-6801' set up to track 'origin/release_CAREER-6801'.
+[release_CAREER-6801 89f68235] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-6832-currency-field-from-ceipal *************
+branch 'release_CAREER-6832-currency-field-from-ceipal' set up to track 'origin/release_CAREER-6832-currency-field-from-ceipal'.
+[release_CAREER-6832-currency-field-from-ceipal c8308e0d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER-7682-exclude-insofe-cohort *************
+branch 'release_CAREER-7682-exclude-insofe-cohort' set up to track 'origin/release_CAREER-7682-exclude-insofe-cohort'.
+[release_CAREER-7682-exclude-insofe-cohort c33feb68] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER_5122 *************
+branch 'release_CAREER_5122' set up to track 'origin/release_CAREER_5122'.
+[release_CAREER_5122 21d9c6c5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CAREER_5216 *************
+branch 'release_CAREER_5216' set up to track 'origin/release_CAREER_5216'.
+[release_CAREER_5216 5a3e4336] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_CRM4E-1462 *************
+branch 'release_CRM4E-1462' set up to track 'origin/release_CRM4E-1462'.
+[release_CRM4E-1462 9909b305] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_DELTA-236-job-portal-career-centre *************
+branch 'release_DELTA-236-job-portal-career-centre' set up to track 'origin/release_DELTA-236-job-portal-career-centre'.
+[release_DELTA-236-job-portal-career-centre 1bde2335] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_DELTA-236-job-portal-career-centre_backup1oct2023 *************
+branch 'release_DELTA-236-job-portal-career-centre_backup1oct2023' set up to track 'origin/release_DELTA-236-job-portal-career-centre_backup1oct2023'.
+[release_DELTA-236-job-portal-career-centre_backup1oct2023 7c3b6a23] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_DELTA-236-job-portal-career-centre_backup1oct2023-v2 *************
+branch 'release_DELTA-236-job-portal-career-centre_backup1oct2023-v2' set up to track 'origin/release_DELTA-236-job-portal-career-centre_backup1oct2023-v2'.
+[release_DELTA-236-job-portal-career-centre_backup1oct2023-v2 56ed6914] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_DELTA-247-job-portal-career-centre *************
+branch 'release_DELTA-247-job-portal-career-centre' set up to track 'origin/release_DELTA-247-job-portal-career-centre'.
+[release_DELTA-247-job-portal-career-centre d1aa930d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_devOps *************
+branch 'release_devOps' set up to track 'origin/release_devOps'.
+[release_devOps 4b0ee71e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_devops *************
+file already exist skip remaining steps....
+************* Processing for branch: release_devops_sonar *************
+branch 'release_devops_sonar' set up to track 'origin/release_devops_sonar'.
+[release_devops_sonar a6834309] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature/CAREER-3174 *************
+branch 'release_feature/CAREER-3174' set up to track 'origin/release_feature/CAREER-3174'.
+[release_feature/CAREER-3174 d80dfca1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature/CAREER-3333 *************
+branch 'release_feature/CAREER-3333' set up to track 'origin/release_feature/CAREER-3333'.
+[release_feature/CAREER-3333 0ac6915f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature/CAREER-4279 *************
+branch 'release_feature/CAREER-4279' set up to track 'origin/release_feature/CAREER-4279'.
+[release_feature/CAREER-4279 dbb0e400] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5012 *************
+branch 'release_feature_CAREER-5012' set up to track 'origin/release_feature_CAREER-5012'.
+[release_feature_CAREER-5012 ec248e70] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5020 *************
+branch 'release_feature_CAREER-5020' set up to track 'origin/release_feature_CAREER-5020'.
+[release_feature_CAREER-5020 777b0e16] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5197 *************
+branch 'release_feature_CAREER-5197' set up to track 'origin/release_feature_CAREER-5197'.
+[release_feature_CAREER-5197 e1f96a03] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5421 *************
+branch 'release_feature_CAREER-5421' set up to track 'origin/release_feature_CAREER-5421'.
+[release_feature_CAREER-5421 8ece6b81] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5582 *************
+branch 'release_feature_CAREER-5582' set up to track 'origin/release_feature_CAREER-5582'.
+[release_feature_CAREER-5582 2e23f0d0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5638 *************
+branch 'release_feature_CAREER-5638' set up to track 'origin/release_feature_CAREER-5638'.
+[release_feature_CAREER-5638 674db968] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_feature_CAREER-5675 *************
+branch 'release_feature_CAREER-5675' set up to track 'origin/release_feature_CAREER-5675'.
+[release_feature_CAREER-5675 5dddb596] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_staging *************
+branch 'release_staging' set up to track 'origin/release_staging'.
+[release_staging f1236ac9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_to_master_merge_conflict *************
+branch 'release_to_master_merge_conflict' set up to track 'origin/release_to_master_merge_conflict'.
+[release_to_master_merge_conflict 0c509be4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: release_url_log *************
+branch 'release_url_log' set up to track 'origin/release_url_log'.
+[release_url_log e2cf6c64] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: task/DEL-611-adding-external-jobs-to-qa *************
+branch 'task/DEL-611-adding-external-jobs-to-qa' set up to track 'origin/task/DEL-611-adding-external-jobs-to-qa'.
+[task/DEL-611-adding-external-jobs-to-qa f1862834] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: task/DELTA-285-spring-boot-version-change-for-graphql *************
+branch 'task/DELTA-285-spring-boot-version-change-for-graphql' set up to track 'origin/task/DELTA-285-spring-boot-version-change-for-graphql'.
+[task/DELTA-285-spring-boot-version-change-for-graphql 3a20f005] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: tech_enhancement *************
+branch 'tech_enhancement' set up to track 'origin/tech_enhancement'.
+[tech_enhancement 51cd1dc3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo one-upgrad-career-service are: CAREER-3328-provide-logstash-log-supportCAREER-3704CAREER-3978CAREER-4030CAREER-5341CAREER-5421CAREER-5437CAREER-5714CAREER-5723CAREER-5732-flywayCAREER-6543-disable-cron-on-uat-loadtestIRA-50924-integrating-xopa-with-ug-prismIRA-50928-xopa-to-career-mappingIRA-50932-Apply-job-payloaddevelopfeature.bg/code-structurefeature.bg/company-urlfeature/21Aug2023feature/CAREER-2935feature/CAREER-3003feature/CAREER-3004-testfeature/CAREER-3088feature/CAREER-3263feature/CAREER-3333feature/CAREER-4040feature/CAREER-4076feature/CAREER-4279feature/CAREER-4305feature/CAREER-6553-normalised-statusfeature/CAREER-6555-redirect-user-linkfeature/CAREER-6792-study-abroad-supportfeature/CAREER-6792-study-abroad-support-releasefeature/CRM4E-1462-ordering-job-on-salaryfeature/DEL-528-increase-workshop-sizefeature/DEL-646-get-disticnt-countries-jobspickrfeature/DEL-699-save-verticalfeature/DELTA-150-one-upgrad-career-changesfeature/DELTA-236-WorkModeFixfeature/DELTA-236-elastic-search-index-changesfeature/DELTA-236-job-portal-career-centrefeature/DELTA-247-deployfeature/DELTA-252-apply-job-changesfeature/DELTA-252-save-xopaAppIDfeature/DELTA-279-change-root-urlfeature/DELTA-410-Netflix-DGS-changesfeature/DELTA-413-applied-job-tab-dgsfeature/DELTA-415-applied-job-tabfeature/DELTA-417-size-to-pagesizefeature/DELTA-418-remove-rollbarfeature/DELTA-419-gql-federationfeature/DELTA-419-simplify-urlsfeature/DELTA-420-remove-obsolte-codefeature/DELTA-426-get-cc-enabled-programs-for-userfeature/DELTA-433-saved-tab-r2gfeature/DELTA-434-application-capping-r2gfeature/DELTA-435-add-field-companyLogoUrlfeature/DELTA-469-hiration-tokenfeature/DELTA-516feature/DELTA-531-add-current-ctcfeature/DELTA-549-add-salary-to-saved-appliedfeature/flyway-add-field-xopaAppIdfeature_CAREER-6801-Recommended-jobs-fixhotfix/CAREER-3626lxp-productionreleas-branch-for-developreleaserelease-CAREER-3003release-CAREER-3416release-logsrelease-staging-without-versionrelease-test-CAREER-2935releaseDEL-909-jdbc-optimizationreleaseDEL-944-disable-jobspickrreleaseDELTA-236-career-service-backup-21-Septrelease_CAREER-3419release_CAREER-3704release_CAREER-3808release_CAREER-3834release_CAREER-3846release_CAREER-3978release_CAREER-4025release_CAREER-4030release_CAREER-4045release_CAREER-4171release_CAREER-4295release_CAREER-4298release_CAREER-4305release_CAREER-4406release_CAREER-4431release_CAREER-4535release_CAREER-5020release_CAREER-5069release_CAREER-5269release_CAREER-5341release_CAREER-5617release_CAREER-5656release_CAREER-5716release_CAREER-5727release_CAREER-5732-flywayrelease_CAREER-5761release_CAREER-5829release_CAREER-5832release_CAREER-5845release_CAREER-5914release_CAREER-5935release_CAREER-5943release_CAREER-5948release_CAREER-5991release_CAREER-6051release_CAREER-6079release_CAREER-6086release_CAREER-6112release_CAREER-6128release_CAREER-6198release_CAREER-6216release_CAREER-6251release_CAREER-6253release_CAREER-6274release_CAREER-6288release_CAREER-6382release_CAREER-6388release_CAREER-6400release_CAREER-6410release_CAREER-6439release_CAREER-6484release_CAREER-6499release_CAREER-6532release_CAREER-6543release_CAREER-6568release_CAREER-6597release_CAREER-6603release_CAREER-6622release_CAREER-6634release_CAREER-6684release_CAREER-6748release_CAREER-6763-cache-auth-tokenrelease_CAREER-6780-increase-connection-poolrelease_CAREER-6780-increase-connection-pool-sizerelease_CAREER-6792-study-abroad-supportrelease_CAREER-6801release_CAREER-6832-currency-field-from-ceipalrelease_CAREER-7682-exclude-insofe-cohortrelease_CAREER_5122release_CAREER_5216release_CRM4E-1462release_DELTA-236-job-portal-career-centrerelease_DELTA-236-job-portal-career-centre_backup1oct2023release_DELTA-236-job-portal-career-centre_backup1oct2023-v2release_DELTA-247-job-portal-career-centrerelease_devOpsrelease_devops_sonarrelease_feature/CAREER-3174release_feature/CAREER-3333release_feature/CAREER-4279release_feature_CAREER-5012release_feature_CAREER-5020release_feature_CAREER-5197release_feature_CAREER-5421release_feature_CAREER-5582release_feature_CAREER-5638release_feature_CAREER-5675release_stagingrelease_to_master_merge_conflictrelease_url_logtask/DEL-611-adding-external-jobs-to-qatask/DELTA-285-spring-boot-version-change-for-graphqltech_enhancement  
+count of branch for repo one-upgrad-career-service :- 1
+Cleanup completed... for one-upgrad-career-service
+Actioned perform on : careers-api-springcareer-centre-frontendevent-integrationone-upgrad-event-integrationone-upgrad-career-service
+count for repo :- 1

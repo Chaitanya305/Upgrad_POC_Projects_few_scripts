@@ -1,0 +1,58 @@
+fqdn:
+  # -- Root domain
+  domain: "upgrad.com"
+  # -- subdomain used for viewing dashboard
+  hostname: "paralus"
+  # -- a wildcard subdomain used for controller cluster to target
+  # -- cluster communication
+  coreConnectorSubdomain: "*.core-connector"
+  # -- a wildcard subdomain used for controller cluster to end user
+  # -- communication
+  userSubdomain: "*.user"
+
+deploy:
+  postgresql:
+    enable: true
+  contour:
+    # -- auto install contour ingress controller
+    enable: false
+
+kratos:
+  kratos:
+    development: true
+
+postgresql:
+  primary:
+    persistence:
+      enabled: true
+      storageClass: "local-path"
+      size: 8Gi
+
+ingress:
+  enabled: true
+  className: "nginx"
+  annotations:
+     kubernetes.io/ingress.class: nginx
+    #  cert-manager.io/cluster-issuer: "letsencrypt-prod"
+    #  nginx.ingress.kubernetes.io/backend-protocol: "HTTPS"
+     nginx.ingress.kubernetes.io/ssl-passthrough: "true"
+    #  nginx.ingress.kubernetes.io/ssl-redirect: "true"
+     #nginx.ingress.kubernetes.io/ssl-passthrough: 'true'
+     #kubernetes.io/tls-acme: "false"
+  # -- Ingress TLS for console
+  # tls:
+  #   - secretName: example-tls
+  #     hosts:
+  #       - paralus.chaitanya.dev
+  #       # - "*.core-connector.chaitanya.dev"
+  #       # - "*.user.chaitanya.dev"
+
+
+# ingress:
+#   enabled: true
+#   className: "alb"
+#   annotations:
+      # alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80}, {"HTTPS":443}]'
+      # alb.ingress.kubernetes.io/actions.ssl-redirect: '{"Type": "redirect", "RedirectConfig": { "Protocol": "HTTPS", "Port": "443", "StatusCode": "HTTP_301"}}'
+      # alb.ingress.kubernetes.io/group.order: "200"
+      # alb.ingress.kubernetes.io/group.name: ingress-alb-prod-management

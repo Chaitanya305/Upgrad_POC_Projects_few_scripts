@@ -1,0 +1,52 @@
+daemonset:
+  extraEnvs:
+    - name: "ELASTICSEARCH_USERNAME"
+      valueFrom:
+        secretKeyRef:
+          name: elasticsearch-master-credentials
+          key: username
+    - name: "ELASTICSEARCH_PASSWORD"
+      valueFrom:
+        secretKeyRef:
+          name: elasticsearch-master-credentials
+          key: password
+    - name: FILEBEAT_SECRET
+      valueFrom:
+        secretKeyRef:
+          name: my-secret
+          key: secretValue
+
+  filebeatConfig:
+    filebeat.yml: |
+      filebeat.inputs:
+      - type: container
+        paths:
+          - /var/log/containers/*.log
+        processors:
+          - script:
+              lang: javascript
+              source: >
+                function process(event) {
+                  var msg = event.Get("message");
+                  // Replace the entire line containing "Configuration" with "####"
+                  //msg = msg.replace(/^.*Configuration.*$/gm, "####");
+                  // Replace the text after "Configuration" with "####"
+                  msg = msg.replace(/(configuration.*?)(.*)/gi, "$1 ####");
+                  // Replace occurrences of the word "Configuration" with "####"
+                  msg = msg.replace(/configuration/gi, "####");
+                  event.Put("message", msg);
+                }
+              tag_on_exception: true
+          - add_kubernetes_metadata:
+              host: ${NODE_NAME}
+              matchers:
+              - logs_path:
+                  logs_path: "/var/log/containers/"
+
+      output.elasticsearch:
+        host: '${NODE_NAME}'
+        hosts: '["https://${ELASTICSEARCH_HOSTS:elasticsearch-master:9200}"]'
+        username: '${ELASTICSEARCH_USERNAME}'
+        password: '${ELASTICSEARCH_PASSWORD}'
+        protocol: https
+        ssl.certificate_authorities: ["/usr/share/filebeat/certs/ca.crt"]

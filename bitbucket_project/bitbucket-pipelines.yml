@@ -1,0 +1,56 @@
+image: python:3.9
+
+pipelines:
+  default:
+    - step:
+        name: Scan for Secrets
+        script:
+          - echo "Setting up the environment..."
+          - apt-get update && apt-get install -y git jq
+          - echo "Installing trufflehog...."
+          - curl -sSfL https://raw.githubusercontent.com/trufflesecurity/trufflehog/main/scripts/install.sh | sh -s -- -b /usr/local/bin
+
+          - git branch
+          - git rev-parse HEAD
+          
+          - echo "Scanning repository for secrets..."
+          - trufflehog git file://$(pwd) --since-commit=HEAD~1 --json > secret_scan_results.json || echo "TruffleHog failed with exit code $?"
+          - cat secret_scan_results.json
+          - | 
+            jq 'select(.SourceMetadata != null) | {"file": .SourceMetadata.Data.Git.file, DetectorName, Raw, RawV2}' secret_scan_results.json > filtered_secrets.json
+          - cat filtered_secrets.json
+          - echo "Checking scan results..."
+          - |
+            if [ -s secret_scan_results.json ]; then
+              echo "Secrets detected!"
+              echo "<html><body><h2>Pipeline Link: https://bitbucket.org/upgrad_dev/$BITBUCKET_REPO_SLUG/pipelines/results/$BITBUCKET_BUILD_NUMBER</h2>" > email_body.html
+              echo "<html><body><h2>Scan Results:</h2>" >> email_body.html
+              echo "<p><b>Repository:</b> $BITBUCKET_REPO_SLUG</p>" >> email_body.html
+              echo "<p><b>Branch:</b> $BITBUCKET_BRANCH</p>" >> email_body.html
+              echo "<p><b>Commit Hash:</b> $(git rev-parse HEAD)</p>" >> email_body.html
+              echo "<h3>Diff:</h3><pre>" >> email_body.html
+              cat filtered_secrets.json >> email_body.html
+              echo "</pre>" >> email_body.html
+              echo "<p>Please address these findings immediately.</p></body></html>" >> email_body.html
+              cat email_body.html
+              exit 1 # Fail the pipeline
+            else
+              echo "No secrets found."
+            fi
+        after-script:
+          - if [[ $BITBUCKET_EXIT_CODE -ne 0 ]]; then
+              echo "Secrets detected, preparing email notification.";
+              echo "Secrets Found in ${BITBUCKET_REPO_SLUG} on branch ${BITBUCKET_BRANCH}." > subject.txt;
+            else
+              echo "No Secrets Found on branch ${BITBUCKET_BRANCH}.";
+            fi
+          - pipe: atlassian/email-notify:0.13.1
+            variables:
+              USERNAME: $SES_SMTP_USERNAME
+              PASSWORD: $SES_SMTP_PASSWORD
+              FROM: 'Shark Team <devops@upgrad.com>'
+              TO: 'chaitanya.golhar@upgrad.com, sharan.rao@upgrad.com, atharva.rajurkar@upgrad.com, dipesh.garg@upgrad.com'
+              HOST: 'email-smtp.ap-south-1.amazonaws.com'
+              PORT: 587
+              SUBJECT: "$(cat subject.txt)"
+              BODY_HTML: "email_body.html"

@@ -1,0 +1,26 @@
+#np that restrict inbound traffic and allow all outbound
+
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: inbound-restrict
+spec:
+  podSelector: {}   # all pods in default namespace
+  policyTypes:
+    - Ingress
+  ingress:
+    - from:
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: prod-tool
+              kubernetes.io/metadata.name: paralus
+              kubernetes.io/metadata.name: kube-system
+              #kubernetes.io/metadata.name: prod-app
+      #   - ipBlock:
+      #       cidr: 0.0.0.0/0   # to allow internet traffic on any port
+      # ports:
+      #   - protocol: TCP
+      #     port: 80
+
+
+# all outbound is allowed while inbound is allowed only from the pod present in ns with name prod-tool paralus kube-system

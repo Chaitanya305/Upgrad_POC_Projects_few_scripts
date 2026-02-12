@@ -1,0 +1,4 @@
+user name = test123-workspace-admin
+passkey = ATBBNb2vTs7Kh9x5BBLCSshJaPvG42121258
+workspace_id = test123-workspace
+project_key = UP

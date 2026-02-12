@@ -1,0 +1,138 @@
+all repos are: lxp-api-automation growth-api-automation lex-mobile-app-test oms-api-automation
+******************************-----------******************************
+working on repo lxp-api-automation ........ 
+Actioned perform on branch for repo lxp-api-automation are:   
+count of branch for repo lxp-api-automation :- 0
+Cleanup completed... for lxp-api-automation
+******************************-----------******************************
+working on repo growth-api-automation ........ 
+Actioned perform on branch for repo growth-api-automation are:   
+count of branch for repo growth-api-automation :- 0
+Cleanup completed... for growth-api-automation
+******************************-----------******************************
+working on repo lex-mobile-app-test ........ 
+************* Processing for branch: Package-Manager *************
+branch 'Package-Manager' set up to track 'origin/Package-Manager'.
+[Package-Manager 61bd958] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: UMOB-1851 *************
+branch 'UMOB-1851' set up to track 'origin/UMOB-1851'.
+[UMOB-1851 66780c3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo lex-mobile-app-test are: Package-ManagerUMOB-1851  
+count of branch for repo lex-mobile-app-test :- 1
+Cleanup completed... for lex-mobile-app-test
+******************************-----------******************************
+working on repo oms-api-automation ........ 
+************* Processing for branch: Btcollectionadd *************
+branch 'Btcollectionadd' set up to track 'origin/Btcollectionadd'.
+[Btcollectionadd dcb0f68] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: Buildtest *************
+branch 'Buildtest' set up to track 'origin/Buildtest'.
+[Buildtest 868bc72] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: correctionfiles *************
+branch 'correctionfiles' set up to track 'origin/correctionfiles'.
+[correctionfiles ab2a826] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: deletion *************
+branch 'deletion' set up to track 'origin/deletion'.
+[deletion 2886e26] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: dfIntegration *************
+branch 'dfIntegration' set up to track 'origin/dfIntegration'.
+[dfIntegration d284edb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: envfileadding *************
+branch 'envfileadding' set up to track 'origin/envfileadding'.
+[envfileadding 186ced7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: envfilechange *************
+branch 'envfilechange' set up to track 'origin/envfilechange'.
+[envfilechange 4ec737c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: envfileupdate *************
+branch 'envfileupdate' set up to track 'origin/envfileupdate'.
+[envfileupdate d6b6c2c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-drop-lead-api *************
+branch 'feature/update-drop-lead-api' set up to track 'origin/feature/update-drop-lead-api'.
+[feature/update-drop-lead-api 2b055e3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-drop-lead-api-script *************
+branch 'feature/update-drop-lead-api-script' set up to track 'origin/feature/update-drop-lead-api-script'.
+[feature/update-drop-lead-api-script d1ee90c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: fix/jenkins-report-sync-issue *************
+branch 'fix/jenkins-report-sync-issue' set up to track 'origin/fix/jenkins-report-sync-issue'.
+[fix/jenkins-report-sync-issue 64e91fb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: floderstructure *************
+branch 'floderstructure' set up to track 'origin/floderstructure'.
+[floderstructure 84de474] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: healthyBuild *************
+branch 'healthyBuild' set up to track 'origin/healthyBuild'.
+[healthyBuild 1703602] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: optimizeBT *************
+branch 'optimizeBT' set up to track 'origin/optimizeBT'.
+[optimizeBT 915689f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: removefiles *************
+branch 'removefiles' set up to track 'origin/removefiles'.
+[removefiles 10e0b39] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: stablebuild *************
+branch 'stablebuild' set up to track 'origin/stablebuild'.
+[stablebuild 958c631] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: testing *************
+branch 'testing' set up to track 'origin/testing'.
+[testing d507776] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: updatedAESandENV *************
+branch 'updatedAESandENV' set up to track 'origin/updatedAESandENV'.
+[updatedAESandENV 91da127] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: updatetoken *************
+branch 'updatetoken' set up to track 'origin/updatetoken'.
+[updatetoken f96b665] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: updtaedtokens *************
+branch 'updtaedtokens' set up to track 'origin/updtaedtokens'.
+[updtaedtokens 6479874] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: updtedheader *************
+branch 'updtedheader' set up to track 'origin/updtedheader'.
+[updtedheader 8dfff7c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo oms-api-automation are: BtcollectionaddBuildtestcorrectionfilesdeletiondfIntegrationenvfileaddingenvfilechangeenvfileupdatefeature/update-drop-lead-apifeature/update-drop-lead-api-scriptfix/jenkins-report-sync-issuefloderstructurehealthyBuildoptimizeBTremovefilesstablebuildtestingupdatedAESandENVupdatetokenupdtaedtokensupdtedheader  
+count of branch for repo oms-api-automation :- 1
+Cleanup completed... for oms-api-automation
+Actioned perform on : lxp-api-automationgrowth-api-automationlex-mobile-app-testoms-api-automation
+count for repo :- 1

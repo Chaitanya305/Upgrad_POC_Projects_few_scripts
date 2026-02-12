@@ -1,0 +1,44 @@
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: demo-np
+spec:
+  podSelector:
+    matchLabels:
+      app: nginx
+  policyTypes:
+    - Ingress
+    - Egress
+  ingress:
+    - from:
+        - namespaceSelector:
+            matchLabels:
+              project: hp
+          podSelector:
+            matchLabels:
+              project: hp
+  egress:
+    - to:
+        - namespaceSelector:
+            matchLabels:
+              project: dell
+          podSelector:
+            matchLabels:
+              project: dell
+    - to:          # below to block is for allowing to send traffic to dns to resolve service name also. then only send traffic to 
+      - namespaceSelector:
+          matchLabels:
+            networking/namespace: kube-system
+        podSelector:
+          matchLabels:
+            k8s-app: kube-dns
+      ports:
+        - protocol: TCP
+          port: 53
+        - protocol: UDP
+          port: 53
+
+
+# kubectl label namespace kube-system networking/namespace=kube-system
+
+#result :- nginx can send traffic to dell only and can receive traffic only from hp pod in hp ns

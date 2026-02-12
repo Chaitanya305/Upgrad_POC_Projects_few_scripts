@@ -1,0 +1,18 @@
+all repos are: course-price-scrapper
+******************************-----------******************************
+working on repo course-price-scrapper ........ 
+************* Processing for branch: Himanshu-Rathore/scrappingpy-edited-online-with-bitbucket-1728220793837 *************
+branch 'Himanshu-Rathore/scrappingpy-edited-online-with-bitbucket-1728220793837' set up to track 'origin/Himanshu-Rathore/scrappingpy-edited-online-with-bitbucket-1728220793837'.
+[Himanshu-Rathore/scrappingpy-edited-online-with-bitbucket-1728220793837 7e7610a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: Himanshu-Rathore/scrappingpy-edited-online-with-bitbucket-1728389233223 *************
+branch 'Himanshu-Rathore/scrappingpy-edited-online-with-bitbucket-1728389233223' set up to track 'origin/Himanshu-Rathore/scrappingpy-edited-online-with-bitbucket-1728389233223'.
+[Himanshu-Rathore/scrappingpy-edited-online-with-bitbucket-1728389233223 f4381da] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo course-price-scrapper are: Himanshu-Rathore/scrappingpy-edited-online-with-bitbucket-1728220793837Himanshu-Rathore/scrappingpy-edited-online-with-bitbucket-1728389233223  
+count of branch for repo course-price-scrapper :- 1
+Cleanup completed... for course-price-scrapper
+Actioned perform on : course-price-scrapper
+count for repo :- 1

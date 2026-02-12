@@ -1,0 +1,22 @@
+detectors:
+  - name: MySQLConnectionStringDetector
+    keywords:
+      - mysql
+      - rds
+      - database
+    regex:
+      mysqlURL: '\b(mysql:\/\/[a-zA-Z0-9._%+-]+:[a-zA-Z0-9!@#$%^&*()_+=-]+@[a-zA-Z0-9.-]+\:[0-9]+\/[a-zA-Z0-9_-]+)\b'
+
+  - name: PasswordKeyDetection
+    keywords:
+      - db_password
+      - redis-Password
+    regex: 
+      detect_password: "(?i)\\b(?:[a-zA-Z0-9_-]+[-_]?password)\\s*[:=]\\s*['\"]([^'\"]+)['\"]"
+
+  - name: PasswordDetect
+    keywords:
+      - password
+      - Password
+    regex: 
+      password: "(?i)\\bpassword\\s*[:=]\\s*[\"']([^\"']+)[\"']"

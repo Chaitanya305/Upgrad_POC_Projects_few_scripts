@@ -1,0 +1,164 @@
+pipeline {
+    agent {
+      label 'worker'
+    }
+    options {
+      timestamps()
+      disableConcurrentBuilds()
+    }
+    stages {
+      stage('Git Checkout') {
+        steps {
+          checkout scm
+        }
+      }
+      stage('Install Packages'){
+        steps{
+            sh "sudo pip3 install -r miscellaneous/cost-report-automation/requirements.txt"
+        }
+      }
+      stage('Degrees - Centurion') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 861276124837 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 861276124837 us-east-1"
+        }
+      }
+      stage('Degrees - Chandigarh') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 535002871556 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 535002871556 us-east-1"
+        }
+      }
+      stage('Degrees - Drmgr') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 717279695343 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 717279695343 us-east-1"
+        }
+      }
+      stage('Degrees - Dypatil') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 202533495773 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 202533495773 us-east-1"
+        }
+      }
+      stage('Degrees - Andhra') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 039612850873 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 039612850873 us-east-1"
+        }
+      }
+      stage('Degrees - Kiit') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 890742599999 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 890742599999 us-east-1"
+        }
+      }
+      stage('Degrees - Kuk') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 491085420150 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 491085420150 us-east-1"
+        }
+      }
+      stage('Degrees - Vgu') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 345594584986 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 345594584986 us-east-1"
+        }
+      }
+      stage('Degrees - Jain') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 597088024596 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 597088024596 us-east-1"
+        }
+      }
+      stage('Degrees - niu') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 050451378467 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 050451378467 us-east-1"
+        }
+      }
+      stage('Degrees - Common') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 443370702768 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 443370702768 us-east-1"
+        }
+      }
+      stage('Degrees - Bharathidasan') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 122610519847 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 122610519847 us-east-1"
+        }
+      }
+      stage('Degrees - OldLMS') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 628805428533 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 628805428533 us-east-1"
+        }
+      }
+      stage('Degrees - ERP') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 247718899526 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 247718899526 us-east-1"
+        }
+      }
+      stage('Degrees - Jnu') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 954772230024 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 954772230024 us-east-1"
+        }
+      }
+      stage('Degrees - Website') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 420894976246 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 420894976246 us-east-1"
+        }
+      }
+      stage('KH NonProd') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 575925617790 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 575925617790 us-east-1"
+        }
+      }
+      stage('uG Prod') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 570746809047 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 570746809047 us-east-1"
+        }
+       }
+      stage('uG NonProd') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 635145294553 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 635145294553 us-east-1"
+        }
+      }
+      stage('KH Prod') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 061181400465 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 061181400465 us-east-1"
+        }
+      }
+      stage('Impartus NonProd') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 134045992230 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 134045992230 us-east-1"
+        }
+      }
+      stage('Impartus Prod') {
+        steps {
+          sh "bash miscellaneous/cost-report-automation/main.sh 663326050882 ap-south-1"
+          sh "bash miscellaneous/cost-report-automation/main.sh 663326050882 us-east-1"
+        }
+      }
+    }
+    post {
+      always {
+        echo "Cleaning up ${WORKSPACE}"
+        // clean up our workspace 
+        deleteDir()
+        // clean up tmp directory 
+        dir("${workspace}@tmp") {
+        deleteDir()
+        }
+      }
+    }
+  }

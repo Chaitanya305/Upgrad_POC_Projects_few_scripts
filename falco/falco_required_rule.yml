@@ -1,0 +1,147 @@
+image:
+  pullPolicy: IfNotPresent
+  registry: docker.io
+  repository: falcosecurity/falco
+  tag: ""
+
+tty: true
+
+driver:
+  # -- Set it to false if you want to deploy Falco without the drivers.
+  # Always set it to false when using Falco with plugins.
+  enabled: true
+
+controller:
+  # Available options: deployment, daemonset
+  kind: daemonset
+  daemonset:
+    updateStrategy:
+      type: RollingUpdate
+
+metrics:
+  enabled: false
+
+# falcoctl:
+#   config:
+#     artifact:
+#       install:
+#         refs: [falco-rules:3,falco-incubating-rules:4,falco-sandbox-rules:4]
+#       follow:
+#         refs: [falco-rules:3,falco-incubating-rules:4,falco-sandbox-rules:4]
+
+customRules:
+  rules-traefik.yaml: |-
+ 
+     - rule: Read sensitive file trusted after startup
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Fileless execution via memfd_create
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Drop and execute new binary in container
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Execution from /dev/shm
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Find AWS Credentials
+       enabled: true
+       override:
+         enabled: replace
+     - rule: PTRACE anti-debug attempt
+       enabled: true
+       override:
+         enabled: replace
+     - rule: PTRACE attached to process
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Directory traversal monitored file read
+       enabled: true
+       override:
+         enabled: replace 
+     - rule: Terminal shell in container
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Netcat Remote Code Execution in Container
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Search Private Keys or Passwords
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Clear Log Activities
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Detect release_agent File Container Escapes
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Disallowed SSH Connection Non Standard Port
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Read sensitive file untrusted
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Run shell untrusted
+       enabled: true
+       override:
+         enabled: replace
+     - rule: System user interactive
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Contact K8S API Server From Container
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Remove Bulk Data from Disk
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Create Symlink Over Sensitive Files
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Create Hardlink Over Sensitive Files
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Packet socket created in container
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Redirect STDOUT/STDIN to Network Connection in Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Linux Kernel Module Injection Detected
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Debugfs Launched in Privileged Container
+       enabled: true
+       override:
+         enabled: replace
+
+falco:
+  json_output: true
+  json_include_output_property: true
+  http_output:
+    enabled: true
+    url: "http://falcosidekick:2801/"
+    user_agent: "falcosecurity/falco"
+  rules_files:
+    - /etc/falco/falco_rules.yaml
+    - /etc/falco/falco_rules.local.yaml
+    - /etc/falco/rules.d
+  priority: debug

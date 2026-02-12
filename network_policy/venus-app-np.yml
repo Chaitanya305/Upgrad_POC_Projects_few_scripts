@@ -1,0 +1,54 @@
+# Allow inter communication between all venus-app pods
+# Allow specific pods from dev-tool eg filebeat prometheous etc.
+# Allow ingress controller pod
+
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: venus-app-np
+  namespace: venus-app
+spec:
+  podSelector: {}   # all pods in venus-app namespace
+  policyTypes:
+    - Ingress
+  ingress:
+    - from:
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: venus-app
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: kube-system
+          podSelector:
+            matchLabels:
+              app.kubernetes.io/component: csi-driver
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: kube-system
+          podSelector:
+            matchLabels:
+              app.kubernetes.io/instance: ingress-alb
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: kube-system
+          podSelector:
+            matchLabels:
+              k8s-app: kube-proxy
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: dev-tool
+          podSelector:
+            matchLabels:
+              app: filebeat-filebeat
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: dev-tool
+          podSelector:
+            matchLabels:
+              app.kubernetes.io/instance: external-dns
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: dev-tool
+          podSelector:
+            matchLabels:
+              app.kubernetes.io/instance: external-secrets

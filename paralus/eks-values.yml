@@ -1,0 +1,39 @@
+fqdn:
+  # -- Root domain
+  domain: "upgrad.com"
+  # -- subdomain used for viewing dashboard
+  hostname: "paralus"
+  # -- a wildcard subdomain used for controller cluster to target
+  # -- cluster communication
+  coreConnectorSubdomain: "*.core-connector"
+  # -- a wildcard subdomain used for controller cluster to end user
+  # -- communication
+  userSubdomain: "*.user"
+
+deploy:
+  postgresql:
+    enable: true
+
+postgresql:
+  primary:
+    persistence:
+      enabled: true
+      storageClass: "local-path"
+
+kratos:
+  kratos:
+    development: true
+  service:
+    public:
+      enabled: true
+      type: NodePort
+
+contour:
+  envoy:
+    service:
+      annotations:
+        #service.beta.kubernetes.io/aws-load-balancer-type: "alb"
+        service.beta.kubernetes.io/aws-load-balancer-type: nlb
+        service.beta.kubernetes.io/aws-load-balancer-scheme: "internet-facing"
+        service.beta.kubernetes.io/aws-load-balancer-subnets: "subnet-0d55813b48ccd601c,subnet-064f7fd11f2a5721b"
+        

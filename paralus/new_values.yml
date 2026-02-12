@@ -1,0 +1,43 @@
+replicaCount: 2
+services:
+  dashboard:
+    type: NodePort
+ 
+auditLogs:
+  storage: "elasticsearch"
+ 
+deploy:
+  contour:
+    # -- auto install contour ingress controller
+    enable: true
+  elasticsearch:
+    address: "https://elasticsearch.talentedge.dev:443"
+  postgresql:
+    address: "common-prod-postgres-paralus.c5ag0s200381.ap-south-1.rds.amazonaws.com"
+    username: "postgres"
+    password: "4863kvVJRiyM"
+    database: "postgres"
+  filebeat:
+    enable: true
+  fluentbit:
+    enable: false
+fqdn:
+  domain: talentedge.dev
+  # -- subdomain used for viewing dashboard
+  hostname: "paralus"
+
+kratos:
+  kratos:
+    development: true
+  service:
+    public:
+      enabled: true
+      type: NodePort
+
+contour:
+  envoy:
+    service:
+      annotations:
+        service.beta.kubernetes.io/aws-load-balancer-type: nlb
+        service.beta.kubernetes.io/aws-load-balancer-scheme: "internet-facing"
+        service.beta.kubernetes.io/aws-load-balancer-subnets: "subnet-084d2a28b1af1d77c,subnet-02a8d59bc6ac7e021,subnet-0734c45a69244fc7a"

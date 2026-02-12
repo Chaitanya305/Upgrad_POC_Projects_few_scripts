@@ -1,0 +1,16 @@
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: outbound-restrict
+spec:
+  podSelector: {}   # all pods in default namespace
+  policyTypes:
+    - Egress
+  egress:
+    - to:
+        - namespaceSelector:
+            matchLabels:
+              project: hp
+
+
+#default ns pod can only send traffic to hp pod and can receive any traffic

@@ -1,0 +1,36 @@
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: contradict-np1
+spec:
+  podSelector:
+    matchLabels:
+      app: nginx
+  policyTypes:
+    - Ingress
+  ingress:
+    - from:
+        - namespaceSelector:
+            matchLabels:
+              project: hp
+          podSelector:
+            matchLabels:
+              project: hp
+
+---
+
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: contradict-np2
+spec:
+  podSelector:
+    matchLabels:
+      app: nginx
+  policyTypes:
+    - Ingress
+
+# policy1 says that hp can send traffic while policy2 says no one can send traffic to pod app=nginx in default ns
+
+# as policy two says all deny for inbound but still due to policy one hp label ns pod can send traffic
+# i.e np are addatives sum up and behave as per result of sum.

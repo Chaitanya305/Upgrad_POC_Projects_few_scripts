@@ -1,0 +1,2464 @@
+all repos are: upgrad_infra_scripts upgrad-devops-scripts kh-cicd-scripts kh-devops-scripts kh-infra-scripts jenkins-codebuild upgrad-cloudlabs-files kh-dc-scripts devops-sample-scripts te-devops-scripts te-cicd-scripts te-infra-scripts ug-infra-scripts ug-devops-scripts ug-azure-infra-scripts
+******************************-----------******************************
+working on repo upgrad_infra_scripts ........ 
+************* Processing for branch: Dipesh-Garg/blendedlearningyaml-edited-online-with-b-1655478369990 *************
+Your branch is up to date with 'origin/Dipesh-Garg/blendedlearningyaml-edited-online-with-b-1655478369990'.
+file already exist skip remaining steps....
+************* Processing for branch: Lokesh-Garg/blendedlearningyaml-edited-online-with-b-1669711573935 *************
+Your branch is up to date with 'origin/Lokesh-Garg/blendedlearningyaml-edited-online-with-b-1669711573935'.
+file already exist skip remaining steps....
+************* Processing for branch: ReplicaChanges *************
+Your branch is up to date with 'origin/ReplicaChanges'.
+file already exist skip remaining steps....
+************* Processing for branch: Shashwat-Mehta/update-course-authoring-content-instance *************
+Your branch is up to date with 'origin/Shashwat-Mehta/update-course-authoring-content-instance'.
+file already exist skip remaining steps....
+************* Processing for branch: Shashwat-Mehta/update-ueducation-auth-instance *************
+Your branch is up to date with 'origin/Shashwat-Mehta/update-ueducation-auth-instance'.
+file already exist skip remaining steps....
+************* Processing for branch: Shashwat-Mehta/update_staging_infra_to_normal *************
+Your branch is up to date with 'origin/Shashwat-Mehta/update_staging_infra_to_normal'.
+file already exist skip remaining steps....
+************* Processing for branch: Siddharth-Nandi/sauserserviceyaml-edited-online-with-bit-1631798200960 *************
+Your branch is up to date with 'origin/Siddharth-Nandi/sauserserviceyaml-edited-online-with-bit-1631798200960'.
+file already exist skip remaining steps....
+************* Processing for branch: automation-script *************
+Your branch is up to date with 'origin/automation-script'.
+file already exist skip remaining steps....
+************* Processing for branch: automation-update-eip *************
+Your branch is up to date with 'origin/automation-update-eip'.
+file already exist skip remaining steps....
+************* Processing for branch: bugfix/dev-service-secret-fix *************
+Your branch is up to date with 'origin/bugfix/dev-service-secret-fix'.
+file already exist skip remaining steps....
+************* Processing for branch: bugfix/dr-flag-fixes-prod-lambdas *************
+Your branch is up to date with 'origin/bugfix/dr-flag-fixes-prod-lambdas'.
+file already exist skip remaining steps....
+************* Processing for branch: bugfix/fix-consent-management-secret *************
+Your branch is up to date with 'origin/bugfix/fix-consent-management-secret'.
+file already exist skip remaining steps....
+************* Processing for branch: bugfix/fix-db-snapshot-deletion *************
+Your branch is up to date with 'origin/bugfix/fix-db-snapshot-deletion'.
+file already exist skip remaining steps....
+************* Processing for branch: bugfix/fix-gradle-event-service *************
+Your branch is up to date with 'origin/bugfix/fix-gradle-event-service'.
+file already exist skip remaining steps....
+************* Processing for branch: bugfix/kibana_log_index *************
+Your branch is up to date with 'origin/bugfix/kibana_log_index'.
+file already exist skip remaining steps....
+************* Processing for branch: bugfix/non-prod-lambda-fixes *************
+Your branch is up to date with 'origin/bugfix/non-prod-lambda-fixes'.
+file already exist skip remaining steps....
+************* Processing for branch: code-update *************
+Your branch is up to date with 'origin/code-update'.
+file already exist skip remaining steps....
+************* Processing for branch: cost-report *************
+Your branch is up to date with 'origin/cost-report'.
+file already exist skip remaining steps....
+************* Processing for branch: cost-report-automation *************
+Your branch is up to date with 'origin/cost-report-automation'.
+file already exist skip remaining steps....
+************* Processing for branch: course-content *************
+Your branch is up to date with 'origin/course-content'.
+file already exist skip remaining steps....
+************* Processing for branch: course-content-changes-temp *************
+Your branch is up to date with 'origin/course-content-changes-temp'.
+file already exist skip remaining steps....
+************* Processing for branch: creds-oms *************
+Your branch is up to date with 'origin/creds-oms'.
+file already exist skip remaining steps....
+************* Processing for branch: devops *************
+Your branch is up to date with 'origin/devops'.
+file already exist skip remaining steps....
+************* Processing for branch: feat/infra-config-upgrade-helm *************
+Your branch is up to date with 'origin/feat/infra-config-upgrade-helm'.
+file already exist skip remaining steps....
+************* Processing for branch: feat/loadtest-helm-update *************
+Your branch is up to date with 'origin/feat/loadtest-helm-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feat/optimise-terraform *************
+Your branch is up to date with 'origin/feat/optimise-terraform'.
+file already exist skip remaining steps....
+************* Processing for branch: feat/solar-team-name *************
+Your branch is up to date with 'origin/feat/solar-team-name'.
+file already exist skip remaining steps....
+************* Processing for branch: feature-ip-update *************
+Your branch is up to date with 'origin/feature-ip-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-AWS-Access-Secret-Key-in-DEV-Gradle-26thOct *************
+Your branch is up to date with 'origin/feature/Adding-AWS-Access-Secret-Key-in-DEV-Gradle-26thOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-AWS-Access-Secret-in-sa-content-service-prod *************
+Your branch is up to date with 'origin/feature/Adding-AWS-Access-Secret-in-sa-content-service-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-AWS-Keys-In-Deferral_Service *************
+Your branch is up to date with 'origin/feature/Adding-AWS-Keys-In-Deferral_Service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-AWS-Secrets-in-sa-content-service *************
+Your branch is up to date with 'origin/feature/Adding-AWS-Secrets-in-sa-content-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-AWS-configs-assessment-service-prod-2658 *************
+Your branch is up to date with 'origin/feature/Adding-AWS-configs-assessment-service-prod-2658'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-AWS-keys-document-management-service *************
+Your branch is up to date with 'origin/feature/Adding-AWS-keys-document-management-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-AWS-secret-and-access-key-in-dev-gradle-referral-platform *************
+Your branch is up to date with 'origin/feature/Adding-AWS-secret-and-access-key-in-dev-gradle-referral-platform'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-GC-params-content-access-service-loadtest *************
+Your branch is up to date with 'origin/feature/Adding-GC-params-content-access-service-loadtest'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-Rabbitmq-details-2354 *************
+Your branch is up to date with 'origin/feature/Adding-Rabbitmq-details-2354'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-SES-configs-referral-platform-loadtest *************
+Your branch is up to date with 'origin/feature/Adding-SES-configs-referral-platform-loadtest'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-configs-sa-auth-service-prod-2627 *************
+Your branch is up to date with 'origin/feature/Adding-configs-sa-auth-service-prod-2627'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-creds-learner-progress-DB-2341 *************
+Your branch is up to date with 'origin/feature/Adding-creds-learner-progress-DB-2341'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-db-creds-in-sa-dc-consumer-2823 *************
+Your branch is up to date with 'origin/feature/Adding-db-creds-in-sa-dc-consumer-2823'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-debug-true-2430 *************
+Your branch is up to date with 'origin/feature/Adding-debug-true-2430'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-health-end-points-in-prometheus-yaml-file *************
+Your branch is up to date with 'origin/feature/Adding-health-end-points-in-prometheus-yaml-file'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-health-end-points-in-prometheus-yaml-file-loadtest *************
+Your branch is up to date with 'origin/feature/Adding-health-end-points-in-prometheus-yaml-file-loadtest'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-health-endpoints-2328 *************
+Your branch is up to date with 'origin/feature/Adding-health-endpoints-2328'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-health-endpoints-in-prometheus-file-28thDec *************
+Your branch is up to date with 'origin/feature/Adding-health-endpoints-in-prometheus-file-28thDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-health-endpoints-study-abroad-ssr-prod-2326 *************
+Your branch is ahead of 'origin/feature/Adding-health-endpoints-study-abroad-ssr-prod-2326' by 1 commit.
+  (use "git push" to publish your local commits)
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-new-services-in-prometheus-file *************
+Your branch is up to date with 'origin/feature/Adding-new-services-in-prometheus-file'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-new-services-in-prometheus.yaml-file-22ndAug *************
+Your branch is up to date with 'origin/feature/Adding-new-services-in-prometheus.yaml-file-22ndAug'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-rabbitmq-configs-in-dev-plagiarism-service-java-2676 *************
+Your branch is up to date with 'origin/feature/Adding-rabbitmq-configs-in-dev-plagiarism-service-java-2676'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-resouce-block-order-service-staging *************
+Your branch is up to date with 'origin/feature/Adding-resouce-block-order-service-staging'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-resource-block-career-tap-staging *************
+Your branch is up to date with 'origin/feature/Adding-resource-block-career-tap-staging'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-secrets-db-keys-in-prod-templates-GO *************
+Your branch is up to date with 'origin/feature/Adding-secrets-db-keys-in-prod-templates-GO'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-secrets-db-keys-in-solar-templates-Maven *************
+Your branch is up to date with 'origin/feature/Adding-secrets-db-keys-in-solar-templates-Maven'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-services-in-prometheus-file-UAT-28thDec *************
+Your branch is up to date with 'origin/feature/Adding-services-in-prometheus-file-UAT-28thDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-services-in-prometheus-file-dev-28thDec *************
+Your branch is up to date with 'origin/feature/Adding-services-in-prometheus-file-dev-28thDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-services-in-prometheus-file-loadtest-28thDec *************
+Your branch is up to date with 'origin/feature/Adding-services-in-prometheus-file-loadtest-28thDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Adding-services-in-prometheus-prod-file-3rdJan *************
+Your branch is up to date with 'origin/feature/Adding-services-in-prometheus-prod-file-3rdJan'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Changing-resouce-block-ams-integration-service *************
+Your branch is up to date with 'origin/feature/Changing-resouce-block-ams-integration-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Creating-new-service-abroad-ssr *************
+Your branch is up to date with 'origin/feature/Creating-new-service-abroad-ssr'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/DO-60-dr-app-config-creation *************
+Your branch is up to date with 'origin/feature/DO-60-dr-app-config-creation'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Increasing-memory-mp-client-v2-exp *************
+Your branch is up to date with 'origin/feature/Increasing-memory-mp-client-v2-exp'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Increasing-replica-in-DCS-service *************
+Your branch is up to date with 'origin/feature/Increasing-replica-in-DCS-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Increasing-transformation-engine-replica-26thAug *************
+Your branch is up to date with 'origin/feature/Increasing-transformation-engine-replica-26thAug'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/JVM-parameters-addition-in-prod-2ndDec *************
+Your branch is up to date with 'origin/feature/JVM-parameters-addition-in-prod-2ndDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Referral-platform-loadtest-setup-2647 *************
+Your branch is up to date with 'origin/feature/Referral-platform-loadtest-setup-2647'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Removing-GC-params-from-content-access-service *************
+Your branch is up to date with 'origin/feature/Removing-GC-params-from-content-access-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/S3-bucket-credential-for-invoice-service-2525 *************
+Your branch is up to date with 'origin/feature/S3-bucket-credential-for-invoice-service-2525'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Service-to-be-updated-on-shark *************
+Your branch is up to date with 'origin/feature/Service-to-be-updated-on-shark'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-parameters-loadtest-with-prod *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-parameters-loadtest-with-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-replica-loadtest-with-prod-2ndFeb *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-replica-loadtest-with-prod-2ndFeb'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-replica-of-loadtest-with-prod-in-infrascripts *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-replica-of-loadtest-with-prod-in-infrascripts'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-replica-parameter-loadtest-with-prod-1stDec *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-replica-parameter-loadtest-with-prod-1stDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-replica-parameters-loadtest-with-prod-13thJuly *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-replica-parameters-loadtest-with-prod-13thJuly'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-replica-parameters-loadtest-with-prod-15thJune *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-replica-parameters-loadtest-with-prod-15thJune'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-replica-parameters-loadtest-with-prod-19thJan *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-replica-parameters-loadtest-with-prod-19thJan'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-replica-parameters-loadtest-with-prod-22ndJune *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-replica-parameters-loadtest-with-prod-22ndJune'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-replica-parameters-loadtest-with-prod-29thMay *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-replica-parameters-loadtest-with-prod-29thMay'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-replica-parameters-loadtest-with-prod-5thJan *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-replica-parameters-loadtest-with-prod-5thJan'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-replica-parameters-loadtest-with-prod-6thJuly *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-replica-parameters-loadtest-with-prod-6thJuly'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-hpa-replica-parameters-loadtest-with-prod-8thJune *************
+Your branch is up to date with 'origin/feature/Syncing-hpa-replica-parameters-loadtest-with-prod-8thJune'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Syncing-solar-infra-files-with-dev-gradle-24thFeb *************
+Your branch is up to date with 'origin/feature/Syncing-solar-infra-files-with-dev-gradle-24thFeb'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Test-branch-Dhruv2 *************
+Your branch is up to date with 'origin/feature/Test-branch-Dhruv2'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Update-replicacount-of-iamauth-staging *************
+Your branch is up to date with 'origin/feature/Update-replicacount-of-iamauth-staging'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Updating-browser-timeout-2451 *************
+Your branch is up to date with 'origin/feature/Updating-browser-timeout-2451'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Updating-command-on-learner-activity-prod *************
+Your branch is up to date with 'origin/feature/Updating-command-on-learner-activity-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Updating-configmap-in-one-upgrad-career-service *************
+Your branch is up to date with 'origin/feature/Updating-configmap-in-one-upgrad-career-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Updating-configs-Learner-progress--Learner-activity *************
+Your branch is up to date with 'origin/feature/Updating-configs-Learner-progress--Learner-activity'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Updating-ingress-Plagiarism-service-2721 *************
+Your branch is up to date with 'origin/feature/Updating-ingress-Plagiarism-service-2721'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Updating-memory-and-resource-block-21stMarch *************
+Your branch is up to date with 'origin/feature/Updating-memory-and-resource-block-21stMarch'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Updating-memory-and-resource-block-Acquisition *************
+Your branch is up to date with 'origin/feature/Updating-memory-and-resource-block-Acquisition'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Updating-memory-and-resource-block-Platform *************
+Your branch is up to date with 'origin/feature/Updating-memory-and-resource-block-Platform'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Updating-resource-block-content-access-service-2716 *************
+Your branch is up to date with 'origin/feature/Updating-resource-block-content-access-service-2716'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Updating-resource-block-dcps-prod *************
+Your branch is up to date with 'origin/feature/Updating-resource-block-dcps-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/Updating-staging-other-files-content-13thMarch *************
+Your branch is up to date with 'origin/feature/Updating-staging-other-files-content-13thMarch'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/added_rabbit_mq_to_prod *************
+Your branch is up to date with 'origin/feature/added_rabbit_mq_to_prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-NSDC-configs-in-application-service-9thJuly *************
+Your branch is up to date with 'origin/feature/adding-NSDC-configs-in-application-service-9thJuly'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-assessments-rds-details-in-woolf-integration-21stJune *************
+Your branch is up to date with 'origin/feature/adding-assessments-rds-details-in-woolf-integration-21stJune'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-aws-secret-key-sa-marketing-service-13thAug *************
+Your branch is up to date with 'origin/feature/adding-aws-secret-key-sa-marketing-service-13thAug'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-aws-secret-key-sa-marketing-service-16thAug *************
+Your branch is up to date with 'origin/feature/adding-aws-secret-key-sa-marketing-service-16thAug'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-aws-secrets-3723 *************
+Your branch is up to date with 'origin/feature/adding-aws-secrets-3723'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-aws-secrets-in-dev-staging-files-12thMarch *************
+Your branch is up to date with 'origin/feature/adding-aws-secrets-in-dev-staging-files-12thMarch'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-aws-secrets-in-program-service-v2 *************
+Your branch is up to date with 'origin/feature/adding-aws-secrets-in-program-service-v2'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-aws-secrets-in-sa-metatag-service *************
+Your branch is up to date with 'origin/feature/adding-aws-secrets-in-sa-metatag-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-aws-secrets-in-sa-user-service-prod *************
+Your branch is up to date with 'origin/feature/adding-aws-secrets-in-sa-user-service-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-bussiness-partner-key-in-sa-auth-service-19thJune *************
+Your branch is up to date with 'origin/feature/adding-bussiness-partner-key-in-sa-auth-service-19thJune'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-bussiness-partner-key-in-sa-auth-service-20thJune *************
+Your branch is up to date with 'origin/feature/adding-bussiness-partner-key-in-sa-auth-service-20thJune'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-changes-in-automation-jobs *************
+Your branch is up to date with 'origin/feature/adding-changes-in-automation-jobs'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-changes-in-automation-jobs-1 *************
+Your branch is up to date with 'origin/feature/adding-changes-in-automation-jobs-1'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-changes-in-cost-saving-report *************
+Your branch is up to date with 'origin/feature/adding-changes-in-cost-saving-report'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-configs-3352 *************
+Your branch is up to date with 'origin/feature/adding-configs-3352'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-datasourceurl-in-otp-service *************
+Your branch is up to date with 'origin/feature/adding-datasourceurl-in-otp-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-dms-s3-details-in-sa-user-service-2ndMay *************
+Your branch is up to date with 'origin/feature/adding-dms-s3-details-in-sa-user-service-2ndMay'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-dms-s3-details-in-sa-user-service-30thApril *************
+Your branch is up to date with 'origin/feature/adding-dms-s3-details-in-sa-user-service-30thApril'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-files-in-prometheus.yaml-15thMarch *************
+Your branch is up to date with 'origin/feature/adding-files-in-prometheus.yaml-15thMarch'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-health-end-point-one-upgrad-event-integration *************
+Your branch is up to date with 'origin/feature/adding-health-end-point-one-upgrad-event-integration'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-health-endpoint-in-one-program-service-8thApril *************
+Your branch is up to date with 'origin/feature/adding-health-endpoint-in-one-program-service-8thApril'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-health-endpoint-in-webhook-service-prod *************
+Your branch is up to date with 'origin/feature/adding-health-endpoint-in-webhook-service-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-health-endpoints-in-prometheus.yaml-file-9thJan *************
+Your branch is up to date with 'origin/feature/adding-health-endpoints-in-prometheus.yaml-file-9thJan'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-health-endpoints-in-services-23rdNov *************
+Your branch is up to date with 'origin/feature/adding-health-endpoints-in-services-23rdNov'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-healthendpoints-in-upgraddisha-files *************
+Your branch is up to date with 'origin/feature/adding-healthendpoints-in-upgraddisha-files'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-hpa-replica-parameters-in-loadtest-files-6thNov *************
+Your branch is up to date with 'origin/feature/adding-hpa-replica-parameters-in-loadtest-files-6thNov'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-hpa-replica-parameters-loadtest-with-prod-1stMarch *************
+Your branch is up to date with 'origin/feature/adding-hpa-replica-parameters-loadtest-with-prod-1stMarch'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-kafka-redis-details-in-apps-5thSep *************
+Your branch is up to date with 'origin/feature/adding-kafka-redis-details-in-apps-5thSep'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-kh-lead-management-service-in-prod *************
+Your branch is up to date with 'origin/feature/adding-kh-lead-management-service-in-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-kh-lead-management-service.promethus-file *************
+Your branch is up to date with 'origin/feature/adding-kh-lead-management-service.promethus-file'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-loadbalancer-to-upgraddisha *************
+Your branch is up to date with 'origin/feature/adding-loadbalancer-to-upgraddisha'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-lti-service-in-prod-setup *************
+Your branch is up to date with 'origin/feature/adding-lti-service-in-prod-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-mongo-details-3567 *************
+Your branch is up to date with 'origin/feature/adding-mongo-details-3567'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-mongodb-uri-in-program-service-v2-dev *************
+Your branch is up to date with 'origin/feature/adding-mongodb-uri-in-program-service-v2-dev'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-new-domains-in-tenant-ssr-blog-19thApril *************
+Your branch is up to date with 'origin/feature/adding-new-domains-in-tenant-ssr-blog-19thApril'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-new-service-in-prometheus.yaml-file-9thApril *************
+Your branch is up to date with 'origin/feature/adding-new-service-in-prometheus.yaml-file-9thApril'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-new-service-lti-fe *************
+Your branch is up to date with 'origin/feature/adding-new-service-lti-fe'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-new-service-lti-service *************
+Your branch is up to date with 'origin/feature/adding-new-service-lti-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-new-services-in-prometheus.yaml-21stOct *************
+Your branch is up to date with 'origin/feature/adding-new-services-in-prometheus.yaml-21stOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-new-services-in-prometheus.yaml-file *************
+Your branch is up to date with 'origin/feature/adding-new-services-in-prometheus.yaml-file'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-new-services-in-prometheus.yaml-file-17thAug *************
+Your branch is up to date with 'origin/feature/adding-new-services-in-prometheus.yaml-file-17thAug'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-new-services-in-prometheus.yaml-file-23rdNov *************
+Your branch is up to date with 'origin/feature/adding-new-services-in-prometheus.yaml-file-23rdNov'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-new-services-in-prometheus.yaml-file-9thFeb *************
+Your branch is up to date with 'origin/feature/adding-new-services-in-prometheus.yaml-file-9thFeb'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-otp-service-in-prometheus.yaml-file *************
+Your branch is up to date with 'origin/feature/adding-otp-service-in-prometheus.yaml-file'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-plagiarism-service-java-in-prometheus-file *************
+Your branch is up to date with 'origin/feature/adding-plagiarism-service-java-in-prometheus-file'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-resource-block-2402 *************
+Your branch is up to date with 'origin/feature/adding-resource-block-2402'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-resource-block-2419 *************
+Your branch is up to date with 'origin/feature/adding-resource-block-2419'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-resource-block-course-authoring-2393 *************
+Your branch is up to date with 'origin/feature/adding-resource-block-course-authoring-2393'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-s3-configs-sa-user-service-3951-3rdMay *************
+Your branch is up to date with 'origin/feature/adding-s3-configs-sa-user-service-3951-3rdMay'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-s3-secrets-program-service-v2-prod-21stMarch *************
+Your branch is up to date with 'origin/feature/adding-s3-secrets-program-service-v2-prod-21stMarch'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-schedule-service-in-prometheus.yaml-file *************
+Your branch is up to date with 'origin/feature/adding-schedule-service-in-prometheus.yaml-file'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-secrets-in-dev--staging-tickets-8thDec *************
+Your branch is up to date with 'origin/feature/adding-secrets-in-dev--staging-tickets-8thDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-secrets-in-sa-consumer-service *************
+Your branch is up to date with 'origin/feature/adding-secrets-in-sa-consumer-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-secrets-in-sa-messaging-prod *************
+Your branch is up to date with 'origin/feature/adding-secrets-in-sa-messaging-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-secrets-in-tickets-prod-11thDec *************
+Your branch is up to date with 'origin/feature/adding-secrets-in-tickets-prod-11thDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-service-in-prometheus.yaml-file-23rdfeb *************
+Your branch is up to date with 'origin/feature/adding-service-in-prometheus.yaml-file-23rdfeb'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-services-in-QA-env-3275 *************
+Your branch is up to date with 'origin/feature/adding-services-in-QA-env-3275'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-12thSep *************
+Your branch is up to date with 'origin/feature/adding-services-in-prometheus.yaml-file-12thSep'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-23rdSep *************
+Your branch is up to date with 'origin/feature/adding-services-in-prometheus.yaml-file-23rdSep'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-27thMay *************
+Your branch is up to date with 'origin/feature/adding-services-in-prometheus.yaml-file-27thMay'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-services-in-prometheus.yaml.file-22ndApril *************
+Your branch is up to date with 'origin/feature/adding-services-in-prometheus.yaml.file-22ndApril'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-slackdetails-in-automation-script-19thDec *************
+Your branch is up to date with 'origin/feature/adding-slackdetails-in-automation-script-19thDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-ssr-v2-in-infra-files-4770 *************
+Your branch is up to date with 'origin/feature/adding-ssr-v2-in-infra-files-4770'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-subdomain-in-website-blog-prod-16thMay *************
+Your branch is up to date with 'origin/feature/adding-subdomain-in-website-blog-prod-16thMay'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-tickets-in-prometheus-file *************
+Your branch is up to date with 'origin/feature/adding-tickets-in-prometheus-file'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-zoom-details-in-lead-management-service-prod-18thJuly *************
+Your branch is up to date with 'origin/feature/adding-zoom-details-in-lead-management-service-prod-18thJuly'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-zoom-details-in-lms-2ndJuly *************
+Your branch is up to date with 'origin/feature/adding-zoom-details-in-lms-2ndJuly'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-zoom-secrets-in-sa-lead-service *************
+Your branch is up to date with 'origin/feature/adding-zoom-secrets-in-sa-lead-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-zoom-secrets-in-sa-lead-service-prod *************
+Your branch is up to date with 'origin/feature/adding-zoom-secrets-in-sa-lead-service-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/aligning-request-with-usage-12thSep *************
+Your branch is up to date with 'origin/feature/aligning-request-with-usage-12thSep'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/alumni-connect-for-prod-5thDec *************
+Your branch is up to date with 'origin/feature/alumni-connect-for-prod-5thDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/ams-integration-service-loadtest-UAT *************
+Your branch is up to date with 'origin/feature/ams-integration-service-loadtest-UAT'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/application-service-s3-setup-21stMarch *************
+Your branch is up to date with 'origin/feature/application-service-s3-setup-21stMarch'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/apps-domain *************
+Your branch is up to date with 'origin/feature/apps-domain'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/automation-apps-dhruv *************
+Your branch is up to date with 'origin/feature/automation-apps-dhruv'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/automation-apps-priyanka *************
+Your branch is up to date with 'origin/feature/automation-apps-priyanka'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/automation-aws-account-update *************
+Your branch is up to date with 'origin/feature/automation-aws-account-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/automation-backup-18thDec *************
+Your branch is up to date with 'origin/feature/automation-backup-18thDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/automation-scripts *************
+Your branch is up to date with 'origin/feature/automation-scripts'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/aws-secrets-in-upgrad-disha *************
+Your branch is up to date with 'origin/feature/aws-secrets-in-upgrad-disha'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/backup-script-automation-15thDec *************
+Your branch is up to date with 'origin/feature/backup-script-automation-15thDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/bitbucket_integration *************
+Your branch is up to date with 'origin/feature/bitbucket_integration'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/bl-profiler-yaml *************
+Your branch is up to date with 'origin/feature/bl-profiler-yaml'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/blog-setup *************
+Your branch is up to date with 'origin/feature/blog-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/changing-automation-jobs-name-21stMarch *************
+Your branch is up to date with 'origin/feature/changing-automation-jobs-name-21stMarch'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/changing-health-endpoint-ssr-v2-15thOct *************
+Your branch is up to date with 'origin/feature/changing-health-endpoint-ssr-v2-15thOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/changing-host-name-2619 *************
+Your branch is up to date with 'origin/feature/changing-host-name-2619'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/changing-pod-to-1-program-service-v2 *************
+Your branch is up to date with 'origin/feature/changing-pod-to-1-program-service-v2'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/checking-hpa-replica-prod-9thJune *************
+Your branch is up to date with 'origin/feature/checking-hpa-replica-prod-9thJune'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/cms-one-ingress-change *************
+Your branch is up to date with 'origin/feature/cms-one-ingress-change'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/cms-one-ingress-change-prod *************
+Your branch is up to date with 'origin/feature/cms-one-ingress-change-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/comms-analytics-service-onboarding *************
+Your branch is up to date with 'origin/feature/comms-analytics-service-onboarding'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/comparison-resource-test *************
+Your branch is up to date with 'origin/feature/comparison-resource-test'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/configs-s3bucket-update *************
+Your branch is up to date with 'origin/feature/configs-s3bucket-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/content-access-service-beta-31stOct *************
+Your branch is up to date with 'origin/feature/content-access-service-beta-31stOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/content-access-service-loadtest-infra-file *************
+Your branch is up to date with 'origin/feature/content-access-service-loadtest-infra-file'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/content-access-service-prod-21stDec *************
+Your branch is up to date with 'origin/feature/content-access-service-prod-21stDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/content-access-service-rabbit-2259 *************
+Your branch is up to date with 'origin/feature/content-access-service-rabbit-2259'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/dccs-cassandra-integration *************
+Your branch is up to date with 'origin/feature/dccs-cassandra-integration'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/dcs-db-creds-update *************
+Your branch is up to date with 'origin/feature/dcs-db-creds-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/deferral-service-beta-28thOct *************
+Your branch is up to date with 'origin/feature/deferral-service-beta-28thOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/deferral-service-prod-21stDec *************
+Your branch is up to date with 'origin/feature/deferral-service-prod-21stDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/dev-increase-cpu-memory *************
+Your branch is up to date with 'origin/feature/dev-increase-cpu-memory'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/devops-automation-apps *************
+Your branch is up to date with 'origin/feature/devops-automation-apps'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/disable-prod-autoscaling *************
+Your branch is up to date with 'origin/feature/disable-prod-autoscaling'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/disabling-health-end-point-otp-service *************
+Your branch is up to date with 'origin/feature/disabling-health-end-point-otp-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/discussion-forum-instana-integration *************
+Your branch is up to date with 'origin/feature/discussion-forum-instana-integration'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/document-management-config-changes-17thMarch *************
+Your branch is up to date with 'origin/feature/document-management-config-changes-17thMarch'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/document-management-service-2503 *************
+Your branch is up to date with 'origin/feature/document-management-service-2503'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/document-management-service-2503-beta *************
+Your branch is up to date with 'origin/feature/document-management-service-2503-beta'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/document-management-service-prod-beta *************
+Your branch is up to date with 'origin/feature/document-management-service-prod-beta'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/document-management-service-staging-3rdMarch-beta *************
+Your branch is up to date with 'origin/feature/document-management-service-staging-3rdMarch-beta'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/dr-snapshot-copy-feature *************
+Your branch is up to date with 'origin/feature/dr-snapshot-copy-feature'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/dy-patil-service-setup-dev--staging *************
+Your branch is up to date with 'origin/feature/dy-patil-service-setup-dev--staging'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/ec2-ami-and-snapshot-deletion-script-20thMarch *************
+Your branch is up to date with 'origin/feature/ec2-ami-and-snapshot-deletion-script-20thMarch'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/ec2-disaster-recovery-script *************
+Your branch is up to date with 'origin/feature/ec2-disaster-recovery-script'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/ec2-termination-protection-without-asg-25thApril *************
+Your branch is up to date with 'origin/feature/ec2-termination-protection-without-asg-25thApril'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/fix-dr-copy-snapshot-quota-issue *************
+Your branch is up to date with 'origin/feature/fix-dr-copy-snapshot-quota-issue'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/gdpr-dsar-service-onboarding *************
+Your branch is up to date with 'origin/feature/gdpr-dsar-service-onboarding'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/grading-backend-loadtest-infra-file *************
+Your branch is up to date with 'origin/feature/grading-backend-loadtest-infra-file'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/grafana-ebs *************
+Your branch is up to date with 'origin/feature/grafana-ebs'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/health-endpoint-changes-2314 *************
+Your branch is up to date with 'origin/feature/health-endpoint-changes-2314'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/health-probe-changes *************
+Your branch is up to date with 'origin/feature/health-probe-changes'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/hpa-critical-app-uat *************
+Your branch is up to date with 'origin/feature/hpa-critical-app-uat'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/increase-memory-cpu-prod-service *************
+Your branch is up to date with 'origin/feature/increase-memory-cpu-prod-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/increase-pods-for-dcps *************
+Your branch is up to date with 'origin/feature/increase-pods-for-dcps'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/increasing-memory-upgraddishanew-2ndApril *************
+Your branch is up to date with 'origin/feature/increasing-memory-upgraddishanew-2ndApril'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/jira_id-automation *************
+Your branch is up to date with 'origin/feature/jira_id-automation'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/jobs-platform-onboarding *************
+Your branch is up to date with 'origin/feature/jobs-platform-onboarding'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/kh-lead-management-service *************
+Your branch is up to date with 'origin/feature/kh-lead-management-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/lambda-deployment-testing *************
+Your branch is up to date with 'origin/feature/lambda-deployment-testing'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/learner-progress-health-endpoint-/health *************
+Your branch is up to date with 'origin/feature/learner-progress-health-endpoint-/health'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/learner-progress-resource-block-changes-28thMarch *************
+Your branch is up to date with 'origin/feature/learner-progress-resource-block-changes-28thMarch'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/lms-migration-service-loadtest-beta *************
+Your branch is up to date with 'origin/feature/lms-migration-service-loadtest-beta'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/loadtest-loadbalancer-sync *************
+Your branch is up to date with 'origin/feature/loadtest-loadbalancer-sync'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/loadtest-secret-updation *************
+Your branch is up to date with 'origin/feature/loadtest-secret-updation'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/loadtest-sync-memory-hpa *************
+Your branch is up to date with 'origin/feature/loadtest-sync-memory-hpa'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/mem-increase *************
+Your branch is up to date with 'origin/feature/mem-increase'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/mysql-version-update *************
+Your branch is up to date with 'origin/feature/mysql-version-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/new-service-setup-3117 *************
+Your branch is up to date with 'origin/feature/new-service-setup-3117'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/new-service-setup-3354 *************
+Your branch is up to date with 'origin/feature/new-service-setup-3354'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/new-service-setup-one-upgrad-dev *************
+Your branch is up to date with 'origin/feature/new-service-setup-one-upgrad-dev'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/nonprod-health-shark-integration *************
+Your branch is up to date with 'origin/feature/nonprod-health-shark-integration'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/oms-migration-service-prod-setup-14thAug *************
+Your branch is up to date with 'origin/feature/oms-migration-service-prod-setup-14thAug'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/oms_migration_service-dev-staging-setup-12thAug *************
+Your branch is up to date with 'origin/feature/oms_migration_service-dev-staging-setup-12thAug'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/one-astra-app-prod-setup-14thOct *************
+Your branch is up to date with 'origin/feature/one-astra-app-prod-setup-14thOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/one-program-service-dev-stage-setup-5thApril *************
+Your branch is up to date with 'origin/feature/one-program-service-dev-stage-setup-5thApril'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/otp-service-dev-and-staging-setup *************
+Your branch is up to date with 'origin/feature/otp-service-dev-and-staging-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/otp-service-prod-setup *************
+Your branch is up to date with 'origin/feature/otp-service-prod-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/payment-communication-service-23rdNOV *************
+Your branch is up to date with 'origin/feature/payment-communication-service-23rdNOV'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/payment-franchise-S3-prod-setup *************
+Your branch is up to date with 'origin/feature/payment-franchise-S3-prod-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/payment-franchise-dev--staging-setup *************
+Your branch is up to date with 'origin/feature/payment-franchise-dev--staging-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/payment-franchise-service-dev--staging *************
+Your branch is up to date with 'origin/feature/payment-franchise-service-dev--staging'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/payment-franchise-service-prod-setup *************
+Your branch is up to date with 'origin/feature/payment-franchise-service-prod-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/payment-franchise-service-pull-policy *************
+Your branch is up to date with 'origin/feature/payment-franchise-service-pull-policy'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/payment-offline-service-beta *************
+Your branch is up to date with 'origin/feature/payment-offline-service-beta'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/payment-service-onboarding *************
+Your branch is up to date with 'origin/feature/payment-service-onboarding'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/payment-services-enable-health-check *************
+Your branch is up to date with 'origin/feature/payment-services-enable-health-check'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/payment-wp-v2-infra-files-pluto-templates *************
+Your branch is up to date with 'origin/feature/payment-wp-v2-infra-files-pluto-templates'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/pheonix-platform-and-student-scorecard *************
+Your branch is up to date with 'origin/feature/pheonix-platform-and-student-scorecard'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/pheonix-platform-infra-prod *************
+Your branch is up to date with 'origin/feature/pheonix-platform-infra-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/pitch-pro-app *************
+Your branch is up to date with 'origin/feature/pitch-pro-app'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/pitchpro-ui *************
+Your branch is up to date with 'origin/feature/pitchpro-ui'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/plagiarism-service-backend-new-service-setup-4thJan *************
+Your branch is up to date with 'origin/feature/plagiarism-service-backend-new-service-setup-4thJan'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/plagiarism-service-java-monitoring *************
+Your branch is up to date with 'origin/feature/plagiarism-service-java-monitoring'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/plagiarism-service-java-prod *************
+Your branch is up to date with 'origin/feature/plagiarism-service-java-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/pluto-payment-service-onboarding *************
+Your branch is up to date with 'origin/feature/pluto-payment-service-onboarding'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/pricing-service-dev-and-staging-setup *************
+Your branch is up to date with 'origin/feature/pricing-service-dev-and-staging-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/prod-comms-worker-setup *************
+Your branch is up to date with 'origin/feature/prod-comms-worker-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/prod-one-program-service *************
+Your branch is up to date with 'origin/feature/prod-one-program-service'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/program-launcher-v2-pluto-setup *************
+Your branch is up to date with 'origin/feature/program-launcher-v2-pluto-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/program-launcher-v2-prod-setup *************
+Your branch is up to date with 'origin/feature/program-launcher-v2-prod-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/program-launcher-v2-setup *************
+Your branch is up to date with 'origin/feature/program-launcher-v2-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/program-service-v2-beta *************
+Your branch is up to date with 'origin/feature/program-service-v2-beta'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/program-service-v2-loadtest *************
+Your branch is up to date with 'origin/feature/program-service-v2-loadtest'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/program-service-v2-prod-beta-3rdNov *************
+Your branch is up to date with 'origin/feature/program-service-v2-prod-beta-3rdNov'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/redis-version-update *************
+Your branch is up to date with 'origin/feature/redis-version-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/referral-service-onboarding *************
+Your branch is up to date with 'origin/feature/referral-service-onboarding'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/removing-mongo-from-program-service-v2 *************
+Your branch is up to date with 'origin/feature/removing-mongo-from-program-service-v2'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/removing-poc-4-poc-3-from-staging *************
+Your branch is up to date with 'origin/feature/removing-poc-4-poc-3-from-staging'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/removing-upgrad-disha-staging-from-behind-vpn *************
+Your branch is up to date with 'origin/feature/removing-upgrad-disha-staging-from-behind-vpn'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/replace-secret-template-scripts *************
+Your branch is up to date with 'origin/feature/replace-secret-template-scripts'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/resource-compare *************
+Your branch is up to date with 'origin/feature/resource-compare'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/revert-redis-version-change *************
+Your branch is up to date with 'origin/feature/revert-redis-version-change'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/s3-config-update *************
+Your branch is up to date with 'origin/feature/s3-config-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/sa-calculator-service-prod-2645 *************
+Your branch is up to date with 'origin/feature/sa-calculator-service-prod-2645'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/sa-dc-consumer-service-beta *************
+Your branch is up to date with 'origin/feature/sa-dc-consumer-service-beta'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/sa-payment-service-prod-19thDec *************
+Your branch is up to date with 'origin/feature/sa-payment-service-prod-19thDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/sap-integration-service-name *************
+Your branch is up to date with 'origin/feature/sap-integration-service-name'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/sap-integration-service-prod-setup *************
+Your branch is up to date with 'origin/feature/sap-integration-service-prod-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/schedule-service-dev-and-staging-setup *************
+Your branch is up to date with 'origin/feature/schedule-service-dev-and-staging-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/sec-rep *************
+Your branch is up to date with 'origin/feature/sec-rep'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/sec-report *************
+Your branch is up to date with 'origin/feature/sec-report'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/secret-key-for-sa-services *************
+Your branch is up to date with 'origin/feature/secret-key-for-sa-services'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/spring-boot-admin-beta *************
+Your branch is up to date with 'origin/feature/spring-boot-admin-beta'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/sse-backend-new-setup-24thFeb *************
+Your branch is up to date with 'origin/feature/sse-backend-new-setup-24thFeb'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/staging-increase-cpu-memory *************
+Your branch is up to date with 'origin/feature/staging-increase-cpu-memory'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/staging-secrets-updation *************
+Your branch is up to date with 'origin/feature/staging-secrets-updation'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/student-scorecard-prod-beta *************
+Your branch is up to date with 'origin/feature/student-scorecard-prod-beta'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/sync-dr-prod-infra *************
+Your branch is up to date with 'origin/feature/sync-dr-prod-infra'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/sync-loadtest-hpa-resource-prod *************
+Your branch is up to date with 'origin/feature/sync-loadtest-hpa-resource-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-DR-configs-with-prod-in-infrafiles-17thOct *************
+Your branch is up to date with 'origin/feature/syncing-DR-configs-with-prod-in-infrafiles-17thOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-DR-configs-with-prod-infrafiles-S3-18thOct *************
+Your branch is up to date with 'origin/feature/syncing-DR-configs-with-prod-infrafiles-S3-18thOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-DR-with-Prod-configs-infrafiles-Node-18thOct *************
+Your branch is up to date with 'origin/feature/syncing-DR-with-Prod-configs-infrafiles-Node-18thOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-DR-with-prod-infra-files-python-17thOct *************
+Your branch is up to date with 'origin/feature/syncing-DR-with-prod-infra-files-python-17thOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-dr-with-prod-configs-maven-infra-files *************
+Your branch is up to date with 'origin/feature/syncing-dr-with-prod-configs-maven-infra-files'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-dr-with-prod-infra-files-configs *************
+Your branch is up to date with 'origin/feature/syncing-dr-with-prod-infra-files-configs'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-falco-rules *************
+Your branch is up to date with 'origin/feature/syncing-falco-rules'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-configs-loadtest-with-prod-in-infrascripts *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-configs-loadtest-with-prod-in-infrascripts'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-10thAug *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-10thAug'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-11thJune *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-11thJune'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-13thAug *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-13thAug'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-16thApril *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-16thApril'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-16thJuly *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-16thJuly'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-18thJune *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-18thJune'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-1stDec *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-1stDec'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-20thAug *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-20thAug'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-21stMay *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-21stMay'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-23rdJuly *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-23rdJuly'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-24thNov *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-24thNov'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-25hJune *************
+Your branch is up to date with 'origin/feature/syncing-hpa-replica-loadtest-with-prod-25hJune'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-26thMarch *************
+Your branch is ahead of 'origin/feature/syncing-hpa-replica-loadtest-with-prod-26thMarch' by 1 commit.
+  (use "git push" to publish your local commits)
+file already exist skip remaining steps....
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-28thMay *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-28thMay' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-28thMay'.
+[feature/syncing-hpa-replica-loadtest-with-prod-28thMay a5b241ab] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-28thSep *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-28thSep' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-28thSep'.
+[feature/syncing-hpa-replica-loadtest-with-prod-28thSep 91ca9be6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-2ndJuly *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-2ndJuly' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-2ndJuly'.
+[feature/syncing-hpa-replica-loadtest-with-prod-2ndJuly 502fbb69] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-30thApril *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-30thApril' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-30thApril'.
+[feature/syncing-hpa-replica-loadtest-with-prod-30thApril c8c4a99b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-3rdSep *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-3rdSep' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-3rdSep'.
+[feature/syncing-hpa-replica-loadtest-with-prod-3rdSep aad1988e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-4thJune *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-4thJune' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-4thJune'.
+[feature/syncing-hpa-replica-loadtest-with-prod-4thJune 6a168b03] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-6thAug *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-6thAug' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-6thAug'.
+[feature/syncing-hpa-replica-loadtest-with-prod-6thAug 5c061ba0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-7thMarch *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-7thMarch' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-7thMarch'.
+[feature/syncing-hpa-replica-loadtest-with-prod-7thMarch c0b6fb22] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-7thdec *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-7thdec' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-7thdec'.
+[feature/syncing-hpa-replica-loadtest-with-prod-7thdec 5bc58d14] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-8thDec *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-8thDec' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-8thDec'.
+[feature/syncing-hpa-replica-loadtest-with-prod-8thDec 61274042] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-9thApril *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-9thApril' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-9thApril'.
+[feature/syncing-hpa-replica-loadtest-with-prod-9thApril 80ac9ca0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-loadtest-with-prod-9thJuly *************
+branch 'feature/syncing-hpa-replica-loadtest-with-prod-9thJuly' set up to track 'origin/feature/syncing-hpa-replica-loadtest-with-prod-9thJuly'.
+[feature/syncing-hpa-replica-loadtest-with-prod-9thJuly 29e10e68] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-of-loadtest-with-prod-8thSep *************
+branch 'feature/syncing-hpa-replica-of-loadtest-with-prod-8thSep' set up to track 'origin/feature/syncing-hpa-replica-of-loadtest-with-prod-8thSep'.
+[feature/syncing-hpa-replica-of-loadtest-with-prod-8thSep 45424f12] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameter-loadtest-1stSep *************
+branch 'feature/syncing-hpa-replica-parameter-loadtest-1stSep' set up to track 'origin/feature/syncing-hpa-replica-parameter-loadtest-1stSep'.
+[feature/syncing-hpa-replica-parameter-loadtest-1stSep 8428322c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameter-loadtest-with-prod *************
+branch 'feature/syncing-hpa-replica-parameter-loadtest-with-prod' set up to track 'origin/feature/syncing-hpa-replica-parameter-loadtest-with-prod'.
+[feature/syncing-hpa-replica-parameter-loadtest-with-prod 0b6f86f5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameter-loadtest-with-prod-27thOct *************
+branch 'feature/syncing-hpa-replica-parameter-loadtest-with-prod-27thOct' set up to track 'origin/feature/syncing-hpa-replica-parameter-loadtest-with-prod-27thOct'.
+[feature/syncing-hpa-replica-parameter-loadtest-with-prod-27thOct 178198e2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameter-loadtest-with-prod-3rdNov *************
+branch 'feature/syncing-hpa-replica-parameter-loadtest-with-prod-3rdNov' set up to track 'origin/feature/syncing-hpa-replica-parameter-loadtest-with-prod-3rdNov'.
+[feature/syncing-hpa-replica-parameter-loadtest-with-prod-3rdNov 2462dc6d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-prod-18thJan *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-prod-18thJan' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-prod-18thJan'.
+[feature/syncing-hpa-replica-parameters-loadtest-prod-18thJan 3296c894] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-prod-9thFeb *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-prod-9thFeb' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-prod-9thFeb'.
+[feature/syncing-hpa-replica-parameters-loadtest-prod-9thFeb 1070a82f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod 90bd18bb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-10thNov *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-10thNov' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-10thNov'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-10thNov 0816639d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-13thApril *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-13thApril' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-13thApril'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-13thApril a316cf0f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-16thFeb *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-16thFeb' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-16thFeb'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-16thFeb b1894c16] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-16thMarch *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-16thMarch' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-16thMarch'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-16thMarch 8a08d89f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-17thNov *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-17thNov' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-17thNov'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-17thNov d548f7c1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-20thApril *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-20thApril' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-20thApril'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-20thApril 368c0841] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-22ndDec *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-22ndDec' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-22ndDec'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-22ndDec 1bbd989e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-22ndSep *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-22ndSep' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-22ndSep'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-22ndSep c838e9cd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-23rdFeb *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-23rdFeb' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-23rdFeb'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-23rdFeb 370b9ca8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-24thAug *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-24thAug' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-24thAug'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-24thAug 20af46b2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-27thApril *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-27thApril' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-27thApril'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-27thApril 212f0176] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-2ndMarch *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-2ndMarch' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-2ndMarch'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-2ndMarch 5264c242] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-30thJan *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-30thJan' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-30thJan'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-30thJan be445605] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-30thMarch *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-30thMarch' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-30thMarch'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-30thMarch bc2aa85a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-4thMay *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-4thMay' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-4thMay'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-4thMay 42dbeb94] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-6thApril *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-6thApril' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-6thApril'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-6thApril c292fc91] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thFeb *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thFeb' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thFeb'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thFeb 8bae87e4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thJan *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thJan' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thJan'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thJan a5e506c4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thMarch *************
+branch 'feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thMarch' set up to track 'origin/feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thMarch'.
+[feature/syncing-hpa-replica-parameters-loadtest-with-prod-9thMarch ab07c1db] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-replica-parameters-of-loadtest-with-prod-25thAug *************
+branch 'feature/syncing-hpa-replica-parameters-of-loadtest-with-prod-25thAug' set up to track 'origin/feature/syncing-hpa-replica-parameters-of-loadtest-with-prod-25thAug'.
+[feature/syncing-hpa-replica-parameters-of-loadtest-with-prod-25thAug 5f3d27c0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-resource-replica-loadtest-with-prod *************
+branch 'feature/syncing-hpa-resource-replica-loadtest-with-prod' set up to track 'origin/feature/syncing-hpa-resource-replica-loadtest-with-prod'.
+[feature/syncing-hpa-resource-replica-loadtest-with-prod d935c394] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-hpa-resources-healthcheck-of-loadtest-with-prod *************
+branch 'feature/syncing-hpa-resources-healthcheck-of-loadtest-with-prod' set up to track 'origin/feature/syncing-hpa-resources-healthcheck-of-loadtest-with-prod'.
+[feature/syncing-hpa-resources-healthcheck-of-loadtest-with-prod a4883b03] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-ingress-dev-24thNov *************
+branch 'feature/syncing-ingress-dev-24thNov' set up to track 'origin/feature/syncing-ingress-dev-24thNov'.
+[feature/syncing-ingress-dev-24thNov 984e75bc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-ingress-loadtest-24thNov *************
+branch 'feature/syncing-ingress-loadtest-24thNov' set up to track 'origin/feature/syncing-ingress-loadtest-24thNov'.
+[feature/syncing-ingress-loadtest-24thNov aa0bb418] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-ingress-staging-24thNov *************
+branch 'feature/syncing-ingress-staging-24thNov' set up to track 'origin/feature/syncing-ingress-staging-24thNov'.
+[feature/syncing-ingress-staging-24thNov 4f178ea8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-loadtest-with-prod-configs-beta *************
+branch 'feature/syncing-loadtest-with-prod-configs-beta' set up to track 'origin/feature/syncing-loadtest-with-prod-configs-beta'.
+[feature/syncing-loadtest-with-prod-configs-beta 07eccaaf] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-memory-cpu-replica-hpa-loadtest-with-prod *************
+branch 'feature/syncing-memory-cpu-replica-hpa-loadtest-with-prod' set up to track 'origin/feature/syncing-memory-cpu-replica-hpa-loadtest-with-prod'.
+[feature/syncing-memory-cpu-replica-hpa-loadtest-with-prod 8ba0be41] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-resources-with-usage-15thApril *************
+branch 'feature/syncing-resources-with-usage-15thApril' set up to track 'origin/feature/syncing-resources-with-usage-15thApril'.
+[feature/syncing-resources-with-usage-15thApril 3c6df87a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-solar-pluto-gradle-files *************
+branch 'feature/syncing-solar-pluto-gradle-files' set up to track 'origin/feature/syncing-solar-pluto-gradle-files'.
+[feature/syncing-solar-pluto-gradle-files d2aec50e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-solar-templates-with-dev-infrafiles-22ndOct *************
+branch 'feature/syncing-solar-templates-with-dev-infrafiles-22ndOct' set up to track 'origin/feature/syncing-solar-templates-with-dev-infrafiles-22ndOct'.
+[feature/syncing-solar-templates-with-dev-infrafiles-22ndOct 71d21396] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/syncing-templates-with-prod-infra-file *************
+branch 'feature/syncing-templates-with-prod-infra-file' set up to track 'origin/feature/syncing-templates-with-prod-infra-file'.
+[feature/syncing-templates-with-prod-infra-file c3d600a6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/synicing-hpa-replica-parameters-with-prod-23rdNov *************
+branch 'feature/synicing-hpa-replica-parameters-with-prod-23rdNov' set up to track 'origin/feature/synicing-hpa-replica-parameters-with-prod-23rdNov'.
+[feature/synicing-hpa-replica-parameters-with-prod-23rdNov 4855dcb7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/synicng-hpa-replica-parameters-loadtest-with-prod-26thOct *************
+branch 'feature/synicng-hpa-replica-parameters-loadtest-with-prod-26thOct' set up to track 'origin/feature/synicng-hpa-replica-parameters-loadtest-with-prod-26thOct'.
+[feature/synicng-hpa-replica-parameters-loadtest-with-prod-26thOct fb6b3934] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/te-bitbucket-access *************
+branch 'feature/te-bitbucket-access' set up to track 'origin/feature/te-bitbucket-access'.
+[feature/te-bitbucket-access 08476ca4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/techsupport-db-execution *************
+branch 'feature/techsupport-db-execution' set up to track 'origin/feature/techsupport-db-execution'.
+[feature/techsupport-db-execution 0e13fb8a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/tenant-ssr-blog-dev-staging-setup-16thApril *************
+branch 'feature/tenant-ssr-blog-dev-staging-setup-16thApril' set up to track 'origin/feature/tenant-ssr-blog-dev-staging-setup-16thApril'.
+[feature/tenant-ssr-blog-dev-staging-setup-16thApril 638fad68] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/tenant-ssr-blog-staging-setup-3983-13thMay *************
+branch 'feature/tenant-ssr-blog-staging-setup-3983-13thMay' set up to track 'origin/feature/tenant-ssr-blog-staging-setup-3983-13thMay'.
+[feature/tenant-ssr-blog-staging-setup-3983-13thMay afa80437] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/tf-version-update *************
+branch 'feature/tf-version-update' set up to track 'origin/feature/tf-version-update'.
+[feature/tf-version-update 6ba4dcdb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/uat-increase-cpu-memory *************
+branch 'feature/uat-increase-cpu-memory' set up to track 'origin/feature/uat-increase-cpu-memory'.
+[feature/uat-increase-cpu-memory 25a52914] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/uat-k8s-configs *************
+branch 'feature/uat-k8s-configs' set up to track 'origin/feature/uat-k8s-configs'.
+[feature/uat-k8s-configs 8a3e3d40] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/uat-mysql-psql-secret-update *************
+branch 'feature/uat-mysql-psql-secret-update' set up to track 'origin/feature/uat-mysql-psql-secret-update'.
+[feature/uat-mysql-psql-secret-update ab189b96] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/ug-blog-prod-setup *************
+branch 'feature/ug-blog-prod-setup' set up to track 'origin/feature/ug-blog-prod-setup'.
+[feature/ug-blog-prod-setup fc229939] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/ug-disha *************
+branch 'feature/ug-disha' set up to track 'origin/feature/ug-disha'.
+[feature/ug-disha 94f542ee] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/ug-partner-service-dev-and-staging-setup-3981-13thMay *************
+branch 'feature/ug-partner-service-dev-and-staging-setup-3981-13thMay' set up to track 'origin/feature/ug-partner-service-dev-and-staging-setup-3981-13thMay'.
+[feature/ug-partner-service-dev-and-staging-setup-3981-13thMay 0a324367] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/ug-partner-service-prod-setup-14thJune *************
+branch 'feature/ug-partner-service-prod-setup-14thJune' set up to track 'origin/feature/ug-partner-service-prod-setup-14thJune'.
+[feature/ug-partner-service-prod-setup-14thJune abff2f6e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/ug-search-service-prod-setup-26thSep *************
+branch 'feature/ug-search-service-prod-setup-26thSep' set up to track 'origin/feature/ug-search-service-prod-setup-26thSep'.
+[feature/ug-search-service-prod-setup-26thSep 12e101f9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/ug-search-service-staging-setup-19thSep *************
+branch 'feature/ug-search-service-staging-setup-19thSep' set up to track 'origin/feature/ug-search-service-staging-setup-19thSep'.
+[feature/ug-search-service-staging-setup-19thSep fbaa97e4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/uims-ssr-html-dev-staging-setup *************
+branch 'feature/uims-ssr-html-dev-staging-setup' set up to track 'origin/feature/uims-ssr-html-dev-staging-setup'.
+[feature/uims-ssr-html-dev-staging-setup 0245214c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/uims-ssr-html-nodejs-setup-dev-staging *************
+branch 'feature/uims-ssr-html-nodejs-setup-dev-staging' set up to track 'origin/feature/uims-ssr-html-nodejs-setup-dev-staging'.
+[feature/uims-ssr-html-nodejs-setup-dev-staging 32d72b9e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/uims-ssr-html-prod-setup *************
+branch 'feature/uims-ssr-html-prod-setup' set up to track 'origin/feature/uims-ssr-html-prod-setup'.
+[feature/uims-ssr-html-prod-setup 9cafa5b3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/university-doc-portal-dev-staging-setup-5thJune *************
+branch 'feature/university-doc-portal-dev-staging-setup-5thJune' set up to track 'origin/feature/university-doc-portal-dev-staging-setup-5thJune'.
+[feature/university-doc-portal-dev-staging-setup-5thJune 9815649a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/university-doc-portal-dev-staging-setup-7thJune *************
+branch 'feature/university-doc-portal-dev-staging-setup-7thJune' set up to track 'origin/feature/university-doc-portal-dev-staging-setup-7thJune'.
+[feature/university-doc-portal-dev-staging-setup-7thJune 729953c7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/upGrad-disha-prod-setup *************
+branch 'feature/upGrad-disha-prod-setup' set up to track 'origin/feature/upGrad-disha-prod-setup'.
+[feature/upGrad-disha-prod-setup fc64e306] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/upGrad-disha-staging-and-prod-setup *************
+branch 'feature/upGrad-disha-staging-and-prod-setup' set up to track 'origin/feature/upGrad-disha-staging-and-prod-setup'.
+[feature/upGrad-disha-staging-and-prod-setup 6f9fb10d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/upGrad-tutorial-staging-and-prod-setup *************
+branch 'feature/upGrad-tutorial-staging-and-prod-setup' set up to track 'origin/feature/upGrad-tutorial-staging-and-prod-setup'.
+[feature/upGrad-tutorial-staging-and-prod-setup 84fb2ddf] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/upGrad-website-infinity-prod-setup *************
+branch 'feature/upGrad-website-infinity-prod-setup' set up to track 'origin/feature/upGrad-website-infinity-prod-setup'.
+[feature/upGrad-website-infinity-prod-setup bff6ef32] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-dev-env-health-liveness-delay *************
+branch 'feature/update-dev-env-health-liveness-delay' set up to track 'origin/feature/update-dev-env-health-liveness-delay'.
+[feature/update-dev-env-health-liveness-delay d0ea0eaa] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-dr-secrets *************
+branch 'feature/update-dr-secrets' set up to track 'origin/feature/update-dr-secrets'.
+[feature/update-dr-secrets 4569704b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-gradle-templates *************
+branch 'feature/update-gradle-templates' set up to track 'origin/feature/update-gradle-templates'.
+[feature/update-gradle-templates 286044f6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-health-endpoints-in-promethus.yaml *************
+branch 'feature/update-health-endpoints-in-promethus.yaml' set up to track 'origin/feature/update-health-endpoints-in-promethus.yaml'.
+[feature/update-health-endpoints-in-promethus.yaml a918656d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-k8s-api-version *************
+branch 'feature/update-k8s-api-version' set up to track 'origin/feature/update-k8s-api-version'.
+[feature/update-k8s-api-version 965c3607] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-loadtest-k8s-version *************
+branch 'feature/update-loadtest-k8s-version' set up to track 'origin/feature/update-loadtest-k8s-version'.
+[feature/update-loadtest-k8s-version c6102dbb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-maven-templates *************
+branch 'feature/update-maven-templates' set up to track 'origin/feature/update-maven-templates'.
+[feature/update-maven-templates 6e1fbc63] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-prod-k8s-version *************
+branch 'feature/update-prod-k8s-version' set up to track 'origin/feature/update-prod-k8s-version'.
+[feature/update-prod-k8s-version 93c88a28] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-python-templates *************
+branch 'feature/update-python-templates' set up to track 'origin/feature/update-python-templates'.
+[feature/update-python-templates 2a460a7f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/update-staging-aws-secrets *************
+branch 'feature/update-staging-aws-secrets' set up to track 'origin/feature/update-staging-aws-secrets'.
+[feature/update-staging-aws-secrets 1c0ed181] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-AWS-Access-Keys-23rdAUG *************
+branch 'feature/updating-AWS-Access-Keys-23rdAUG' set up to track 'origin/feature/updating-AWS-Access-Keys-23rdAUG'.
+[feature/updating-AWS-Access-Keys-23rdAUG 47a08dfd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-Database-keys-24thAug *************
+branch 'feature/updating-Database-keys-24thAug' set up to track 'origin/feature/updating-Database-keys-24thAug'.
+[feature/updating-Database-keys-24thAug 324daf33] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-configs-in-solar-pluto-16thSep *************
+branch 'feature/updating-configs-in-solar-pluto-16thSep' set up to track 'origin/feature/updating-configs-in-solar-pluto-16thSep'.
+[feature/updating-configs-in-solar-pluto-16thSep ea1f5fa3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-database-keys-Gradle-24thAug *************
+branch 'feature/updating-database-keys-Gradle-24thAug' set up to track 'origin/feature/updating-database-keys-Gradle-24thAug'.
+[feature/updating-database-keys-Gradle-24thAug 940eab08] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-database-keys-Maven-24thAug *************
+branch 'feature/updating-database-keys-Maven-24thAug' set up to track 'origin/feature/updating-database-keys-Maven-24thAug'.
+[feature/updating-database-keys-Maven-24thAug a8e3ec22] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-database-keys-python-24thAug *************
+branch 'feature/updating-database-keys-python-24thAug' set up to track 'origin/feature/updating-database-keys-python-24thAug'.
+[feature/updating-database-keys-python-24thAug b2572161] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-datasource-url-in-upgraddisha *************
+branch 'feature/updating-datasource-url-in-upgraddisha' set up to track 'origin/feature/updating-datasource-url-in-upgraddisha'.
+[feature/updating-datasource-url-in-upgraddisha 1e2334d5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-health-endpoint-ug-partner-service-15thMay *************
+branch 'feature/updating-health-endpoint-ug-partner-service-15thMay' set up to track 'origin/feature/updating-health-endpoint-ug-partner-service-15thMay'.
+[feature/updating-health-endpoint-ug-partner-service-15thMay 83133b7a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-host-ug-partner-service-16thMay *************
+branch 'feature/updating-host-ug-partner-service-16thMay' set up to track 'origin/feature/updating-host-ug-partner-service-16thMay'.
+[feature/updating-host-ug-partner-service-16thMay 5fdd24a6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-ingress-details-3353 *************
+branch 'feature/updating-ingress-details-3353' set up to track 'origin/feature/updating-ingress-details-3353'.
+[feature/updating-ingress-details-3353 a0bd56d4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-pods-as-mentioned-in-ticket-4123 *************
+branch 'feature/updating-pods-as-mentioned-in-ticket-4123' set up to track 'origin/feature/updating-pods-as-mentioned-in-ticket-4123'.
+[feature/updating-pods-as-mentioned-in-ticket-4123 0de7eae7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-replica-learn-backfilling-scripts *************
+branch 'feature/updating-replica-learn-backfilling-scripts' set up to track 'origin/feature/updating-replica-learn-backfilling-scripts'.
+[feature/updating-replica-learn-backfilling-scripts d9a1475b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-resource-block-2615 *************
+branch 'feature/updating-resource-block-2615' set up to track 'origin/feature/updating-resource-block-2615'.
+[feature/updating-resource-block-2615 72bdfcd4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-resource-block-2673 *************
+branch 'feature/updating-resource-block-2673' set up to track 'origin/feature/updating-resource-block-2673'.
+[feature/updating-resource-block-2673 76e0e641] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-resource-block-content-access-service-loadtest *************
+branch 'feature/updating-resource-block-content-access-service-loadtest' set up to track 'origin/feature/updating-resource-block-content-access-service-loadtest'.
+[feature/updating-resource-block-content-access-service-loadtest b4054e3b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-resource-block-sa-user-service *************
+branch 'feature/updating-resource-block-sa-user-service' set up to track 'origin/feature/updating-resource-block-sa-user-service'.
+[feature/updating-resource-block-sa-user-service d59bda48] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-resource-in-kh-lead-management-service *************
+branch 'feature/updating-resource-in-kh-lead-management-service' set up to track 'origin/feature/updating-resource-in-kh-lead-management-service'.
+[feature/updating-resource-in-kh-lead-management-service a7f37607] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/upgrad-alumni-connect-16thNov *************
+branch 'feature/upgrad-alumni-connect-16thNov' set up to track 'origin/feature/upgrad-alumni-connect-16thNov'.
+[feature/upgrad-alumni-connect-16thNov a0d5b490] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/upgrad-disha-backend-datasource-url-update *************
+branch 'feature/upgrad-disha-backend-datasource-url-update' set up to track 'origin/feature/upgrad-disha-backend-datasource-url-update'.
+[feature/upgrad-disha-backend-datasource-url-update 666c86ba] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/upgraddisha-cms-setup-in-dev *************
+branch 'feature/upgraddisha-cms-setup-in-dev' set up to track 'origin/feature/upgraddisha-cms-setup-in-dev'.
+[feature/upgraddisha-cms-setup-in-dev 5c9807a2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/verifying-prometheus.yaml-files-in-all-accounts *************
+branch 'feature/verifying-prometheus.yaml-files-in-all-accounts' set up to track 'origin/feature/verifying-prometheus.yaml-files-in-all-accounts'.
+[feature/verifying-prometheus.yaml-files-in-all-accounts 35284338] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/verifying-prometheus.yaml-files-in-prod *************
+branch 'feature/verifying-prometheus.yaml-files-in-prod' set up to track 'origin/feature/verifying-prometheus.yaml-files-in-prod'.
+[feature/verifying-prometheus.yaml-files-in-prod 21621b70] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/verifying-prometheus.yaml-files-in-staging *************
+branch 'feature/verifying-prometheus.yaml-files-in-staging' set up to track 'origin/feature/verifying-prometheus.yaml-files-in-staging'.
+[feature/verifying-prometheus.yaml-files-in-staging 66749e12] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/website-infinity-regular-images-setup-24thJune *************
+branch 'feature/website-infinity-regular-images-setup-24thJune' set up to track 'origin/feature/website-infinity-regular-images-setup-24thJune'.
+[feature/website-infinity-regular-images-setup-24thJune 70544e57] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/website-infinity-upgrad-regular-app-prod-setup *************
+branch 'feature/website-infinity-upgrad-regular-app-prod-setup' set up to track 'origin/feature/website-infinity-upgrad-regular-app-prod-setup'.
+[feature/website-infinity-upgrad-regular-app-prod-setup d1a0b399] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/woolf-integration-dev-staging-setup-13thJune *************
+branch 'feature/woolf-integration-dev-staging-setup-13thJune' set up to track 'origin/feature/woolf-integration-dev-staging-setup-13thJune'.
+[feature/woolf-integration-dev-staging-setup-13thJune ae535d99] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/woolf-integration-prod-setup-18thJune *************
+branch 'feature/woolf-integration-prod-setup-18thJune' set up to track 'origin/feature/woolf-integration-prod-setup-18thJune'.
+[feature/woolf-integration-prod-setup-18thJune 2b01c7aa] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: fix/falcopluginsyaml *************
+branch 'fix/falcopluginsyaml' set up to track 'origin/fix/falcopluginsyaml'.
+[fix/falcopluginsyaml f527d543] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: fix/hpa *************
+branch 'fix/hpa' set up to track 'origin/fix/hpa'.
+[fix/hpa 2f141fb5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: fix/hpa-resize *************
+branch 'fix/hpa-resize' set up to track 'origin/fix/hpa-resize'.
+[fix/hpa-resize 73a551f7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: health-check-loadtest *************
+branch 'health-check-loadtest' set up to track 'origin/health-check-loadtest'.
+[health-check-loadtest 79e06c7b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: health-probes *************
+branch 'health-probes' set up to track 'origin/health-probes'.
+[health-probes c8eff9a2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: healthcheck-sa-prod *************
+branch 'healthcheck-sa-prod' set up to track 'origin/healthcheck-sa-prod'.
+[healthcheck-sa-prod 0451b6e8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: heap-fix-revert/course-content *************
+branch 'heap-fix-revert/course-content' set up to track 'origin/heap-fix-revert/course-content'.
+[heap-fix-revert/course-content b11477e8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: heap-fix/course-content *************
+branch 'heap-fix/course-content' set up to track 'origin/heap-fix/course-content'.
+[heap-fix/course-content 53605a2a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: hotfix/increase-lms-ui-pods *************
+branch 'hotfix/increase-lms-ui-pods' set up to track 'origin/hotfix/increase-lms-ui-pods'.
+[hotfix/increase-lms-ui-pods 26f9c379] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: hotfix/java-heap-learner-analytic-rest-service *************
+branch 'hotfix/java-heap-learner-analytic-rest-service' set up to track 'origin/hotfix/java-heap-learner-analytic-rest-service'.
+[hotfix/java-heap-learner-analytic-rest-service 74592d8e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: hotfix/prod-memory-cpu-optimize *************
+branch 'hotfix/prod-memory-cpu-optimize' set up to track 'origin/hotfix/prod-memory-cpu-optimize'.
+[hotfix/prod-memory-cpu-optimize e058b36e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: hotfix/update-health-check *************
+branch 'hotfix/update-health-check' set up to track 'origin/hotfix/update-health-check'.
+[hotfix/update-health-check 50fbc5fc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: infra-env-test *************
+branch 'infra-env-test' set up to track 'origin/infra-env-test'.
+[infra-env-test 1405db9f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: ingress-changes *************
+branch 'ingress-changes' set up to track 'origin/ingress-changes'.
+[ingress-changes 63ed0c5e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: itgc_audit_scripts *************
+branch 'itgc_audit_scripts' set up to track 'origin/itgc_audit_scripts'.
+[itgc_audit_scripts 05f1fd9c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: jira_id *************
+branch 'jira_id' set up to track 'origin/jira_id'.
+[jira_id ba1d6da9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: lambdas *************
+branch 'lambdas' set up to track 'origin/lambdas'.
+[lambdas dc42b0c3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: new-service-setup *************
+branch 'new-service-setup' set up to track 'origin/new-service-setup'.
+[new-service-setup 7968564c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: oms-creds-update *************
+branch 'oms-creds-update' set up to track 'origin/oms-creds-update'.
+[oms-creds-update 6d93c5cb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: patch/bl *************
+branch 'patch/bl' set up to track 'origin/patch/bl'.
+[patch/bl 81eb5c2a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: patch/learningplatformyaml *************
+branch 'patch/learningplatformyaml' set up to track 'origin/patch/learningplatformyaml'.
+[patch/learningplatformyaml 78ac85c5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: patch/loadtest-bl-socket *************
+branch 'patch/loadtest-bl-socket' set up to track 'origin/patch/loadtest-bl-socket'.
+[patch/loadtest-bl-socket 4758941b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: patch/secret-update *************
+branch 'patch/secret-update' set up to track 'origin/patch/secret-update'.
+[patch/secret-update 31a488a1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: patch/uat-loadtest-rds *************
+branch 'patch/uat-loadtest-rds' set up to track 'origin/patch/uat-loadtest-rds'.
+[patch/uat-loadtest-rds baf51a5b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: patch/uat-prometheus-hc *************
+branch 'patch/uat-prometheus-hc' set up to track 'origin/patch/uat-prometheus-hc'.
+[patch/uat-prometheus-hc 70e6a754] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: payment-mgr *************
+branch 'payment-mgr' set up to track 'origin/payment-mgr'.
+[payment-mgr 6f84f9f8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: pipelines *************
+branch 'pipelines' set up to track 'origin/pipelines'.
+[pipelines d4cba011] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: pitch-pro-app *************
+branch 'pitch-pro-app' set up to track 'origin/pitch-pro-app'.
+[pitch-pro-app ce4f0b5c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: pitchpro-service *************
+branch 'pitchpro-service' set up to track 'origin/pitchpro-service'.
+[pitchpro-service e7a30a2d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: pitchpro-ui *************
+branch 'pitchpro-ui' set up to track 'origin/pitchpro-ui'.
+[pitchpro-ui f8338ea5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: pitchpro_db *************
+branch 'pitchpro_db' set up to track 'origin/pitchpro_db'.
+[pitchpro_db da3dbd51] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: pluto *************
+branch 'pluto' set up to track 'origin/pluto'.
+[pluto d4c052cc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: poc-s3 *************
+branch 'poc-s3' set up to track 'origin/poc-s3'.
+[poc-s3 cf53939f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: prod *************
+branch 'prod' set up to track 'origin/prod'.
+[prod 75e3f7f9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: rds-automation *************
+branch 'rds-automation' set up to track 'origin/rds-automation'.
+[rds-automation 450a3341] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: rds-new-changes26 *************
+branch 'rds-new-changes26' set up to track 'origin/rds-new-changes26'.
+[rds-new-changes26 54fe40aa] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: revert-pr-371 *************
+branch 'revert-pr-371' set up to track 'origin/revert-pr-371'.
+[revert-pr-371 90665225] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: revert-pr-656 *************
+branch 'revert-pr-656' set up to track 'origin/revert-pr-656'.
+[revert-pr-656 a9d507f6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: sap-integration-service *************
+branch 'sap-integration-service' set up to track 'origin/sap-integration-service'.
+[sap-integration-service 036ac495] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: script-update *************
+branch 'script-update' set up to track 'origin/script-update'.
+[script-update 7fadc71c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: sharanDipeshSampleOnboarding *************
+branch 'sharanDipeshSampleOnboarding' set up to track 'origin/sharanDipeshSampleOnboarding'.
+[sharanDipeshSampleOnboarding 491c78d8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: solar-env *************
+branch 'solar-env' set up to track 'origin/solar-env'.
+[solar-env ec7eac3c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: stage-1-infra *************
+branch 'stage-1-infra' set up to track 'origin/stage-1-infra'.
+[stage-1-infra 8f6949d2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: syncing-hpa-replica-parameter-loadtest-with-prod-22ndfeb *************
+branch 'syncing-hpa-replica-parameter-loadtest-with-prod-22ndfeb' set up to track 'origin/syncing-hpa-replica-parameter-loadtest-with-prod-22ndfeb'.
+[syncing-hpa-replica-parameter-loadtest-with-prod-22ndfeb 60647d73] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: syncing-hpa-replica-parameters-loadtest-with-prod-20thOct *************
+branch 'syncing-hpa-replica-parameters-loadtest-with-prod-20thOct' set up to track 'origin/syncing-hpa-replica-parameters-loadtest-with-prod-20thOct'.
+[syncing-hpa-replica-parameters-loadtest-with-prod-20thOct da8b48f1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: terraform-dev-rds-snapshot-modification *************
+branch 'terraform-dev-rds-snapshot-modification' set up to track 'origin/terraform-dev-rds-snapshot-modification'.
+[terraform-dev-rds-snapshot-modification 23c9df57] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: test1-infra *************
+branch 'test1-infra' set up to track 'origin/test1-infra'.
+[test1-infra 7783c2fe] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: ug-search-service-dev-setup-27thAug *************
+branch 'ug-search-service-dev-setup-27thAug' set up to track 'origin/ug-search-service-dev-setup-27thAug'.
+[ug-search-service-dev-setup-27thAug d37f8ab4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: update-tf-jenkins-worker-policy *************
+branch 'update-tf-jenkins-worker-policy' set up to track 'origin/update-tf-jenkins-worker-policy'.
+[update-tf-jenkins-worker-policy e6879712] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: update/loadtest_scaling_stop *************
+branch 'update/loadtest_scaling_stop' set up to track 'origin/update/loadtest_scaling_stop'.
+[update/loadtest_scaling_stop bd017618] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: updated-files *************
+branch 'updated-files' set up to track 'origin/updated-files'.
+[updated-files 3b1e9921] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo upgrad_infra_scripts are: feature/syncing-hpa-replica-loadtest-with-prod-28thMayfeature/syncing-hpa-replica-loadtest-with-prod-28thSepfeature/syncing-hpa-replica-loadtest-with-prod-2ndJulyfeature/syncing-hpa-replica-loadtest-with-prod-30thAprilfeature/syncing-hpa-replica-loadtest-with-prod-3rdSepfeature/syncing-hpa-replica-loadtest-with-prod-4thJunefeature/syncing-hpa-replica-loadtest-with-prod-6thAugfeature/syncing-hpa-replica-loadtest-with-prod-7thMarchfeature/syncing-hpa-replica-loadtest-with-prod-7thdecfeature/syncing-hpa-replica-loadtest-with-prod-8thDecfeature/syncing-hpa-replica-loadtest-with-prod-9thAprilfeature/syncing-hpa-replica-loadtest-with-prod-9thJulyfeature/syncing-hpa-replica-of-loadtest-with-prod-8thSepfeature/syncing-hpa-replica-parameter-loadtest-1stSepfeature/syncing-hpa-replica-parameter-loadtest-with-prodfeature/syncing-hpa-replica-parameter-loadtest-with-prod-27thOctfeature/syncing-hpa-replica-parameter-loadtest-with-prod-3rdNovfeature/syncing-hpa-replica-parameters-loadtest-prod-18thJanfeature/syncing-hpa-replica-parameters-loadtest-prod-9thFebfeature/syncing-hpa-replica-parameters-loadtest-with-prodfeature/syncing-hpa-replica-parameters-loadtest-with-prod-10thNovfeature/syncing-hpa-replica-parameters-loadtest-with-prod-13thAprilfeature/syncing-hpa-replica-parameters-loadtest-with-prod-16thFebfeature/syncing-hpa-replica-parameters-loadtest-with-prod-16thMarchfeature/syncing-hpa-replica-parameters-loadtest-with-prod-17thNovfeature/syncing-hpa-replica-parameters-loadtest-with-prod-20thAprilfeature/syncing-hpa-replica-parameters-loadtest-with-prod-22ndDecfeature/syncing-hpa-replica-parameters-loadtest-with-prod-22ndSepfeature/syncing-hpa-replica-parameters-loadtest-with-prod-23rdFebfeature/syncing-hpa-replica-parameters-loadtest-with-prod-24thAugfeature/syncing-hpa-replica-parameters-loadtest-with-prod-27thAprilfeature/syncing-hpa-replica-parameters-loadtest-with-prod-2ndMarchfeature/syncing-hpa-replica-parameters-loadtest-with-prod-30thJanfeature/syncing-hpa-replica-parameters-loadtest-with-prod-30thMarchfeature/syncing-hpa-replica-parameters-loadtest-with-prod-4thMayfeature/syncing-hpa-replica-parameters-loadtest-with-prod-6thAprilfeature/syncing-hpa-replica-parameters-loadtest-with-prod-9thFebfeature/syncing-hpa-replica-parameters-loadtest-with-prod-9thJanfeature/syncing-hpa-replica-parameters-loadtest-with-prod-9thMarchfeature/syncing-hpa-replica-parameters-of-loadtest-with-prod-25thAugfeature/syncing-hpa-resource-replica-loadtest-with-prodfeature/syncing-hpa-resources-healthcheck-of-loadtest-with-prodfeature/syncing-ingress-dev-24thNovfeature/syncing-ingress-loadtest-24thNovfeature/syncing-ingress-staging-24thNovfeature/syncing-loadtest-with-prod-configs-betafeature/syncing-memory-cpu-replica-hpa-loadtest-with-prodfeature/syncing-resources-with-usage-15thAprilfeature/syncing-solar-pluto-gradle-filesfeature/syncing-solar-templates-with-dev-infrafiles-22ndOctfeature/syncing-templates-with-prod-infra-filefeature/synicing-hpa-replica-parameters-with-prod-23rdNovfeature/synicng-hpa-replica-parameters-loadtest-with-prod-26thOctfeature/te-bitbucket-accessfeature/techsupport-db-executionfeature/tenant-ssr-blog-dev-staging-setup-16thAprilfeature/tenant-ssr-blog-staging-setup-3983-13thMayfeature/tf-version-updatefeature/uat-increase-cpu-memoryfeature/uat-k8s-configsfeature/uat-mysql-psql-secret-updatefeature/ug-blog-prod-setupfeature/ug-dishafeature/ug-partner-service-dev-and-staging-setup-3981-13thMayfeature/ug-partner-service-prod-setup-14thJunefeature/ug-search-service-prod-setup-26thSepfeature/ug-search-service-staging-setup-19thSepfeature/uims-ssr-html-dev-staging-setupfeature/uims-ssr-html-nodejs-setup-dev-stagingfeature/uims-ssr-html-prod-setupfeature/university-doc-portal-dev-staging-setup-5thJunefeature/university-doc-portal-dev-staging-setup-7thJunefeature/upGrad-disha-prod-setupfeature/upGrad-disha-staging-and-prod-setupfeature/upGrad-tutorial-staging-and-prod-setupfeature/upGrad-website-infinity-prod-setupfeature/update-dev-env-health-liveness-delayfeature/update-dr-secretsfeature/update-gradle-templatesfeature/update-health-endpoints-in-promethus.yamlfeature/update-k8s-api-versionfeature/update-loadtest-k8s-versionfeature/update-maven-templatesfeature/update-prod-k8s-versionfeature/update-python-templatesfeature/update-staging-aws-secretsfeature/updating-AWS-Access-Keys-23rdAUGfeature/updating-Database-keys-24thAugfeature/updating-configs-in-solar-pluto-16thSepfeature/updating-database-keys-Gradle-24thAugfeature/updating-database-keys-Maven-24thAugfeature/updating-database-keys-python-24thAugfeature/updating-datasource-url-in-upgraddishafeature/updating-health-endpoint-ug-partner-service-15thMayfeature/updating-host-ug-partner-service-16thMayfeature/updating-ingress-details-3353feature/updating-pods-as-mentioned-in-ticket-4123feature/updating-replica-learn-backfilling-scriptsfeature/updating-resource-block-2615feature/updating-resource-block-2673feature/updating-resource-block-content-access-service-loadtestfeature/updating-resource-block-sa-user-servicefeature/updating-resource-in-kh-lead-management-servicefeature/upgrad-alumni-connect-16thNovfeature/upgrad-disha-backend-datasource-url-updatefeature/upgraddisha-cms-setup-in-devfeature/verifying-prometheus.yaml-files-in-all-accountsfeature/verifying-prometheus.yaml-files-in-prodfeature/verifying-prometheus.yaml-files-in-stagingfeature/website-infinity-regular-images-setup-24thJunefeature/website-infinity-upgrad-regular-app-prod-setupfeature/woolf-integration-dev-staging-setup-13thJunefeature/woolf-integration-prod-setup-18thJunefix/falcopluginsyamlfix/hpafix/hpa-resizehealth-check-loadtesthealth-probeshealthcheck-sa-prodheap-fix-revert/course-contentheap-fix/course-contenthotfix/increase-lms-ui-podshotfix/java-heap-learner-analytic-rest-servicehotfix/prod-memory-cpu-optimizehotfix/update-health-checkinfra-env-testingress-changesitgc_audit_scriptsjira_idlambdasnew-service-setupoms-creds-updatepatch/blpatch/learningplatformyamlpatch/loadtest-bl-socketpatch/secret-updatepatch/uat-loadtest-rdspatch/uat-prometheus-hcpayment-mgrpipelinespitch-pro-apppitchpro-servicepitchpro-uipitchpro_dbplutopoc-s3prodrds-automationrds-new-changes26revert-pr-371revert-pr-656sap-integration-servicescript-updatesharanDipeshSampleOnboardingsolar-envstage-1-infrasyncing-hpa-replica-parameter-loadtest-with-prod-22ndfebsyncing-hpa-replica-parameters-loadtest-with-prod-20thOctterraform-dev-rds-snapshot-modificationtest1-infraug-search-service-dev-setup-27thAugupdate-tf-jenkins-worker-policyupdate/loadtest_scaling_stopupdated-files  
+count of branch for repo upgrad_infra_scripts :- 1
+Cleanup completed... for upgrad_infra_scripts
+******************************-----------******************************
+working on repo upgrad-devops-scripts ........ 
+************* Processing for branch: Siddharth-Nandi/do50-1638798231591 *************
+branch 'Siddharth-Nandi/do50-1638798231591' set up to track 'origin/Siddharth-Nandi/do50-1638798231591'.
+[Siddharth-Nandi/do50-1638798231591 c3f9f6b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: Siddharth-Nandi/do50-1641661248428 *************
+branch 'Siddharth-Nandi/do50-1641661248428' set up to track 'origin/Siddharth-Nandi/do50-1641661248428'.
+[Siddharth-Nandi/do50-1641661248428 9eb0ea9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: cf-invalidation-chnages *************
+branch 'cf-invalidation-chnages' set up to track 'origin/cf-invalidation-chnages'.
+[cf-invalidation-chnages 6f25feb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feat/integration-jobs *************
+branch 'feat/integration-jobs' set up to track 'origin/feat/integration-jobs'.
+[feat/integration-jobs f123860] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/Adding-user-in-cfInvalidation-file *************
+branch 'feature/Adding-user-in-cfInvalidation-file' set up to track 'origin/feature/Adding-user-in-cfInvalidation-file'.
+[feature/Adding-user-in-cfInvalidation-file dcc36bf] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/add-cf-for-upgradabroad-vn *************
+branch 'feature/add-cf-for-upgradabroad-vn' set up to track 'origin/feature/add-cf-for-upgradabroad-vn'.
+[feature/add-cf-for-upgradabroad-vn fe1d3f8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-new-url-in-groovy-file *************
+branch 'feature/adding-new-url-in-groovy-file' set up to track 'origin/feature/adding-new-url-in-groovy-file'.
+[feature/adding-new-url-in-groovy-file 9305d91] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-new-user-bhagya.sriupgrad.com *************
+branch 'feature/adding-new-user-bhagya.sriupgrad.com' set up to track 'origin/feature/adding-new-user-bhagya.sriupgrad.com'.
+[feature/adding-new-user-bhagya.sriupgrad.com 1047e50] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/alumni-connect-setup *************
+branch 'feature/alumni-connect-setup' set up to track 'origin/feature/alumni-connect-setup'.
+[feature/alumni-connect-setup ab02846] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/annotation-grafana *************
+branch 'feature/annotation-grafana' set up to track 'origin/feature/annotation-grafana'.
+[feature/annotation-grafana b493cc8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/bl-font-integration-fix *************
+branch 'feature/bl-font-integration-fix' set up to track 'origin/feature/bl-font-integration-fix'.
+[feature/bl-font-integration-fix 08863f2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/deployment-details-mysql-step *************
+branch 'feature/deployment-details-mysql-step' set up to track 'origin/feature/deployment-details-mysql-step'.
+[feature/deployment-details-mysql-step ddfeed4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/disable-cache-clearence-4296 *************
+branch 'feature/disable-cache-clearence-4296' set up to track 'origin/feature/disable-cache-clearence-4296'.
+[feature/disable-cache-clearence-4296 eed38a0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/docker-setup-for-kh3 *************
+branch 'feature/docker-setup-for-kh3' set up to track 'origin/feature/docker-setup-for-kh3'.
+[feature/docker-setup-for-kh3 ffe49af] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/integrate-instana-release-marker *************
+branch 'feature/integrate-instana-release-marker' set up to track 'origin/feature/integrate-instana-release-marker'.
+[feature/integrate-instana-release-marker be2da98] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/payments-wp-v2-build-steps-change *************
+branch 'feature/payments-wp-v2-build-steps-change' set up to track 'origin/feature/payments-wp-v2-build-steps-change'.
+[feature/payments-wp-v2-build-steps-change a2017b8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-Dockerfile-4304 *************
+branch 'feature/updating-Dockerfile-4304' set up to track 'origin/feature/updating-Dockerfile-4304'.
+[feature/updating-Dockerfile-4304 e7a5df6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-new-command-in-Dockerfile-5thAug *************
+branch 'feature/updating-new-command-in-Dockerfile-5thAug' set up to track 'origin/feature/updating-new-command-in-Dockerfile-5thAug'.
+[feature/updating-new-command-in-Dockerfile-5thAug 5424f4a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/user-addition *************
+branch 'feature/user-addition' set up to track 'origin/feature/user-addition'.
+[feature/user-addition 860c9c0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: ggu-cf-invalidation-integration *************
+branch 'ggu-cf-invalidation-integration' set up to track 'origin/ggu-cf-invalidation-integration'.
+[ggu-cf-invalidation-integration 9ea9d35] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: hotfix/cfinvalidationbuild-add-user *************
+branch 'hotfix/cfinvalidationbuild-add-user' set up to track 'origin/hotfix/cfinvalidationbuild-add-user'.
+[hotfix/cfinvalidationbuild-add-user 865a49a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: patch/gradlebuildgroovy *************
+branch 'patch/gradlebuildgroovy' set up to track 'origin/patch/gradlebuildgroovy'.
+[patch/gradlebuildgroovy c10f7cf] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: pitch-pro *************
+branch 'pitch-pro' set up to track 'origin/pitch-pro'.
+[pitch-pro 55b514e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: pitch-pro-app *************
+branch 'pitch-pro-app' set up to track 'origin/pitch-pro-app'.
+[pitch-pro-app 39e4504] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: pitchpro *************
+branch 'pitchpro' set up to track 'origin/pitchpro'.
+[pitchpro 5a7da74] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: pitchpro-ui *************
+branch 'pitchpro-ui' set up to track 'origin/pitchpro-ui'.
+[pitchpro-ui 7fa790f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo upgrad-devops-scripts are: Siddharth-Nandi/do50-1638798231591Siddharth-Nandi/do50-1641661248428cf-invalidation-chnagesfeat/integration-jobsfeature/Adding-user-in-cfInvalidation-filefeature/add-cf-for-upgradabroad-vnfeature/adding-new-url-in-groovy-filefeature/adding-new-user-bhagya.sriupgrad.comfeature/alumni-connect-setupfeature/annotation-grafanafeature/bl-font-integration-fixfeature/deployment-details-mysql-stepfeature/disable-cache-clearence-4296feature/docker-setup-for-kh3feature/integrate-instana-release-markerfeature/payments-wp-v2-build-steps-changefeature/updating-Dockerfile-4304feature/updating-new-command-in-Dockerfile-5thAugfeature/user-additionggu-cf-invalidation-integrationhotfix/cfinvalidationbuild-add-userpatch/gradlebuildgroovypitch-propitch-pro-apppitchpropitchpro-ui  
+count of branch for repo upgrad-devops-scripts :- 1
+Cleanup completed... for upgrad-devops-scripts
+******************************-----------******************************
+working on repo kh-cicd-scripts ........ 
+************* Processing for branch: azure-chnages *************
+branch 'azure-chnages' set up to track 'origin/azure-chnages'.
+[azure-chnages 394511e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: cms-pipeline *************
+branch 'cms-pipeline' set up to track 'origin/cms-pipeline'.
+[cms-pipeline 88be901] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/add-authorization-check *************
+branch 'feature/add-authorization-check' set up to track 'origin/feature/add-authorization-check'.
+[feature/add-authorization-check 10033bb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/add-tag-deployment-process *************
+branch 'feature/add-tag-deployment-process' set up to track 'origin/feature/add-tag-deployment-process'.
+[feature/add-tag-deployment-process df01b74] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-autograder-ai-lc-in-groovy-files-10thOct *************
+branch 'feature/adding-autograder-ai-lc-in-groovy-files-10thOct' set up to track 'origin/feature/adding-autograder-ai-lc-in-groovy-files-10thOct'.
+[feature/adding-autograder-ai-lc-in-groovy-files-10thOct 98c5335] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-distribution-in-cFInvalidation-file-4120 *************
+branch 'feature/adding-distribution-in-cFInvalidation-file-4120' set up to track 'origin/feature/adding-distribution-in-cFInvalidation-file-4120'.
+[feature/adding-distribution-in-cFInvalidation-file-4120 fb5782c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-dockerfile-in-transcribe-service-22ndOct *************
+branch 'feature/adding-dockerfile-in-transcribe-service-22ndOct' set up to track 'origin/feature/adding-dockerfile-in-transcribe-service-22ndOct'.
+[feature/adding-dockerfile-in-transcribe-service-22ndOct 2bac2d3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-member-in-cloudfront-invalidation-11thJuly *************
+branch 'feature/adding-member-in-cloudfront-invalidation-11thJuly' set up to track 'origin/feature/adding-member-in-cloudfront-invalidation-11thJuly'.
+[feature/adding-member-in-cloudfront-invalidation-11thJuly 8aa6517] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-new-Dockerfile-for-ml-services-26thSep *************
+branch 'feature/adding-new-Dockerfile-for-ml-services-26thSep' set up to track 'origin/feature/adding-new-Dockerfile-for-ml-services-26thSep'.
+[feature/adding-new-Dockerfile-for-ml-services-26thSep 913d06d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-new-user-in-cfInvalidation-12thApril *************
+branch 'feature/adding-new-user-in-cfInvalidation-12thApril' set up to track 'origin/feature/adding-new-user-in-cfInvalidation-12thApril'.
+[feature/adding-new-user-in-cfInvalidation-12thApril f8c4dd7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/cf-invalidation-integration *************
+branch 'feature/cf-invalidation-integration' set up to track 'origin/feature/cf-invalidation-integration'.
+[feature/cf-invalidation-integration 5579cef] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/cleanup-and-sync-groovy *************
+branch 'feature/cleanup-and-sync-groovy' set up to track 'origin/feature/cleanup-and-sync-groovy'.
+[feature/cleanup-and-sync-groovy d4bb04c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/cloudfront-invalidation *************
+branch 'feature/cloudfront-invalidation' set up to track 'origin/feature/cloudfront-invalidation'.
+[feature/cloudfront-invalidation 32511fc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/datainsert *************
+branch 'feature/datainsert' set up to track 'origin/feature/datainsert'.
+[feature/datainsert 17b9274] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/lxp-assessments-cf-integration *************
+branch 'feature/lxp-assessments-cf-integration' set up to track 'origin/feature/lxp-assessments-cf-integration'.
+[feature/lxp-assessments-cf-integration 96d0f6f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/merge-code-prod-branch *************
+branch 'feature/merge-code-prod-branch' set up to track 'origin/feature/merge-code-prod-branch'.
+[feature/merge-code-prod-branch f638b4a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: fix *************
+branch 'fix' set up to track 'origin/fix'.
+[fix 0c38799] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: prism-changes *************
+branch 'prism-changes' set up to track 'origin/prism-changes'.
+[prism-changes 894e046] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: prism-config-pipeline-changes *************
+branch 'prism-config-pipeline-changes' set up to track 'origin/prism-config-pipeline-changes'.
+[prism-config-pipeline-changes 112455d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo kh-cicd-scripts are: azure-chnagescms-pipelinefeature/add-authorization-checkfeature/add-tag-deployment-processfeature/adding-autograder-ai-lc-in-groovy-files-10thOctfeature/adding-distribution-in-cFInvalidation-file-4120feature/adding-dockerfile-in-transcribe-service-22ndOctfeature/adding-member-in-cloudfront-invalidation-11thJulyfeature/adding-new-Dockerfile-for-ml-services-26thSepfeature/adding-new-user-in-cfInvalidation-12thAprilfeature/cf-invalidation-integrationfeature/cleanup-and-sync-groovyfeature/cloudfront-invalidationfeature/datainsertfeature/lxp-assessments-cf-integrationfeature/merge-code-prod-branchfixprism-changesprism-config-pipeline-changes  
+count of branch for repo kh-cicd-scripts :- 1
+Cleanup completed... for kh-cicd-scripts
+******************************-----------******************************
+working on repo kh-devops-scripts ........ 
+************* Processing for branch: add-kh-website-instance-prometheus *************
+branch 'add-kh-website-instance-prometheus' set up to track 'origin/add-kh-website-instance-prometheus'.
+[add-kh-website-instance-prometheus 4191169] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-files-in-prometheus.yaml-21stDec *************
+branch 'feature/adding-files-in-prometheus.yaml-21stDec' set up to track 'origin/feature/adding-files-in-prometheus.yaml-21stDec'.
+[feature/adding-files-in-prometheus.yaml-21stDec 43ff411] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-more-files-in-prometheus.yaml-file-dev *************
+branch 'feature/adding-more-files-in-prometheus.yaml-file-dev' set up to track 'origin/feature/adding-more-files-in-prometheus.yaml-file-dev'.
+[feature/adding-more-files-in-prometheus.yaml-file-dev 9711c3d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-new-services-in-prod-prometheus.yaml-27thMarch *************
+branch 'feature/adding-new-services-in-prod-prometheus.yaml-27thMarch' set up to track 'origin/feature/adding-new-services-in-prod-prometheus.yaml-27thMarch'.
+[feature/adding-new-services-in-prod-prometheus.yaml-27thMarch c3a6e27] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-new-services-in-prometheus.yaml-27thMarch *************
+branch 'feature/adding-new-services-in-prometheus.yaml-27thMarch' set up to track 'origin/feature/adding-new-services-in-prometheus.yaml-27thMarch'.
+[feature/adding-new-services-in-prometheus.yaml-27thMarch 25bebe8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-10thJuly *************
+branch 'feature/adding-services-in-prometheus.yaml-file-10thJuly' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-10thJuly'.
+[feature/adding-services-in-prometheus.yaml-file-10thJuly 92914aa] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-10thJune *************
+branch 'feature/adding-services-in-prometheus.yaml-file-10thJune' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-10thJune'.
+[feature/adding-services-in-prometheus.yaml-file-10thJune 788e9f5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-12thAug *************
+branch 'feature/adding-services-in-prometheus.yaml-file-12thAug' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-12thAug'.
+[feature/adding-services-in-prometheus.yaml-file-12thAug b073b3b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-12thSep *************
+branch 'feature/adding-services-in-prometheus.yaml-file-12thSep' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-12thSep'.
+[feature/adding-services-in-prometheus.yaml-file-12thSep 61bed61] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-19thAug *************
+branch 'feature/adding-services-in-prometheus.yaml-file-19thAug' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-19thAug'.
+[feature/adding-services-in-prometheus.yaml-file-19thAug 10b4706] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-22ndJuly *************
+branch 'feature/adding-services-in-prometheus.yaml-file-22ndJuly' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-22ndJuly'.
+[feature/adding-services-in-prometheus.yaml-file-22ndJuly 4654ea9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-23rdSep *************
+branch 'feature/adding-services-in-prometheus.yaml-file-23rdSep' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-23rdSep'.
+[feature/adding-services-in-prometheus.yaml-file-23rdSep f5a85cb] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-28thMay *************
+branch 'feature/adding-services-in-prometheus.yaml-file-28thMay' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-28thMay'.
+[feature/adding-services-in-prometheus.yaml-file-28thMay 7e23288] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-2ndSep *************
+branch 'feature/adding-services-in-prometheus.yaml-file-2ndSep' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-2ndSep'.
+[feature/adding-services-in-prometheus.yaml-file-2ndSep a91edbf] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-5thAug *************
+branch 'feature/adding-services-in-prometheus.yaml-file-5thAug' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-5thAug'.
+[feature/adding-services-in-prometheus.yaml-file-5thAug 09116e5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-KH *************
+branch 'feature/adding-services-in-prometheus.yaml-file-KH' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-KH'.
+[feature/adding-services-in-prometheus.yaml-file-KH e914a09] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-KH-loadtest *************
+branch 'feature/adding-services-in-prometheus.yaml-file-KH-loadtest' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-KH-loadtest'.
+[feature/adding-services-in-prometheus.yaml-file-KH-loadtest 6041c11] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml-file-venus-test *************
+branch 'feature/adding-services-in-prometheus.yaml-file-venus-test' set up to track 'origin/feature/adding-services-in-prometheus.yaml-file-venus-test'.
+[feature/adding-services-in-prometheus.yaml-file-venus-test f25a71e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/adding-services-in-prometheus.yaml.file-22ndApril *************
+branch 'feature/adding-services-in-prometheus.yaml.file-22ndApril' set up to track 'origin/feature/adding-services-in-prometheus.yaml.file-22ndApril'.
+[feature/adding-services-in-prometheus.yaml.file-22ndApril 56955dd] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/git-checkout-feature/adding-services-in-prometheus.yaml-file-8thApril *************
+branch 'feature/git-checkout-feature/adding-services-in-prometheus.yaml-file-8thApril' set up to track 'origin/feature/git-checkout-feature/adding-services-in-prometheus.yaml-file-8thApril'.
+[feature/git-checkout-feature/adding-services-in-prometheus.yaml-file-8thApril 5a93720] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/prometheus-fix *************
+branch 'feature/prometheus-fix' set up to track 'origin/feature/prometheus-fix'.
+[feature/prometheus-fix 7e512e7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/test-prism-upgrad *************
+branch 'feature/test-prism-upgrad' set up to track 'origin/feature/test-prism-upgrad'.
+[feature/test-prism-upgrad ac43b6c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-infra-level-configs-21stfeb *************
+branch 'feature/updating-infra-level-configs-21stfeb' set up to track 'origin/feature/updating-infra-level-configs-21stfeb'.
+[feature/updating-infra-level-configs-21stfeb 6daf596] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/updating-prometheus.yaml-file-dev *************
+branch 'feature/updating-prometheus.yaml-file-dev' set up to track 'origin/feature/updating-prometheus.yaml-file-dev'.
+[feature/updating-prometheus.yaml-file-dev 695cf74] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: lbc/common *************
+branch 'lbc/common' set up to track 'origin/lbc/common'.
+[lbc/common 4386b9e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: prometheus-updates-for-stage-env *************
+branch 'prometheus-updates-for-stage-env' set up to track 'origin/prometheus-updates-for-stage-env'.
+[prometheus-updates-for-stage-env 5aa712c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: prometheus-updates-test-env *************
+branch 'prometheus-updates-test-env' set up to track 'origin/prometheus-updates-test-env'.
+[prometheus-updates-test-env c4aa8a0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: stage-assessment-ingress *************
+branch 'stage-assessment-ingress' set up to track 'origin/stage-assessment-ingress'.
+[stage-assessment-ingress 9d0f177] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: test-environment-files *************
+branch 'test-environment-files' set up to track 'origin/test-environment-files'.
+[test-environment-files d3318c4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo kh-devops-scripts are: add-kh-website-instance-prometheusfeature/adding-files-in-prometheus.yaml-21stDecfeature/adding-more-files-in-prometheus.yaml-file-devfeature/adding-new-services-in-prod-prometheus.yaml-27thMarchfeature/adding-new-services-in-prometheus.yaml-27thMarchfeature/adding-services-in-prometheus.yaml-file-10thJulyfeature/adding-services-in-prometheus.yaml-file-10thJunefeature/adding-services-in-prometheus.yaml-file-12thAugfeature/adding-services-in-prometheus.yaml-file-12thSepfeature/adding-services-in-prometheus.yaml-file-19thAugfeature/adding-services-in-prometheus.yaml-file-22ndJulyfeature/adding-services-in-prometheus.yaml-file-23rdSepfeature/adding-services-in-prometheus.yaml-file-28thMayfeature/adding-services-in-prometheus.yaml-file-2ndSepfeature/adding-services-in-prometheus.yaml-file-5thAugfeature/adding-services-in-prometheus.yaml-file-KHfeature/adding-services-in-prometheus.yaml-file-KH-loadtestfeature/adding-services-in-prometheus.yaml-file-venus-testfeature/adding-services-in-prometheus.yaml.file-22ndAprilfeature/git-checkout-feature/adding-services-in-prometheus.yaml-file-8thAprilfeature/prometheus-fixfeature/test-prism-upgradfeature/updating-infra-level-configs-21stfebfeature/updating-prometheus.yaml-file-devlbc/commonprometheus-updates-for-stage-envprometheus-updates-test-envstage-assessment-ingresstest-environment-files  
+count of branch for repo kh-devops-scripts :- 1
+Cleanup completed... for kh-devops-scripts
+******************************-----------******************************
+working on repo kh-infra-scripts ........ 
+************* Processing for branch: feature/ingress-management-security-group *************
+branch 'feature/ingress-management-security-group' set up to track 'origin/feature/ingress-management-security-group'.
+[feature/ingress-management-security-group 46cfeb1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: remove-stage-prism-prometheus *************
+branch 'remove-stage-prism-prometheus' set up to track 'origin/remove-stage-prism-prometheus'.
+[remove-stage-prism-prometheus 577662e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: tfVersionUpdate *************
+branch 'tfVersionUpdate' set up to track 'origin/tfVersionUpdate'.
+[tfVersionUpdate cebeef2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: tfVersionUpdate-cloudlabs *************
+branch 'tfVersionUpdate-cloudlabs' set up to track 'origin/tfVersionUpdate-cloudlabs'.
+[tfVersionUpdate-cloudlabs 855ea7a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo kh-infra-scripts are: feature/ingress-management-security-groupremove-stage-prism-prometheustfVersionUpdatetfVersionUpdate-cloudlabs  
+count of branch for repo kh-infra-scripts :- 1
+Cleanup completed... for kh-infra-scripts
+******************************-----------******************************
+working on repo jenkins-codebuild ........ 
+Actioned perform on branch for repo jenkins-codebuild are:   
+count of branch for repo jenkins-codebuild :- 0
+Cleanup completed... for jenkins-codebuild
+******************************-----------******************************
+working on repo upgrad-cloudlabs-files ........ 
+************* Processing for branch: AwsClfC01 *************
+branch 'AwsClfC01' set up to track 'origin/AwsClfC01'.
+[AwsClfC01 1c8f55c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: AwsDvaC01 *************
+branch 'AwsDvaC01' set up to track 'origin/AwsDvaC01'.
+[AwsDvaC01 fb951c4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: Mod-19 *************
+branch 'Mod-19' set up to track 'origin/Mod-19'.
+[Mod-19 6719c31] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: SoaC02 *************
+branch 'SoaC02' set up to track 'origin/SoaC02'.
+[SoaC02 6b6c56d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: assingment-az104 *************
+branch 'assingment-az104' set up to track 'origin/assingment-az104'.
+[assingment-az104 822888d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: assingment-az203 *************
+branch 'assingment-az203' set up to track 'origin/assingment-az203'.
+[assingment-az203 710e5f7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: assingment-az204 *************
+branch 'assingment-az204' set up to track 'origin/assingment-az204'.
+[assingment-az204 93b86e4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: aws/clf-c01 *************
+file already exist skip remaining steps....
+************* Processing for branch: awslabs-update *************
+branch 'awslabs-update' set up to track 'origin/awslabs-update'.
+[awslabs-update 0d84090] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: azure-az-104 *************
+branch 'azure-az-104' set up to track 'origin/azure-az-104'.
+[azure-az-104 811df16] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: azure-az-900 *************
+branch 'azure-az-900' set up to track 'origin/azure-az-900'.
+[azure-az-900 c6b24d0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: bastion-update *************
+branch 'bastion-update' set up to track 'origin/bastion-update'.
+[bastion-update f9e186d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: patch-cf-soac02 *************
+branch 'patch-cf-soac02' set up to track 'origin/patch-cf-soac02'.
+[patch-cf-soac02 2255fe7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo upgrad-cloudlabs-files are: AwsClfC01AwsDvaC01Mod-19SoaC02assingment-az104assingment-az203assingment-az204awslabs-updateazure-az-104azure-az-900bastion-updatepatch-cf-soac02  
+count of branch for repo upgrad-cloudlabs-files :- 1
+Cleanup completed... for upgrad-cloudlabs-files
+******************************-----------******************************
+working on repo kh-dc-scripts ........ 
+Actioned perform on branch for repo kh-dc-scripts are:   
+count of branch for repo kh-dc-scripts :- 0
+Cleanup completed... for kh-dc-scripts
+******************************-----------******************************
+working on repo devops-sample-scripts ........ 
+************* Processing for branch: test-merging *************
+branch 'test-merging' set up to track 'origin/test-merging'.
+[test-merging 30bb54b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo devops-sample-scripts are: test-merging  
+count of branch for repo devops-sample-scripts :- 1
+Cleanup completed... for devops-sample-scripts
+******************************-----------******************************
+working on repo te-devops-scripts ........ 
+************* Processing for branch: feature/onboard-new-lms *************
+branch 'feature/onboard-new-lms' set up to track 'origin/feature/onboard-new-lms'.
+[feature/onboard-new-lms 5e58638] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: filebeat-poc *************
+branch 'filebeat-poc' set up to track 'origin/filebeat-poc'.
+[filebeat-poc cd7535e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: grafana-dash-temp *************
+branch 'grafana-dash-temp' set up to track 'origin/grafana-dash-temp'.
+[grafana-dash-temp 8af6ced] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: jnu *************
+branch 'jnu' set up to track 'origin/jnu'.
+[jnu 1c7b4b3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: website-server-secrets *************
+branch 'website-server-secrets' set up to track 'origin/website-server-secrets'.
+[website-server-secrets ec07991] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo te-devops-scripts are: feature/onboard-new-lmsfilebeat-pocgrafana-dash-tempjnuwebsite-server-secrets  
+count of branch for repo te-devops-scripts :- 1
+Cleanup completed... for te-devops-scripts
+******************************-----------******************************
+working on repo te-cicd-scripts ........ 
+************* Processing for branch: feature/user-add *************
+branch 'feature/user-add' set up to track 'origin/feature/user-add'.
+[feature/user-add 5a4176b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/user-addition *************
+branch 'feature/user-addition' set up to track 'origin/feature/user-addition'.
+[feature/user-addition 5ea3005] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: new-node-sonar *************
+branch 'new-node-sonar' set up to track 'origin/new-node-sonar'.
+[new-node-sonar 28209b7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: new-node-sonarqube *************
+branch 'new-node-sonarqube' set up to track 'origin/new-node-sonarqube'.
+[new-node-sonarqube 1c6d19b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: node-sonarqube *************
+branch 'node-sonarqube' set up to track 'origin/node-sonarqube'.
+[node-sonarqube cd91fe6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo te-cicd-scripts are: feature/user-addfeature/user-additionnew-node-sonarnew-node-sonarqubenode-sonarqube  
+count of branch for repo te-cicd-scripts :- 1
+Cleanup completed... for te-cicd-scripts
+******************************-----------******************************
+working on repo te-infra-scripts ........ 
+************* Processing for branch: bugfix/your-degree-secrets *************
+branch 'bugfix/your-degree-secrets' set up to track 'origin/bugfix/your-degree-secrets'.
+[bugfix/your-degree-secrets 30ca8c4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: cf-key-group *************
+branch 'cf-key-group' set up to track 'origin/cf-key-group'.
+[cf-key-group 9183e9d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: cf-updation *************
+branch 'cf-updation' set up to track 'origin/cf-updation'.
+[cf-updation f38ae81] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: ecr-scanner *************
+branch 'ecr-scanner' set up to track 'origin/ecr-scanner'.
+[ecr-scanner 83480c4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/rds-user *************
+branch 'feature/rds-user' set up to track 'origin/feature/rds-user'.
+[feature/rds-user 9e13b5c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/user-permission *************
+branch 'feature/user-permission' set up to track 'origin/feature/user-permission'.
+[feature/user-permission d098677] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: haproxy *************
+branch 'haproxy' set up to track 'origin/haproxy'.
+[haproxy 0248ffc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: jnu-infra *************
+branch 'jnu-infra' set up to track 'origin/jnu-infra'.
+[jnu-infra d30d3aa] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: prod-degrees-referral-secrets *************
+branch 'prod-degrees-referral-secrets' set up to track 'origin/prod-degrees-referral-secrets'.
+[prod-degrees-referral-secrets ae81284] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: read-replica *************
+branch 'read-replica' set up to track 'origin/read-replica'.
+[read-replica cf2ef7a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: secrets-update *************
+branch 'secrets-update' set up to track 'origin/secrets-update'.
+[secrets-update 2811808] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: update-eks-nodes *************
+branch 'update-eks-nodes' set up to track 'origin/update-eks-nodes'.
+[update-eks-nodes ec4cba6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: user-permission *************
+branch 'user-permission' set up to track 'origin/user-permission'.
+[user-permission 467dbd6] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: user-permissions *************
+branch 'user-permissions' set up to track 'origin/user-permissions'.
+[user-permissions b341ea7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo te-infra-scripts are: bugfix/your-degree-secretscf-key-groupcf-updationecr-scannerfeature/rds-userfeature/user-permissionhaproxyjnu-infraprod-degrees-referral-secretsread-replicasecrets-updateupdate-eks-nodesuser-permissionuser-permissions  
+count of branch for repo te-infra-scripts :- 1
+Cleanup completed... for te-infra-scripts
+******************************-----------******************************
+working on repo ug-infra-scripts ........ 
+************* Processing for branch: feature/add-acl-permission-s3 *************
+branch 'feature/add-acl-permission-s3' set up to track 'origin/feature/add-acl-permission-s3'.
+[feature/add-acl-permission-s3 ae1828f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/add-one-career-secrets *************
+branch 'feature/add-one-career-secrets' set up to track 'origin/feature/add-one-career-secrets'.
+[feature/add-one-career-secrets 3be3991] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/add-prism-secrets *************
+branch 'feature/add-prism-secrets' set up to track 'origin/feature/add-prism-secrets'.
+[feature/add-prism-secrets 62d0b7e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/create-loadtest-stage-secrets *************
+branch 'feature/create-loadtest-stage-secrets' set up to track 'origin/feature/create-loadtest-stage-secrets'.
+[feature/create-loadtest-stage-secrets c134f96] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/create-nonprod-secrets *************
+branch 'feature/create-nonprod-secrets' set up to track 'origin/feature/create-nonprod-secrets'.
+[feature/create-nonprod-secrets e30f7dc] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+************* Processing for branch: feature/create-test-env-secrets *************
+branch 'feature/create-test-env-secrets' set up to track 'origin/feature/create-test-env-secrets'.
+[feature/create-test-env-secrets 6597f00] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 53 insertions(+)
+ create mode 100755 bitbucket-pipelines.yml
+Actioned perform on branch for repo ug-infra-scripts are: feature/add-acl-permission-s3feature/add-one-career-secretsfeature/add-prism-secretsfeature/create-loadtest-stage-secretsfeature/create-nonprod-secretsfeature/create-test-env-secrets  
+count of branch for repo ug-infra-scripts :- 1
+Cleanup completed... for ug-infra-scripts
+******************************-----------******************************
+working on repo ug-devops-scripts ........ 
+************* Processing for branch: tag-check *************
+branch 'tag-check' set up to track 'origin/tag-check'.
+file already exist skip remaining steps....
+Actioned perform on branch for repo ug-devops-scripts are:   
+count of branch for repo ug-devops-scripts :- 0
+Cleanup completed... for ug-devops-scripts
+******************************-----------******************************
+working on repo ug-azure-infra-scripts ........ 
+Actioned perform on branch for repo ug-azure-infra-scripts are:   
+count of branch for repo ug-azure-infra-scripts :- 0
+Cleanup completed... for ug-azure-infra-scripts
+Actioned perform on : upgrad_infra_scriptsupgrad-devops-scriptskh-cicd-scriptskh-devops-scriptskh-infra-scriptsjenkins-codebuildupgrad-cloudlabs-fileskh-dc-scriptsdevops-sample-scriptste-devops-scriptste-cicd-scriptste-infra-scriptsug-infra-scriptsug-devops-scriptsug-azure-infra-scripts
+count for repo :- 1

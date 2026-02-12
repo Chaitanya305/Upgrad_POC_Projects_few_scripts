@@ -1,0 +1,25 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('downloading kubeconfig') {
+            steps {
+                echo 'Downloading kubeconfig'
+                sh '''export PATH=$PATH:/var/jenkins_home
+                      pctl kubeconfig download --cluster poc-cluster > /tmp/poc-kubeconfig'''
+            }
+        }
+        stage('Test kubeconfig') {
+            steps {
+                sh '''export PATH=$PATH:/var/jenkins_home
+                      kubectl get pods --kubeconfig /tmp/poc-kubeconfig
+                      kubectl get pods -n kube-system --kubeconfig /tmp/poc-kubeconfig || true'''
+            }
+        }
+        stage('Remove kubeconfig') {
+            steps {
+                sh 'rm /tmp/poc-kubeconfig'   
+            }
+        }
+    }
+}

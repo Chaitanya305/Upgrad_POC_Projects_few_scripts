@@ -1,0 +1,22 @@
+FROM public.ecr.aws/lambda/python:3.9
+
+# Create a working directory
+WORKDIR /opt
+
+# Install PyMySQL into the python directory for Lambda layer structure
+RUN pip install PyMySQL -t python
+
+# Install zip utility
+RUN yum install -y zip
+
+# Zip the layer content
+RUN zip -r9 /opt/pymysql-layer.zip python
+
+# Optional: keep container running if you want to exec in
+CMD ["bash"]
+
+
+create above docker image 
+then copu zip file in local machine
+
+docker cp 964cdb521576:/opt/pymysql-layer.zip .

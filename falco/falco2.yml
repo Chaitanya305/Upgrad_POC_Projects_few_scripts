@@ -1,0 +1,151 @@
+image:
+  pullPolicy: IfNotPresent
+  registry: docker.io
+  repository: falcosecurity/falco
+  tag: ""
+
+tty: true
+
+driver:
+  # -- Set it to false if you want to deploy Falco without the drivers.
+  # Always set it to false when using Falco with plugins.
+  enabled: true
+
+controller:
+  # Available options: deployment, daemonset
+  kind: daemonset
+  daemonset:
+    updateStrategy:
+      type: RollingUpdate
+
+metrics:
+  enabled: false
+
+# falcoctl:
+#   config:
+#     artifact:
+#       install:
+#         refs: [falco-rules:3,falco-incubating-rules:4,falco-sandbox-rules:4]
+#       follow:
+#         refs: [falco-rules:3,falco-incubating-rules:4,falco-sandbox-rules:4]
+
+customRules:
+  rules-traefik.yaml: |-
+ 
+     - rule: Read sensitive file trusted after startup
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Terminal shell in container
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Netcat Remote Code Execution in Container
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Search Private Keys or Passwords
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Clear Log Activities
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Detect release_agent File Container Escapes
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Disallowed SSH Connection Non Standard Port
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Read sensitive file untrusted
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Run shell untrusted
+       enabled: false
+       override:
+         enabled: replace
+     - rule: System user interactive
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Contact K8S API Server From Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Remove Bulk Data from Disk
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Create Symlink Over Sensitive Files
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Create Hardlink Over Sensitive Files
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Packet socket created in container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Redirect STDOUT/STDIN to Network Connection in Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Linux Kernel Module Injection Detected
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Debugfs Launched in Privileged Container
+       enabled: false
+       override:
+         enabled: replace
+#     - rule: Console Login Without MFA
+#       enabled: true
+#     - rule: Console Root Login Without MFA
+#       enabled: true
+#     - rule: Deactivate MFA for Root User
+#       enabled: true
+#     - rule: Create AWS user
+#       enabled: true
+#     - rule: Create Group
+#       enabled: true
+#     - rule: Delete Group
+#       enabled: true
+#     - rule: Create Lambda Function
+#       enabled: true
+#     - rule: Update Lambda Function Code
+#       enabled: true
+#     - rule: Update Lambda Function Configuration
+#       enabled: true
+#     - rule: Delete Bucket Encryption
+#       enabled: true
+#     - rule: Delete Bucket Public Access Block
+#       enabled: true
+#     - rule: List Buckets
+#       enabled: true
+#     - rule: Put Bucket ACL
+#       enabled: true
+#     - rule: Put Bucket Policy
+#       enabled: true
+#     - rule: CloudTrail Trail Created
+#       enabled: true
+#     - rule: CloudTrail Logging Disabled
+#       enabled: true
+
+falco:
+  json_output: true
+  json_include_output_property: true
+  http_output:
+    enabled: true
+    url: "http://falcosidekick:2801/"
+    user_agent: "falcosecurity/falco"
+  rules_files:
+    - /etc/falco/falco_rules.yaml
+    - /etc/falco/falco_rules.local.yaml
+    - /etc/falco/rules.d
+  priority: debug

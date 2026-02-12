@@ -1,0 +1,85 @@
+replicaCount: 1
+
+images:
+  paralus:
+    name: paralus
+    # -- Paralus paralus image
+    repository: paralusio/paralus
+    tag: "v0.2.8"
+  paralusInit:
+    name: paralus-init
+    # -- Paralus paralus initialize image
+    repository: paralusio/paralus-init
+    tag: "v0.2.8"
+  relay:
+    name: relay
+    # -- relay image
+    repository: paralusio/relay
+    tag: "v0.1.8"
+  prompt:
+    name: prompt
+    # -- prompt image
+    repository: paralusio/prompt
+    tag: "v0.1.3"
+  dashboard:
+    name: dashboard
+    # -- Paralus dashboard image
+    repository: paralusio/dashboard
+    tag: "v0.2.3"
+
+services:
+  # -- paralus service config
+  paralus:
+    name: paralus
+    type: ClusterIP
+    ports:
+      - name: http
+        containerPort: 11000
+      - name: rpc
+        containerPort: 10000
+      - name: relay-peering
+        containerPort: 10001
+  # -- prompt service config
+  prompt:
+    type: ClusterIP
+    name: prompt
+    ports:
+      - name: http
+        containerPort: 7009
+  # -- relay service config
+  relay:
+    type: ClusterIP
+    name: relay
+    ports:
+      - name: https
+        containerPort: 443
+  # -- dashboard service config
+  dashboard:
+    type: NodePort
+    name: dashboard
+    ports:
+      - name: nginx
+        containerPort: 80
+
+ingress:
+  enabled: true
+  className: "nginx"
+  annotations: {}
+     kubernetes.io/ingress.class: nginx
+     #kubernetes.io/tls-acme: "true"
+  # -- Ingress TLS for console
+  tls: []
+  #  - secretName: chart-example-tls
+  #    hosts:
+  #      - chart-example.com
+
+deploy:
+  postgresql:
+    enable: true
+  contour:
+    # -- auto install contour ingress controller
+    enable: false
+
+kratos:
+  kratos:
+    development: true

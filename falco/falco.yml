@@ -1,0 +1,453 @@
+image:
+  pullPolicy: IfNotPresent
+  registry: docker.io
+  repository: falcosecurity/falco
+  tag: ""
+
+tty: true
+
+driver:
+  # -- Set it to false if you want to deploy Falco without the drivers.
+  # Always set it to false when using Falco with plugins.
+  enabled: true
+
+controller:
+  # Available options: deployment, daemonset
+  kind: daemonset
+  daemonset:
+    updateStrategy:
+      type: RollingUpdate
+
+metrics:
+  enabled: false
+
+falcoctl:
+  config:
+    artifact:
+      install:
+        refs: [falco-rules:3,falco-incubating-rules:4,falco-sandbox-rules:4]
+      follow:
+        refs: [falco-rules:3,falco-incubating-rules:4,falco-sandbox-rules:4]
+
+customRules:
+  rules-traefik.yaml: |-
+
+     - rule: Polkit Local Privilege Escalation Vulnerability (CVE-2021-4034)
+       enabled: true
+       override:
+        enabled: replace 
+     - rule: Java Process Class File Download
+       enabled: true
+       override:
+        enabled: replace 
+     - rule: Schedule Cron Jobs
+       enabled: true
+       override:
+        enabled: replace 
+     - rule: Read sensitive file trusted after startup
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Modify binary dirs
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Terminal shell in container
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Contact EC2 Instance Metadata Service From Container
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Netcat Remote Code Execution in Container
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Launch Suspicious Network Tool in Container
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Launch Suspicious Network Tool on Host
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Search Private Keys or Passwords
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Clear Log Activities
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Create Hidden Files or Directories
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Detect outbound connections to common miner pool ports
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Detect crypto miners using the Stratum protocol
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Unprivileged Delegation of Page Faults Handling to a Userspace Process
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Detect release_agent File Container Escapes
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Disallowed SSH Connection Non Standard Port
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Unexpected inbound connection source
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Modify Shell Configuration File
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Read Shell Configuration File
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Update Package Repository
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Write below binary dir
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Write below monitored dir
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Read ssh information
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Write below etc
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Write below root
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Read sensitive file untrusted
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Write below rpm database
+       enabled: false
+       override:
+         enabled: replace
+     - rule: DB program spawned process
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Mkdir binary dirs
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Change thread namespace
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Run shell untrusted
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Launch Privileged Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Launch Excessively Capable Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Launch Sensitive Mount Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Launch Disallowed Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: System user interactive
+       enabled: false
+       override:
+         enabled: replace
+     - rule: System procs network activity
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Program run with disallowed http proxy env
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Interpreted procs inbound network activity
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Interpreted procs outbound network activity
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Unexpected UDP Traffic
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Non sudo setuid
+       enabled: false
+       override:
+         enabled: replace
+     - rule: User mgmt binaries
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Create files below dev
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Contact cloud metadata service from container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Contact K8S API Server From Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Unexpected K8s NodePort Connection
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Launch Package Management Process in Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Remove Bulk Data from Disk
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Delete or rename shell history
+       enabled: true
+       override:
+         enabled: replace
+     - rule: Set Setuid or Setgid bit
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Launch Remote File Copy Tools in Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Create Symlink Over Sensitive Files
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Create Hardlink Over Sensitive Files
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Packet socket created in container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Network Connection outside Local Subnet
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Redirect STDOUT/STDIN to Network Connection in Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Container Drift Detected (chmod)
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Container Drift Detected (open+create)
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Linux Kernel Module Injection Detected
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Container Run as Root User
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Sudo Potential Privilege Escalation
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Debugfs Launched in Privileged Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Mount Launched in Privileged Container
+       enabled: false
+       override:
+         enabled: replace
+     - rule: Launch Ingress Remote File Copy Tools in Container
+       enabled: false
+       override:
+         enabled: replace
+#     - rule: Console Login Without MFA
+#       enabled: true
+#     - rule: Console Root Login Without MFA
+#       enabled: true
+#     - rule: Deactivate MFA for Root User
+#       enabled: true
+#     - rule: Create AWS user
+#       enabled: true
+#     - rule: Create Group
+#       enabled: true
+#     - rule: Delete Group
+#       enabled: true
+#     - rule: Create Lambda Function
+#       enabled: true
+#     - rule: Update Lambda Function Code
+#       enabled: true
+#     - rule: Update Lambda Function Configuration
+#       enabled: true
+#     - rule: Delete Bucket Encryption
+#       enabled: true
+#     - rule: Delete Bucket Public Access Block
+#       enabled: true
+#     - rule: List Buckets
+#       enabled: true
+#     - rule: Put Bucket ACL
+#       enabled: true
+#     - rule: Put Bucket Policy
+#       enabled: true
+#     - rule: CloudTrail Trail Created
+#       enabled: true
+#     - rule: CloudTrail Logging Disabled
+#       enabled: true
+
+falco:
+  json_output: true
+  json_include_output_property: true
+  http_output:
+    enabled: true
+    url: "http://falcosidekick:2801/"
+    user_agent: "falcosecurity/falco"
+  rules_files:
+    - /etc/falco/k8s_audit_rules.yaml
+    - /etc/falco/falco-incubating_rules.yaml
+    - /etc/falco/falco-sandbox_rules.yaml
+    - /etc/falco/falco_rules.yaml
+    - /etc/falco/falco_rules.local.yaml
+    - /etc/falco/rules.d
+  priority: debug
+
+# falcosidekick:
+#   # -- Enable falcosidekick deployment.
+#   enabled: true
+#   replicaCount: 2
+#   image:
+#   registry: docker.io
+#   repository: falcosecurity/falcosidekick
+#   tag: 2.30.0
+#   pullPolicy: IfNotPresent
+#   webui:
+#     # -- enable Falcosidekick-UI
+#     enabled: true
+#     replicaCount: 1
+#     # -- User in format <login>:<password>
+#     user: "admin:admin"
+#     image:
+#       registry: docker.io
+#       repository: falcosecurity/falcosidekick-ui
+#       tag: "2.2.0"
+#       pullPolicy: IfNotPresent
+#     service:
+#       type: NodePort
+#       port: 2802
+#       nodePort: 30282
+#       targetPort: 2802
+#       annotations: {}
+#     ingress:
+#       enabled: false
+#       ingressClassName: alb
+#       annotations:
+#         alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80}, {"HTTPS":443}]'
+#         alb.ingress.kubernetes.io/actions.ssl-redirect: '{"Type": "redirect", "RedirectConfig": { "Protocol": "HTTPS", "Port": "443", "StatusCode": "HTTP_301"}}'
+#         alb.ingress.kubernetes.io/group.order: "200"
+#         alb.ingress.kubernetes.io/group.name: ingress-alb-prod-management
+#       hosts:
+#         - host: falcosidekick-ui.talentedge.dev
+#           paths:
+#           - path: /*
+#       #tls: []
+#     externalRedis:
+#       # -- Enable or disable the usage of an external Redis. Is mutually exclusive with webui.redis.enabled.
+#       enabled: false
+#       # -- The URL of the external Redis database with RediSearch > v2
+#       url: ""
+#       # -- Set the password of the external Redis
+#       password: ""
+#       # --  The port of the external Redis database with RediSearch > v2
+#       port: 6379
+#     redis:
+#       enabled: true
+#       image:
+#         registry: docker.io
+#         repository: redis/redis-stack
+#         tag: "7.2.0-v11"
+#         pullPolicy: IfNotPresent
+#       customConfig: {}
+#       # - maxmemory-policy allkeys-lfu
+#       # - maxmemory 4096mb
+#       # -- Set a password for Redis
+#       password: ""
+#       # -- Enable the PVC for the redis pod
+#       storageEnabled: true
+#       # -- Size of the PVC for the redis pod
+#       storageSize: "1Gi"
+#       # -- Storage class of the PVC for the redis pod
+#       storageClass: "local-path"
+#       service:
+#         type: ClusterIP
+#         port: 6379
+#         targetPort: 6379
+#         # -- The web UI Redis service annotations (use this to set a internal LB, for example.)
+#         annotations: {}
+
+#   config:
+#     extraEnv:
+#       - name: SMTP_USER
+#         valueFrom:
+#           secretKeyRef:
+#             name: smtp-secret
+#             key: smtp-user
+#       - name: SMTP_PASSWORD
+#         valueFrom:
+#           secretKeyRef:
+#             name: smtp-secret
+#             key: smtp-password
+#     debug: true
+#     smtp:
+#       hostport: "email-smtp.ap-south-1.amazonaws.com:587"
+#       # -- use TLS connection (true/false)
+#       tls: true
+#       # -- SASL Mechanisms : plain, oauthbearer, external, anonymous or "" (disable SASL)
+#       authmechanism: "plain"
+#       user: "${SMTP_USER}"
+#       password: "${SMTP_PASSWORD}"
+#       token: ""
+#       identity: ""
+#       trace: ""
+#       # -- Sender address (mandatory if SMTP output is *enabled*)
+#       from: "devops@upgrad.com"
+#       to: "chaitanya.golhar@upgrad.com"
+#       outputformat: "html"
+#       minimumpriority: "error"

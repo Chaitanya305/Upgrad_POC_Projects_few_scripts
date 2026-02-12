@@ -1,0 +1,13 @@
+podSelector: Each NetworkPolicy includes a podSelector which selects the grouping of pods to which the policy applies. The example policy selects pods with the label "role=db". An empty podSelector selects all pods in the namespace.
+
+NP and pod to which we are attaching policy need to be in same namespace
+
+- podSelector: if it is used alone means for the pod in namespace where np is created.
+only port used or ip block is used it means for pod in same ns as np is created  for those pods it is consider
+i.e pod aloowed from ns as np with this ip or port only.
+
+-
+namespaceSelector and podSelector together is same entry ( AND Gate ) it mens pod in mentioned ns with label.
+
+
+

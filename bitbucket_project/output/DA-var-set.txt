@@ -1,0 +1,5 @@
+all repos are: course-price-scrapper
+******************************-----------******************************
+working on repo course-price-scrapper ........ 
+{"type": "pipeline_variable", "uuid": "{d00d6fc2-d27b-44c6-8c5f-fd33d88d1f37}", "key": "SES_SMTP_USERNAME", "secured": true, "system": false, "scope": "REPOSITORY"}{"type": "pipeline_variable", "uuid": "{d8ad515f-f155-4d35-9a96-6b5e99f1c816}", "key": "SES_SMTP_PASSWORD", "secured": true, "system": false, "scope": "REPOSITORY"}{"repository": {"type": "repository", "full_name": "upgrad_dev/course-price-scrapper", "links": {"self": {"href": "https://api.bitbucket.org/2.0/repositories/upgrad_dev/course-price-scrapper"}, "html": {"href": "https://bitbucket.org/upgrad_dev/course-price-scrapper"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7Bb78697a3-fcd2-4cc7-a88c-6066125b5e25%7D?ts=default"}}, "name": "course-price-scrapper", "uuid": "{b78697a3-fcd2-4cc7-a88c-6066125b5e25}"}, "enabled": true, "type": "repository_pipelines_configuration"}Actioned perform on: course-price-scrapper
+count :- 1

@@ -1,0 +1,859 @@
+all repos are: te-app-scripts kuk-campus-portal niuonline_website atlas-university-website aspire-be bdu-campus-portal aspire-frontend
+******************************-----------******************************
+working on repo te-app-scripts ........ 
+************* Processing for branch: ai_poc *************
+branch 'ai_poc' set up to track 'origin/ai_poc'.
+file already exist skip remaining steps....
+************* Processing for branch: chd-pedagogy *************
+branch 'chd-pedagogy' set up to track 'origin/chd-pedagogy'.
+file already exist skip remaining steps....
+************* Processing for branch: common-dev-setup *************
+branch 'common-dev-setup' set up to track 'origin/common-dev-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+file already exist skip remaining steps....
+************* Processing for branch: erp-endpoint-url-fix *************
+branch 'erp-endpoint-url-fix' set up to track 'origin/erp-endpoint-url-fix'.
+file already exist skip remaining steps....
+************* Processing for branch: faeture/rr/referral-commomn-dev *************
+branch 'faeture/rr/referral-commomn-dev' set up to track 'origin/faeture/rr/referral-commomn-dev'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.MG/replicaFix *************
+branch 'feature.MG/replicaFix' set up to track 'origin/feature.MG/replicaFix'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.am/config-change *************
+branch 'feature.am/config-change' set up to track 'origin/feature.am/config-change'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/andhra-config-update *************
+branch 'feature.ar/andhra-config-update' set up to track 'origin/feature.ar/andhra-config-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/andhra-elibrary-update *************
+branch 'feature.ar/andhra-elibrary-update' set up to track 'origin/feature.ar/andhra-elibrary-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/atlas-config *************
+branch 'feature.ar/atlas-config' set up to track 'origin/feature.ar/atlas-config'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/bdu-config-update *************
+branch 'feature.ar/bdu-config-update' set up to track 'origin/feature.ar/bdu-config-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/chandigarh-email *************
+branch 'feature.ar/chandigarh-email' set up to track 'origin/feature.ar/chandigarh-email'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/chandigarh-mobile-app *************
+branch 'feature.ar/chandigarh-mobile-app' set up to track 'origin/feature.ar/chandigarh-mobile-app'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/common-dev-update *************
+branch 'feature.ar/common-dev-update' set up to track 'origin/feature.ar/common-dev-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/config-bdu *************
+branch 'feature.ar/config-bdu' set up to track 'origin/feature.ar/config-bdu'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/config-change-kh *************
+branch 'feature.ar/config-change-kh' set up to track 'origin/feature.ar/config-change-kh'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/dev-config-changes *************
+branch 'feature.ar/dev-config-changes' set up to track 'origin/feature.ar/dev-config-changes'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/jain-config-backend *************
+branch 'feature.ar/jain-config-backend' set up to track 'origin/feature.ar/jain-config-backend'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/prod-config-changes *************
+branch 'feature.ar/prod-config-changes' set up to track 'origin/feature.ar/prod-config-changes'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/venus-andhra *************
+branch 'feature.ar/venus-andhra' set up to track 'origin/feature.ar/venus-andhra'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/venus-andhra-config *************
+branch 'feature.ar/venus-andhra-config' set up to track 'origin/feature.ar/venus-andhra-config'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/venus-config-change *************
+branch 'feature.ar/venus-config-change' set up to track 'origin/feature.ar/venus-config-change'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/venus-config-changes *************
+branch 'feature.ar/venus-config-changes' set up to track 'origin/feature.ar/venus-config-changes'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/venus-config-kuk *************
+branch 'feature.ar/venus-config-kuk' set up to track 'origin/feature.ar/venus-config-kuk'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/venus-config-notifications *************
+branch 'feature.ar/venus-config-notifications' set up to track 'origin/feature.ar/venus-config-notifications'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/venus-config-update *************
+branch 'feature.ar/venus-config-update' set up to track 'origin/feature.ar/venus-config-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/venus-config-vgu *************
+branch 'feature.ar/venus-config-vgu' set up to track 'origin/feature.ar/venus-config-vgu'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/venus-dyp-config *************
+branch 'feature.ar/venus-dyp-config' set up to track 'origin/feature.ar/venus-dyp-config'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ar/venus-mobile-config *************
+branch 'feature.ar/venus-mobile-config' set up to track 'origin/feature.ar/venus-mobile-config'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/andhra *************
+branch 'feature.hj/andhra' set up to track 'origin/feature.hj/andhra'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/andhra-repeat-collection *************
+branch 'feature.hj/andhra-repeat-collection' set up to track 'origin/feature.hj/andhra-repeat-collection'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/atlas-config *************
+branch 'feature.hj/atlas-config' set up to track 'origin/feature.hj/atlas-config'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/atlas-webapp-env *************
+branch 'feature.hj/atlas-webapp-env' set up to track 'origin/feature.hj/atlas-webapp-env'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/bdu-analytics-key *************
+branch 'feature.hj/bdu-analytics-key' set up to track 'origin/feature.hj/bdu-analytics-key'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/bdu-config *************
+branch 'feature.hj/bdu-config' set up to track 'origin/feature.hj/bdu-config'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/centurion-config *************
+branch 'feature.hj/centurion-config' set up to track 'origin/feature.hj/centurion-config'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/chandigarh *************
+branch 'feature.hj/chandigarh' set up to track 'origin/feature.hj/chandigarh'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/config-update *************
+branch 'feature.hj/config-update' set up to track 'origin/feature.hj/config-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/dy *************
+branch 'feature.hj/dy' set up to track 'origin/feature.hj/dy'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/kiit *************
+branch 'feature.hj/kiit' set up to track 'origin/feature.hj/kiit'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/kuk *************
+branch 'feature.hj/kuk' set up to track 'origin/feature.hj/kuk'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/learner-progress-common *************
+branch 'feature.hj/learner-progress-common' set up to track 'origin/feature.hj/learner-progress-common'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/lms-config-update *************
+branch 'feature.hj/lms-config-update' set up to track 'origin/feature.hj/lms-config-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/lms-updates *************
+branch 'feature.hj/lms-updates' set up to track 'origin/feature.hj/lms-updates'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/mgr-config *************
+branch 'feature.hj/mgr-config' set up to track 'origin/feature.hj/mgr-config'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/mgr-config-update *************
+branch 'feature.hj/mgr-config-update' set up to track 'origin/feature.hj/mgr-config-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/niu *************
+branch 'feature.hj/niu' set up to track 'origin/feature.hj/niu'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/niu-login-variation *************
+branch 'feature.hj/niu-login-variation' set up to track 'origin/feature.hj/niu-login-variation'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/pedagogy-fe-common *************
+branch 'feature.hj/pedagogy-fe-common' set up to track 'origin/feature.hj/pedagogy-fe-common'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/referral-updates *************
+branch 'feature.hj/referral-updates' set up to track 'origin/feature.hj/referral-updates'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/university-configs *************
+branch 'feature.hj/university-configs' set up to track 'origin/feature.hj/university-configs'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/update-sis-url *************
+branch 'feature.hj/update-sis-url' set up to track 'origin/feature.hj/update-sis-url'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.hj/vgu *************
+branch 'feature.hj/vgu' set up to track 'origin/feature.hj/vgu'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.jk/referral *************
+branch 'feature.jk/referral' set up to track 'origin/feature.jk/referral'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.jk/referral-origin-header *************
+branch 'feature.jk/referral-origin-header' set up to track 'origin/feature.jk/referral-origin-header'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.jk/temp-dyp-erp-body *************
+branch 'feature.jk/temp-dyp-erp-body' set up to track 'origin/feature.jk/temp-dyp-erp-body'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.pa/common-dev-pedagogy *************
+branch 'feature.pa/common-dev-pedagogy' set up to track 'origin/feature.pa/common-dev-pedagogy'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.pa/institute-wise-subject *************
+branch 'feature.pa/institute-wise-subject' set up to track 'origin/feature.pa/institute-wise-subject'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.pa/kafka-configs *************
+branch 'feature.pa/kafka-configs' set up to track 'origin/feature.pa/kafka-configs'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.pb/kuk-config-change *************
+branch 'feature.pb/kuk-config-change' set up to track 'origin/feature.pb/kuk-config-change'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.pm/add-repeat-collection-service-base-url *************
+branch 'feature.pm/add-repeat-collection-service-base-url' set up to track 'origin/feature.pm/add-repeat-collection-service-base-url'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.pm/repeat-collection-service-base-url-changes *************
+branch 'feature.pm/repeat-collection-service-base-url-changes' set up to track 'origin/feature.pm/repeat-collection-service-base-url-changes'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sd/drillbit-secrets *************
+branch 'feature.sd/drillbit-secrets' set up to track 'origin/feature.sd/drillbit-secrets'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/Coursefee-config *************
+branch 'feature.sg/Coursefee-config' set up to track 'origin/feature.sg/Coursefee-config'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-atom-test-url *************
+branch 'feature.sg/add-atom-test-url' set up to track 'origin/feature.sg/add-atom-test-url'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-cdn-config *************
+branch 'feature.sg/add-cdn-config' set up to track 'origin/feature.sg/add-cdn-config'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-cdn-configs *************
+branch 'feature.sg/add-cdn-configs' set up to track 'origin/feature.sg/add-cdn-configs'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-cloudFront-configuration *************
+branch 'feature.sg/add-cloudFront-configuration' set up to track 'origin/feature.sg/add-cloudFront-configuration'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-cloudFront-credential *************
+branch 'feature.sg/add-cloudFront-credential' set up to track 'origin/feature.sg/add-cloudFront-credential'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-cloudfront-cu *************
+branch 'feature.sg/add-cloudfront-cu' set up to track 'origin/feature.sg/add-cloudfront-cu'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-common-dev-missinng-key *************
+branch 'feature.sg/add-common-dev-missinng-key' set up to track 'origin/feature.sg/add-common-dev-missinng-key'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-coursefee-fe-script *************
+branch 'feature.sg/add-coursefee-fe-script' set up to track 'origin/feature.sg/add-coursefee-fe-script'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-kuber-base-url *************
+branch 'feature.sg/add-kuber-base-url' set up to track 'origin/feature.sg/add-kuber-base-url'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-my-account-base-url *************
+branch 'feature.sg/add-my-account-base-url' set up to track 'origin/feature.sg/add-my-account-base-url'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-pedagogy-base-url-prod *************
+branch 'feature.sg/add-pedagogy-base-url-prod' set up to track 'origin/feature.sg/add-pedagogy-base-url-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-pedagogy-base-url-progress *************
+branch 'feature.sg/add-pedagogy-base-url-progress' set up to track 'origin/feature.sg/add-pedagogy-base-url-progress'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-vgu-cf *************
+branch 'feature.sg/add-vgu-cf' set up to track 'origin/feature.sg/add-vgu-cf'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/add-yaml-keys *************
+branch 'feature.sg/add-yaml-keys' set up to track 'origin/feature.sg/add-yaml-keys'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/cloudfront-andhra *************
+branch 'feature.sg/cloudfront-andhra' set up to track 'origin/feature.sg/cloudfront-andhra'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/common-dev-andhra-to-dy *************
+branch 'feature.sg/common-dev-andhra-to-dy' set up to track 'origin/feature.sg/common-dev-andhra-to-dy'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/common-dev-db-change *************
+branch 'feature.sg/common-dev-db-change' set up to track 'origin/feature.sg/common-dev-db-change'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/fix-dev-progress-pedagogy-url *************
+branch 'feature.sg/fix-dev-progress-pedagogy-url' set up to track 'origin/feature.sg/fix-dev-progress-pedagogy-url'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/jnu-scorm-path-change *************
+branch 'feature.sg/jnu-scorm-path-change' set up to track 'origin/feature.sg/jnu-scorm-path-change'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/keys-kuber *************
+branch 'feature.sg/keys-kuber' set up to track 'origin/feature.sg/keys-kuber'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/kuber-script-fix *************
+branch 'feature.sg/kuber-script-fix' set up to track 'origin/feature.sg/kuber-script-fix'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/prod-kuber-keys *************
+branch 'feature.sg/prod-kuber-keys' set up to track 'origin/feature.sg/prod-kuber-keys'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/requery-url-atom *************
+branch 'feature.sg/requery-url-atom' set up to track 'origin/feature.sg/requery-url-atom'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/return-url-config *************
+branch 'feature.sg/return-url-config' set up to track 'origin/feature.sg/return-url-config'.
+[feature.sg/return-url-config 45ca597] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature.sg/venus-bucket-to-dev *************
+branch 'feature.sg/venus-bucket-to-dev' set up to track 'origin/feature.sg/venus-bucket-to-dev'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg/venus-script-fix *************
+branch 'feature.sg/venus-script-fix' set up to track 'origin/feature.sg/venus-script-fix'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/chandi-db-common *************
+branch 'feature.sg2/chandi-db-common' set up to track 'origin/feature.sg2/chandi-db-common'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/commmon-vgu *************
+branch 'feature.sg2/commmon-vgu' set up to track 'origin/feature.sg2/commmon-vgu'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/common-plg *************
+branch 'feature.sg2/common-plg' set up to track 'origin/feature.sg2/common-plg'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/cu-backend *************
+branch 'feature.sg2/cu-backend' set up to track 'origin/feature.sg2/cu-backend'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/cu-support *************
+branch 'feature.sg2/cu-support' set up to track 'origin/feature.sg2/cu-support'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/cu-venus *************
+branch 'feature.sg2/cu-venus' set up to track 'origin/feature.sg2/cu-venus'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/dypatil-deploy *************
+branch 'feature.sg2/dypatil-deploy' set up to track 'origin/feature.sg2/dypatil-deploy'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/plg-venus *************
+branch 'feature.sg2/plg-venus' set up to track 'origin/feature.sg2/plg-venus'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/rest-uni-configupdate *************
+branch 'feature.sg2/rest-uni-configupdate' set up to track 'origin/feature.sg2/rest-uni-configupdate'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/secondBucket-config-update *************
+branch 'feature.sg2/secondBucket-config-update' set up to track 'origin/feature.sg2/secondBucket-config-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/spring-profile *************
+branch 'feature.sg2/spring-profile' set up to track 'origin/feature.sg2/spring-profile'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/updated-yml *************
+branch 'feature.sg2/updated-yml' set up to track 'origin/feature.sg2/updated-yml'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/venus-dy *************
+branch 'feature.sg2/venus-dy' set up to track 'origin/feature.sg2/venus-dy'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.sg2/yml *************
+branch 'feature.sg2/yml' set up to track 'origin/feature.sg2/yml'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ss/base-url *************
+branch 'feature.ss/base-url' set up to track 'origin/feature.ss/base-url'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ss/config-change *************
+branch 'feature.ss/config-change' set up to track 'origin/feature.ss/config-change'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ss/config-changes-degree-referral *************
+branch 'feature.ss/config-changes-degree-referral' set up to track 'origin/feature.ss/config-changes-degree-referral'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.ss/myaccount-configure *************
+branch 'feature.ss/myaccount-configure' set up to track 'origin/feature.ss/myaccount-configure'.
+file already exist skip remaining steps....
+************* Processing for branch: feature.st/centurion *************
+branch 'feature.st/centurion' set up to track 'origin/feature.st/centurion'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/DEG-2749 *************
+branch 'feature/DEG-2749' set up to track 'origin/feature/DEG-2749'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/adding-RDS-configs-in-degrees-kuber-8thOct *************
+branch 'feature/adding-RDS-configs-in-degrees-kuber-8thOct' set up to track 'origin/feature/adding-RDS-configs-in-degrees-kuber-8thOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/atlas *************
+branch 'feature/atlas' set up to track 'origin/feature/atlas'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/atlasConfig *************
+branch 'feature/atlasConfig' set up to track 'origin/feature/atlasConfig'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/degrees-kuber-apps-configs *************
+branch 'feature/degrees-kuber-apps-configs' set up to track 'origin/feature/degrees-kuber-apps-configs'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/degrees-referral-update *************
+branch 'feature/degrees-referral-update' set up to track 'origin/feature/degrees-referral-update'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/degrees-repeat-collections-dev-setup-3rdOct *************
+branch 'feature/degrees-repeat-collections-dev-setup-3rdOct' set up to track 'origin/feature/degrees-repeat-collections-dev-setup-3rdOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/degrees-repeat-collections-prod *************
+branch 'feature/degrees-repeat-collections-prod' set up to track 'origin/feature/degrees-repeat-collections-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/kuk-non-prod-setup *************
+branch 'feature/kuk-non-prod-setup' set up to track 'origin/feature/kuk-non-prod-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/new-env-setup *************
+branch 'feature/new-env-setup' set up to track 'origin/feature/new-env-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/onboard-new-lms *************
+branch 'feature/onboard-new-lms' set up to track 'origin/feature/onboard-new-lms'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/pedadgogy-notification-prod-setup *************
+branch 'feature/pedadgogy-notification-prod-setup' set up to track 'origin/feature/pedadgogy-notification-prod-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/repeat-collections-dev-healthcheck *************
+branch 'feature/repeat-collections-dev-healthcheck' set up to track 'origin/feature/repeat-collections-dev-healthcheck'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/updating-secrets-degrees-repeat-collection-16thOct *************
+branch 'feature/updating-secrets-degrees-repeat-collection-16thOct' set up to track 'origin/feature/updating-secrets-degrees-repeat-collection-16thOct'.
+file already exist skip remaining steps....
+************* Processing for branch: feature/venus-configs-setup *************
+branch 'feature/venus-configs-setup' set up to track 'origin/feature/venus-configs-setup'.
+file already exist skip remaining steps....
+************* Processing for branch: fetaure.hj/kuk-config *************
+branch 'fetaure.hj/kuk-config' set up to track 'origin/fetaure.hj/kuk-config'.
+file already exist skip remaining steps....
+************* Processing for branch: fix/bdu *************
+branch 'fix/bdu' set up to track 'origin/fix/bdu'.
+file already exist skip remaining steps....
+************* Processing for branch: jnu *************
+branch 'jnu' set up to track 'origin/jnu'.
+file already exist skip remaining steps....
+************* Processing for branch: pedagogy-memory *************
+branch 'pedagogy-memory' set up to track 'origin/pedagogy-memory'.
+file already exist skip remaining steps....
+************* Processing for branch: release.ar/config-dyp *************
+branch 'release.ar/config-dyp' set up to track 'origin/release.ar/config-dyp'.
+file already exist skip remaining steps....
+************* Processing for branch: replicas-panel *************
+branch 'replicas-panel' set up to track 'origin/replicas-panel'.
+file already exist skip remaining steps....
+************* Processing for branch: secret-update *************
+branch 'secret-update' set up to track 'origin/secret-update'.
+file already exist skip remaining steps....
+************* Processing for branch: tr/DEG-2744 *************
+branch 'tr/DEG-2744' set up to track 'origin/tr/DEG-2744'.
+file already exist skip remaining steps....
+Actioned perform on branch for repo te-app-scripts are: feature.sg/return-url-config  
+Cleanup completed... for te-app-scripts
+******************************-----------******************************
+working on repo kuk-campus-portal ........ 
+************* Processing for branch: BugFix-Feature/DEG-2749 *************
+branch 'BugFix-Feature/DEG-2749' set up to track 'origin/BugFix-Feature/DEG-2749'.
+[BugFix-Feature/DEG-2749 601a9e1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: DEG-2209-kuk-develop-UI *************
+branch 'DEG-2209-kuk-develop-UI' set up to track 'origin/DEG-2209-kuk-develop-UI'.
+file already exist skip remaining steps....
+************* Processing for branch: DEG-2297-kuk-cms-architecture-development-design *************
+branch 'DEG-2297-kuk-cms-architecture-development-design' set up to track 'origin/DEG-2297-kuk-cms-architecture-development-design'.
+file already exist skip remaining steps....
+************* Processing for branch: DEG-2297-kuk-cms-architecture-development-design-prod *************
+branch 'DEG-2297-kuk-cms-architecture-development-design-prod' set up to track 'origin/DEG-2297-kuk-cms-architecture-development-design-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: DEG-2742 *************
+branch 'DEG-2742' set up to track 'origin/DEG-2742'.
+[DEG-2742 7bf5165] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: DEG-2839-kuk-tap-events *************
+branch 'DEG-2839-kuk-tap-events' set up to track 'origin/DEG-2839-kuk-tap-events'.
+[DEG-2839-kuk-tap-events 514186c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: Feature/DEG-2744 *************
+branch 'Feature/DEG-2744' set up to track 'origin/Feature/DEG-2744'.
+[Feature/DEG-2744 e280ea5] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: Feature/DEG-2749 *************
+branch 'Feature/DEG-2749' set up to track 'origin/Feature/DEG-2749'.
+[Feature/DEG-2749 84097f2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: Kuk-livelecture *************
+branch 'Kuk-livelecture' set up to track 'origin/Kuk-livelecture'.
+file already exist skip remaining steps....
+************* Processing for branch: MG/Dev *************
+branch 'MG/Dev' set up to track 'origin/MG/Dev'.
+file already exist skip remaining steps....
+************* Processing for branch: MG/Prod *************
+branch 'MG/Prod' set up to track 'origin/MG/Prod'.
+file already exist skip remaining steps....
+************* Processing for branch: MG/promotional-banner *************
+branch 'MG/promotional-banner' set up to track 'origin/MG/promotional-banner'.
+file already exist skip remaining steps....
+************* Processing for branch: PB/Influencer-form *************
+branch 'PB/Influencer-form' set up to track 'origin/PB/Influencer-form'.
+file already exist skip remaining steps....
+************* Processing for branch: PB/Influencer-form-prod *************
+branch 'PB/Influencer-form-prod' set up to track 'origin/PB/Influencer-form-prod'.
+[PB/Influencer-form-prod f3f6009] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: PB/Influencer-prod *************
+branch 'PB/Influencer-prod' set up to track 'origin/PB/Influencer-prod'.
+[PB/Influencer-prod 05dc21b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: PB/courseDetails-UI-page *************
+branch 'PB/courseDetails-UI-page' set up to track 'origin/PB/courseDetails-UI-page'.
+file already exist skip remaining steps....
+************* Processing for branch: PB/dev/DEG-2756 *************
+branch 'PB/dev/DEG-2756' set up to track 'origin/PB/dev/DEG-2756'.
+[PB/dev/DEG-2756 7b1f1d1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: PB/diplomaAndCertificate/bugFix *************
+branch 'PB/diplomaAndCertificate/bugFix' set up to track 'origin/PB/diplomaAndCertificate/bugFix'.
+file already exist skip remaining steps....
+************* Processing for branch: PB/diplomaAndCertificates *************
+branch 'PB/diplomaAndCertificates' set up to track 'origin/PB/diplomaAndCertificates'.
+file already exist skip remaining steps....
+************* Processing for branch: PB/german-language-fee-change *************
+branch 'PB/german-language-fee-change' set up to track 'origin/PB/german-language-fee-change'.
+file already exist skip remaining steps....
+************* Processing for branch: PB/influencer-bug-fix *************
+branch 'PB/influencer-bug-fix' set up to track 'origin/PB/influencer-bug-fix'.
+file already exist skip remaining steps....
+************* Processing for branch: PB/influencer-otp-fix *************
+branch 'PB/influencer-otp-fix' set up to track 'origin/PB/influencer-otp-fix'.
+file already exist skip remaining steps....
+************* Processing for branch: PB/influencer-otp-fix-prod *************
+branch 'PB/influencer-otp-fix-prod' set up to track 'origin/PB/influencer-otp-fix-prod'.
+[PB/influencer-otp-fix-prod a6579e7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: PB/lead-otp-testing *************
+branch 'PB/lead-otp-testing' set up to track 'origin/PB/lead-otp-testing'.
+[PB/lead-otp-testing ffe4fce] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: PB/marketing-bugs-diploma-certificate *************
+branch 'PB/marketing-bugs-diploma-certificate' set up to track 'origin/PB/marketing-bugs-diploma-certificate'.
+[PB/marketing-bugs-diploma-certificate da4d1ce] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: PB/multiple-otp-test *************
+branch 'PB/multiple-otp-test' set up to track 'origin/PB/multiple-otp-test'.
+[PB/multiple-otp-test f321c02] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: PB/referral-page-prod *************
+branch 'PB/referral-page-prod' set up to track 'origin/PB/referral-page-prod'.
+[PB/referral-page-prod fc3ff8c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: PB/test-dev-s3 *************
+branch 'PB/test-dev-s3' set up to track 'origin/PB/test-dev-s3'.
+file already exist skip remaining steps....
+************* Processing for branch: Prod/DEG-2756 *************
+branch 'Prod/DEG-2756' set up to track 'origin/Prod/DEG-2756'.
+[Prod/DEG-2756 e05956d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix-upendra/change-promotional-banner *************
+branch 'bugfix-upendra/change-promotional-banner' set up to track 'origin/bugfix-upendra/change-promotional-banner'.
+[bugfix-upendra/change-promotional-banner 1b2fb14] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix-upendra/promotional-banner *************
+branch 'bugfix-upendra/promotional-banner' set up to track 'origin/bugfix-upendra/promotional-banner'.
+[bugfix-upendra/promotional-banner e1e908f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix-upendra/promotional-banner-bug *************
+branch 'bugfix-upendra/promotional-banner-bug' set up to track 'origin/bugfix-upendra/promotional-banner-bug'.
+[bugfix-upendra/promotional-banner-bug b5decba] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix-upendra/remove-promotional-banner *************
+branch 'bugfix-upendra/remove-promotional-banner' set up to track 'origin/bugfix-upendra/remove-promotional-banner'.
+[bugfix-upendra/remove-promotional-banner 6831f73] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+file already exist skip remaining steps....
+************* Processing for branch: develop-kuk *************
+branch 'develop-kuk' set up to track 'origin/develop-kuk'.
+file already exist skip remaining steps....
+************* Processing for branch: diploma-and-certifications *************
+branch 'diploma-and-certifications' set up to track 'origin/diploma-and-certifications'.
+file already exist skip remaining steps....
+************* Processing for branch: diploma-and-certifications-about-page-add-duration *************
+branch 'diploma-and-certifications-about-page-add-duration' set up to track 'origin/diploma-and-certifications-about-page-add-duration'.
+file already exist skip remaining steps....
+************* Processing for branch: feature-upendra/promotional-banner *************
+branch 'feature-upendra/promotional-banner' set up to track 'origin/feature-upendra/promotional-banner'.
+[feature-upendra/promotional-banner e01e50b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature/DEG-2743 *************
+branch 'feature/DEG-2743' set up to track 'origin/feature/DEG-2743'.
+file already exist skip remaining steps....
+************* Processing for branch: fix-upendra/disable-promotional-banner *************
+branch 'fix-upendra/disable-promotional-banner' set up to track 'origin/fix-upendra/disable-promotional-banner'.
+[fix-upendra/disable-promotional-banner 49af5c3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: hotfix/promotional-banner *************
+branch 'hotfix/promotional-banner' set up to track 'origin/hotfix/promotional-banner'.
+[hotfix/promotional-banner f97d99f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: kuk-clever-tap-events *************
+branch 'kuk-clever-tap-events' set up to track 'origin/kuk-clever-tap-events'.
+[kuk-clever-tap-events 6272ca4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: kuk-live-lecture *************
+branch 'kuk-live-lecture' set up to track 'origin/kuk-live-lecture'.
+file already exist skip remaining steps....
+************* Processing for branch: kuk-liveLecture-ui *************
+branch 'kuk-liveLecture-ui' set up to track 'origin/kuk-liveLecture-ui'.
+file already exist skip remaining steps....
+************* Processing for branch: kuk-tap-events *************
+branch 'kuk-tap-events' set up to track 'origin/kuk-tap-events'.
+[kuk-tap-events 4e1c086] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: live-lecture *************
+branch 'live-lecture' set up to track 'origin/live-lecture'.
+file already exist skip remaining steps....
+************* Processing for branch: live-lecture-final *************
+branch 'live-lecture-final' set up to track 'origin/live-lecture-final'.
+file already exist skip remaining steps....
+************* Processing for branch: live-lecture-prod *************
+branch 'live-lecture-prod' set up to track 'origin/live-lecture-prod'.
+file already exist skip remaining steps....
+************* Processing for branch: live-lecture-prod-chages *************
+branch 'live-lecture-prod-chages' set up to track 'origin/live-lecture-prod-chages'.
+file already exist skip remaining steps....
+************* Processing for branch: release/4-3-25 *************
+branch 'release/4-3-25' set up to track 'origin/release/4-3-25'.
+[release/4-3-25 f0feca1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: release/lead-drop-changes *************
+branch 'release/lead-drop-changes' set up to track 'origin/release/lead-drop-changes'.
+file already exist skip remaining steps....
+************* Processing for branch: revert-pr-25 *************
+branch 'revert-pr-25' set up to track 'origin/revert-pr-25'.
+file already exist skip remaining steps....
+************* Processing for branch: revert-pr-26 *************
+branch 'revert-pr-26' set up to track 'origin/revert-pr-26'.
+file already exist skip remaining steps....
+************* Processing for branch: test-webvitals *************
+branch 'test-webvitals' set up to track 'origin/test-webvitals'.
+file already exist skip remaining steps....
+************* Processing for branch: testConversion *************
+branch 'testConversion' set up to track 'origin/testConversion'.
+file already exist skip remaining steps....
+Actioned perform on branch for repo kuk-campus-portal are: BugFix-Feature/DEG-2749DEG-2742DEG-2839-kuk-tap-eventsFeature/DEG-2744Feature/DEG-2749PB/Influencer-form-prodPB/Influencer-prodPB/dev/DEG-2756PB/influencer-otp-fix-prodPB/lead-otp-testingPB/marketing-bugs-diploma-certificatePB/multiple-otp-testPB/referral-page-prodProd/DEG-2756bugfix-upendra/change-promotional-bannerbugfix-upendra/promotional-bannerbugfix-upendra/promotional-banner-bugbugfix-upendra/remove-promotional-bannerfeature-upendra/promotional-bannerfix-upendra/disable-promotional-bannerhotfix/promotional-bannerkuk-clever-tap-eventskuk-tap-eventsrelease/4-3-25  
+Cleanup completed... for kuk-campus-portal
+******************************-----------******************************
+working on repo niuonline_website ........ 
+************* Processing for branch: niu_uat *************
+branch 'niu_uat' set up to track 'origin/niu_uat'.
+[niu_uat 0e73c61] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+Actioned perform on branch for repo niuonline_website are: niu_uat  
+Cleanup completed... for niuonline_website
+******************************-----------******************************
+working on repo atlas-university-website ........ 
+************* Processing for branch: DEG-2863/feature *************
+branch 'DEG-2863/feature' set up to track 'origin/DEG-2863/feature'.
+[DEG-2863/feature a84d53a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/accrediation *************
+branch 'bugfix/accrediation' set up to track 'origin/bugfix/accrediation'.
+[bugfix/accrediation cf854a0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/atlas *************
+branch 'bugfix/atlas' set up to track 'origin/bugfix/atlas'.
+[bugfix/atlas 11a0076] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/atlas-course *************
+branch 'bugfix/atlas-course' set up to track 'origin/bugfix/atlas-course'.
+[bugfix/atlas-course bb31616] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/atlas-home-page *************
+branch 'bugfix/atlas-home-page' set up to track 'origin/bugfix/atlas-home-page'.
+[bugfix/atlas-home-page 2f1faef] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/auxillary *************
+branch 'bugfix/auxillary' set up to track 'origin/bugfix/auxillary'.
+[bugfix/auxillary e109ef0] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/auxillary-pages *************
+branch 'bugfix/auxillary-pages' set up to track 'origin/bugfix/auxillary-pages'.
+[bugfix/auxillary-pages 0932110] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/course *************
+branch 'bugfix/course' set up to track 'origin/bugfix/course'.
+[bugfix/course 1d45b93] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/course-page *************
+branch 'bugfix/course-page' set up to track 'origin/bugfix/course-page'.
+[bugfix/course-page 9ef18f3] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/course-page-atlas *************
+branch 'bugfix/course-page-atlas' set up to track 'origin/bugfix/course-page-atlas'.
+[bugfix/course-page-atlas c98826c] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/header *************
+branch 'bugfix/header' set up to track 'origin/bugfix/header'.
+[bugfix/header deefa63] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: bugfix/home-page-atlas *************
+branch 'bugfix/home-page-atlas' set up to track 'origin/bugfix/home-page-atlas'.
+[bugfix/home-page-atlas ea44266] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+[develop 15481f2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: develop-test *************
+branch 'develop-test' set up to track 'origin/develop-test'.
+[develop-test efa0b5f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature-upendra/atla-university-home-page *************
+branch 'feature-upendra/atla-university-home-page' set up to track 'origin/feature-upendra/atla-university-home-page'.
+[feature-upendra/atla-university-home-page e5a3377] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature-upendra/atlas-auxillary-page *************
+branch 'feature-upendra/atlas-auxillary-page' set up to track 'origin/feature-upendra/atlas-auxillary-page'.
+[feature-upendra/atlas-auxillary-page 1cfb596] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature-upendra/atlas-course-page *************
+branch 'feature-upendra/atlas-course-page' set up to track 'origin/feature-upendra/atlas-course-page'.
+[feature-upendra/atlas-course-page 4b0d002] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature-upendra/atlas-home-page *************
+branch 'feature-upendra/atlas-home-page' set up to track 'origin/feature-upendra/atlas-home-page'.
+[feature-upendra/atlas-home-page ce1f324] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature-upendra/atlas-uni-home-page *************
+branch 'feature-upendra/atlas-uni-home-page' set up to track 'origin/feature-upendra/atlas-uni-home-page'.
+[feature-upendra/atlas-uni-home-page d6feae9] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature-upendra/home-page-atlas *************
+branch 'feature-upendra/home-page-atlas' set up to track 'origin/feature-upendra/home-page-atlas'.
+[feature-upendra/home-page-atlas 42558e8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature/DEG-2863 *************
+branch 'feature/DEG-2863' set up to track 'origin/feature/DEG-2863'.
+[feature/DEG-2863 9629b8d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature/next-config *************
+branch 'feature/next-config' set up to track 'origin/feature/next-config'.
+[feature/next-config 6c8cfb7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: fetaure/DEG-3013 *************
+branch 'fetaure/DEG-3013' set up to track 'origin/fetaure/DEG-3013'.
+[fetaure/DEG-3013 3addac8] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: for-deployemt *************
+branch 'for-deployemt' set up to track 'origin/for-deployemt'.
+[for-deployemt b89e643] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: test *************
+branch 'test' set up to track 'origin/test'.
+[test 332871f] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: testt *************
+branch 'testt' set up to track 'origin/testt'.
+[testt b2dd72b] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+Actioned perform on branch for repo atlas-university-website are: DEG-2863/featurebugfix/accrediationbugfix/atlasbugfix/atlas-coursebugfix/atlas-home-pagebugfix/auxillarybugfix/auxillary-pagesbugfix/coursebugfix/course-pagebugfix/course-page-atlasbugfix/headerbugfix/home-page-atlasdevelopdevelop-testfeature-upendra/atla-university-home-pagefeature-upendra/atlas-auxillary-pagefeature-upendra/atlas-course-pagefeature-upendra/atlas-home-pagefeature-upendra/atlas-uni-home-pagefeature-upendra/home-page-atlasfeature/DEG-2863feature/next-configfetaure/DEG-3013for-deployemttesttestt  
+Cleanup completed... for atlas-university-website
+******************************-----------******************************
+working on repo aspire-be ........ 
+************* Processing for branch: develop *************
+branch 'develop' set up to track 'origin/develop'.
+[develop 1897024] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature.am/common-dev *************
+branch 'feature.am/common-dev' set up to track 'origin/feature.am/common-dev'.
+[feature.am/common-dev b1ad1b2] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature.am/entity-setup-liquibase *************
+branch 'feature.am/entity-setup-liquibase' set up to track 'origin/feature.am/entity-setup-liquibase'.
+[feature.am/entity-setup-liquibase 8054b91] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature.pa/multi-module-setup *************
+branch 'feature.pa/multi-module-setup' set up to track 'origin/feature.pa/multi-module-setup'.
+[feature.pa/multi-module-setup 250518e] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+Actioned perform on branch for repo aspire-be are: developfeature.am/common-devfeature.am/entity-setup-liquibasefeature.pa/multi-module-setup  
+Cleanup completed... for aspire-be
+******************************-----------******************************
+working on repo bdu-campus-porta ........ 
+Actioned perform on branch for repo bdu-campus-porta are:   
+Cleanup completed... for bdu-campus-porta
+******************************-----------******************************
+working on repo aspire-frontend ........ 
+************* Processing for branch: MS/style/design-system-development *************
+branch 'MS/style/design-system-development' set up to track 'origin/MS/style/design-system-development'.
+[MS/style/design-system-development 11e78d7] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: development *************
+branch 'development' set up to track 'origin/development'.
+[development a5f612a] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feat.ms/code-centralization *************
+branch 'feat.ms/code-centralization' set up to track 'origin/feat.ms/code-centralization'.
+[feat.ms/code-centralization e1536d4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feat.ms/during-exam-ui *************
+branch 'feat.ms/during-exam-ui' set up to track 'origin/feat.ms/during-exam-ui'.
+[feat.ms/during-exam-ui 911c4ba] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feat.ms/pre-exam-flow-ui *************
+branch 'feat.ms/pre-exam-flow-ui' set up to track 'origin/feat.ms/pre-exam-flow-ui'.
+[feat.ms/pre-exam-flow-ui 27fae41] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feat.ms/role-based-login *************
+branch 'feat.ms/role-based-login' set up to track 'origin/feat.ms/role-based-login'.
+[feat.ms/role-based-login 153a5ef] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature.kd/code-merge *************
+branch 'feature.kd/code-merge' set up to track 'origin/feature.kd/code-merge'.
+[feature.kd/code-merge 6c177a1] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature.kd/create-test *************
+branch 'feature.kd/create-test' set up to track 'origin/feature.kd/create-test'.
+[feature.kd/create-test bb865b4] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature.kd/react-routing *************
+branch 'feature.kd/react-routing' set up to track 'origin/feature.kd/react-routing'.
+[feature.kd/react-routing 1e75e68] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature.ms/design-system-implementation *************
+branch 'feature.ms/design-system-implementation' set up to track 'origin/feature.ms/design-system-implementation'.
+[feature.ms/design-system-implementation df59b8d] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: feature.ms/redux-setup *************
+branch 'feature.ms/redux-setup' set up to track 'origin/feature.ms/redux-setup'.
+[feature.ms/redux-setup c245818] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+************* Processing for branch: refactor.mg/proctor *************
+branch 'refactor.mg/proctor' set up to track 'origin/refactor.mg/proctor'.
+[refactor.mg/proctor 4b41e20] DO-50 bitbucket-pipelines.yml added
+ 1 file changed, 56 insertions(+)
+ create mode 100644 bitbucket-pipelines.yml
+Actioned perform on branch for repo aspire-frontend are: MS/style/design-system-developmentdevelopmentfeat.ms/code-centralizationfeat.ms/during-exam-uifeat.ms/pre-exam-flow-uifeat.ms/role-based-loginfeature.kd/code-mergefeature.kd/create-testfeature.kd/react-routingfeature.ms/design-system-implementationfeature.ms/redux-setuprefactor.mg/proctor  
+Cleanup completed... for aspire-frontend
+Actioned perform on : te-app-scripts kuk-campus-portal niuonline_website atlas-university-website aspire-be bdu-campus-porta aspire-frontend
