@@ -9,7 +9,7 @@ repos_list=()
 # Loop through all pages of results
 while [ "$url" ]; do
   # Make the API request and process the response
-  response=$(curl -s -u chaitanyagolhar:ATBBkvGz9v9ETSK7tgUcjzBR4NdZA4EAD8A4 --request GET --url "$url")
+  response=$(curl -s -u chaitanyagolhar:ATBBkvGz9A4EAD8A4 --request GET --url "$url")
 
   # Extract repository names and append them to the list
   repos_list+=($(echo "$response" | jq -r '.values[].name'))

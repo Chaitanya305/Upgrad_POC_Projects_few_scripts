@@ -12,7 +12,7 @@ brew install jq || true
 
 sudo apt-get install jq -y || true
 
-variables=("SES_SMTP_USERNAME=AKIAYJYZJFLLZDYPTHMQ" "SES_SMTP_PASSWORD=BB4eJy9oazT37j4JvdUgzUiNNAzdisjN4gefaif2zvKo")
+variables=("SES_SMTP_USERNAME=AKIAYJYZJTHMQ" "SES_SMTP_PASSWORD=BB4eJiNNAzdisjN4gefaif2zvKo")
 
 #getting all repos name for project
 #API URL

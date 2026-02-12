@@ -1,5 +1,5 @@
-user name = chaitanyagolhar
-passkey = ATBBRcqvP3A3jG9ha8JpgWZgcJ4Z6F1A8EF3
+user name = chaiagolhar
+passkey = ATBBRcqvP3A6F1A8EF3
 workspace_id = upgrad_dev
 project_key = DO, AUT, CAR, DA, DAT, TE, IM, IMP
 
