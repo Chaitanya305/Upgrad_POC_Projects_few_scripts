@@ -6,7 +6,7 @@ read -p "Bitbucket Workspace ID: " BITBUCKET_WORKSPACE
 read -p "Project key: " PROJECT_KEY
 #read -p "Provide the bitbucket repo name: " REPO_NAME
 
-variables=("SES_SMTP_USERNAME=AKIAYJZDYPTHMQ" "SES_SMTP_PASSWORD=BB4eJy9oazT3sjN4gefaif2zvKo")
+variables=("SES_SMTP_USERNAME=AZDYPTHMQ" "SES_SMTP_PASSWORD=BBf2zvKo")
 
 # Initial API URL
 url="https://api.bitbucket.org/2.0/repositories/${BITBUCKET_WORKSPACE}?q=project.key%3D%22${PROJECT_KEY}%22"

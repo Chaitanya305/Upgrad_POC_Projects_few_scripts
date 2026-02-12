@@ -22,8 +22,8 @@ sts = boto3.client('sts')
 account_id = sts.get_caller_identity()['Account']
 
 # Database connection settings
-db_user = 'devopsuser'
-db_password = '79SAy53zVx'
+db_user = 'dser'
+db_password = '7Vx'
 db_host = 'upgrad-dev-mysql-devops.cscyttgt1cwf.us-east-1.rds.amazonaws.com'  
 db_name = 'cost_reports'
 connection = pymysql.connect(

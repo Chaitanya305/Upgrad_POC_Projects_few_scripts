@@ -8,7 +8,7 @@ read -p "Bitbucket Workspace ID: " BITBUCKET_WORKSPACE
 
 read -p "Project key: " PROJECT_KEY
 
-variables=("SES_SMTP_USERNAME=AKIAYJYZJFPTHMQ" "SES_SMTP_PASSWORD=BB4eJy9N4gefaif2zvKo")
+variables=("SES_SMTP_USERNAME=AZJFPTHMQ" "SES_SMTP_PASSWORD=Bif2zvKo")
 
 #getting all repos name for project
 #API URL

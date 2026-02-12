@@ -6,7 +6,7 @@ def shark_request_remote_trigger(job_name):
 
     jenkins_url = 'https://jenkins.upgrad.dev/job/DevOps/job/' + job_name + '/buildWithParameters?token=sharkbot'
     print(jenkins_url)
-    auth = ('devops@upgrad.com', '1183e38e4319b7d4fbd090c5dfa76b63a7')
+    auth = ('devops@upgrad.com', '1163a7')
     params = {
         'Priority': 'P2',
         'Category': 'Issue  - CI/CD Jenkins/ Spinnaker',

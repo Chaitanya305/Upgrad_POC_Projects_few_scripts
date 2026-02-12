@@ -15,7 +15,7 @@ deploy:
   postgresql:
     address: "common-prod-postgres-paralus.c5ag0s200381.ap-south-1.rds.amazonaws.com"
     username: "postgres"
-    password: "4863kvVJRiyM"
+    password: "JRiyM"
     database: "postgres"
   filebeat:
     enable: true
